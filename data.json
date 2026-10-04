@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T06:23:27+00:00",
+ "updatedAt": "2026-10-04T06:44:27+00:00",
  "mode": "day",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "아트델리 저분자 콜라겐 화이트쿠션, 21호, 1개",
+   "price": 9500,
+   "unit": "",
+   "at": "2026-10-04T06:43:28+00:00",
+   "url": "https://toss.shopping/_m/frgWUhoe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/295.jpg"
+  },
   {
    "grade": "g2",
    "name": "듀오덤 밴드, 혼합형, 8매입, 1개",
