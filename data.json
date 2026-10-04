@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T23:24:56+00:00",
+ "updatedAt": "2026-10-04T23:37:56+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "잘말려 단단한 최상급 무안 일반양파, 소, 5kg, 1박스",
+   "price": 6910,
+   "unit": "100g당 138원",
+   "at": "2026-10-04T23:36:57+00:00",
+   "url": "https://toss.shopping/_m/BMUxIt3r",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/147.jpg"
+  },
   {
    "grade": "g2",
    "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
