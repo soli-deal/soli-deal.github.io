@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T23:13:56+00:00",
+ "updatedAt": "2026-10-04T23:24:56+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
+   "price": 6930,
+   "unit": "개당 2,310원 · 100g당 722원",
+   "at": "2026-10-04T23:23:56+00:00",
+   "url": "https://toss.shopping/_m/1xBWVf7d",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/618.jpg"
+  },
   {
    "grade": "g0",
    "name": "바른세탁소 액체세제 라임향, 2.5L, 4개",
