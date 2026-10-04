@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T07:16:30+00:00",
+ "updatedAt": "2026-10-04T07:30:30+00:00",
  "mode": "day",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+   "price": 8330,
+   "unit": "",
+   "at": "2026-10-04T07:29:31+00:00",
+   "url": "https://toss.shopping/_m/h9RHpmFz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/106.jpg"
+  },
   {
    "grade": "g0",
    "name": "집드리 질레트 호환 5중날 면도기 세트, 면도기 1개 + 면도날 8개, 1세트",
