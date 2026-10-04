@@ -1,9 +1,86 @@
 {
- "updatedAt": "2026-10-04T00:56:13+00:00",
+ "updatedAt": "2026-10-04T04:47:46+00:00",
  "mode": "day",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "동국제약 파워맥스 쏘팔메토 골드, 1000mg, 30캡슐, 2박스",
+   "price": 15900,
+   "unit": "",
+   "at": "2026-10-04T02:50:13+00:00",
+   "url": "https://toss.shopping/_m/RJ6QLnOu",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1670.jpg"
+  },
+  {
+   "grade": "g0",
+   "name": "올바른 슈퍼 프로바이오틱스 생유산균 19 비타민D, 30포, 2박스",
+   "price": 13900,
+   "unit": "",
+   "at": "2026-10-04T02:35:13+00:00",
+   "url": "https://toss.shopping/_m/N04u5yL5",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1665.jpg"
+  },
+  {
+   "grade": "g3",
+   "name": "와이니즈 질레트 호환용 5중 면도날 면도기 세트, 스윙면도기 1개 + 면도날 24개입, 1세트",
+   "price": 14647,
+   "unit": "",
+   "at": "2026-10-04T02:20:14+00:00",
+   "url": "https://toss.shopping/_m/xQXaatai",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2144.jpg"
+  },
+  {
+   "grade": "g2",
+   "name": "해남 꿀고구마 베니하루카, 한입, 3kg, 1개",
+   "price": 7900,
+   "unit": "100g당 263원",
+   "at": "2026-10-04T02:06:13+00:00",
+   "url": "https://toss.shopping/_m/DG1Ff5Fp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/151.jpg"
+  },
+  {
+   "grade": "g2",
+   "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
+   "price": 13900,
+   "unit": "100g당 278원",
+   "at": "2026-10-04T01:50:13+00:00",
+   "url": "https://toss.shopping/_m/3C5Cy8Uv",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/125.jpg"
+  },
+  {
+   "grade": "g0",
+   "name": "상쾌한 아침 우유식빵, 300g, 1개",
+   "price": 1000,
+   "unit": "100g당 333원",
+   "at": "2026-10-04T01:36:18+00:00",
+   "url": "https://toss.shopping/_m/LgqT5mIj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1716.jpg"
+  },
+  {
+   "grade": "g2",
+   "name": "윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
+   "price": 8000,
+   "unit": "100g당 667원",
+   "at": "2026-10-04T01:20:13+00:00",
+   "url": "https://toss.shopping/_m/9qH8sBVu",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/140.jpg"
+  },
   {
    "grade": "g2",
    "name": "프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
