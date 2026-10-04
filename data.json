@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-04T11:26:30+00:00",
+ "updatedAt": "2026-10-04T11:46:30+00:00",
  "mode": "day",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -309,7 +309,7 @@
    "url": "https://toss.shopping/_m/VVXinGu2",
    "image": "thumbs/90.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-04T11:26:30+00:00"
+   "checked_at": "2026-10-04T11:46:30+00:00"
   },
   {
    "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
@@ -317,15 +317,15 @@
    "url": "https://toss.shopping/_m/NH64Q4R9",
    "image": "thumbs/93.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-04T09:46:30+00:00"
+   "checked_at": "2026-10-04T11:46:30+00:00"
   },
   {
-   "name": "키핀터치 사계 매듭 듀이 글로우 틴트, 03 자두빙수, 3.2g, 1개",
-   "fact": "최근 30일 6번 품절",
-   "url": "https://toss.shopping/_m/xzfM1fvC",
-   "image": "thumbs/175.jpg",
+   "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+   "fact": "최근 30일 5번 품절",
+   "url": "https://toss.shopping/_m/Ts0wu3S5",
+   "image": "thumbs/95.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-04T11:26:30+00:00"
+   "checked_at": "2026-10-04T11:46:30+00:00"
   }
  ]
 }
