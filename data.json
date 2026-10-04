@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T06:19:32+00:00",
+ "updatedAt": "2026-10-04T06:23:27+00:00",
  "mode": "day",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "듀오덤 밴드, 혼합형, 8매입, 1개",
+   "price": 8900,
+   "unit": "",
+   "at": "2026-10-04T06:22:28+00:00",
+   "url": "https://toss.shopping/_m/pnt7mjkB",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/247.jpg"
+  },
   {
    "grade": "g2",
    "name": "동국제약 파워맥스 쏘팔메토 골드, 1000mg, 30캡슐, 2박스",
