@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-10-04T23:00:56+00:00",
+ "updatedAt": "2026-10-04T23:02:56+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g0",
+   "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+   "price": 4990,
+   "unit": "",
+   "at": "2026-10-04T23:01:56+00:00",
+   "url": "https://toss.shopping/_m/Ts0wu3S5",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/95.jpg"
+  }
+ ],
  "picks": []
 }
