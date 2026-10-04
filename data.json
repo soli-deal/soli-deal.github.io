@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T07:30:30+00:00",
+ "updatedAt": "2026-10-04T07:48:30+00:00",
  "mode": "day",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "포케올데이 유부 두부볼 불고기 토핑, 65g, 3개",
+   "price": 8658,
+   "unit": "개당 2,886원 · 100g당 4,440원",
+   "at": "2026-10-04T07:47:30+00:00",
+   "url": "https://toss.shopping/_m/LLh2G6cm",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/129.jpg"
+  },
   {
    "grade": "g5",
    "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
