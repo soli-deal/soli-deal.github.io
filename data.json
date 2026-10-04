@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T06:44:27+00:00",
+ "updatedAt": "2026-10-04T06:59:27+00:00",
  "mode": "day",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "미생물 배수구 냄새 제거제 하수구 세정제, 1000ml, 1개",
+   "price": 9800,
+   "unit": "100ml당 980원",
+   "at": "2026-10-04T06:58:27+00:00",
+   "url": "https://toss.shopping/_m/Z5prqoJo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/805.jpg"
+  },
   {
    "grade": "g2",
    "name": "아트델리 저분자 콜라겐 화이트쿠션, 21호, 1개",
