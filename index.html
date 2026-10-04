@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>솔이의 오늘 특가</title>
-<meta name="description" content="오늘 13개 · 아직 살 수 있는 딜 13개 · 품절되면 바로 표시">
+<meta name="description" content="오늘 20개 · 아직 살 수 있는 딜 20개 · 품절되면 바로 표시">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="솔이의 오늘 특가">
 <meta property="og:title" content="솔이의 오늘 특가">
-<meta property="og:description" content="오늘 13개 · 아직 살 수 있는 딜 13개 · 품절되면 바로 표시">
+<meta property="og:description" content="오늘 20개 · 아직 살 수 있는 딜 20개 · 품절되면 바로 표시">
 <meta property="og:image" content="https://soli-deal.github.io/og-20261004.png">
 <meta property="og:image:width" content="800">
 <meta property="og:image:height" content="400">
@@ -46,7 +46,7 @@ h2{font:400 19px/1.2 var(--f-display);margin:4px 0 0}
 .join:focus-visible,.buy:focus-visible,.pick a:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
 .legend{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:12.5px;color:var(--muted)}
 .legend b{font-weight:700}
-.l5 b{color:var(--g5)} .l4 b{color:var(--g4)} .l3 b{color:var(--g3)} .l0 b{color:var(--g0)}
+.l5 b{color:var(--g5)} .l4 b{color:var(--g4)} .l3 b{color:var(--g3)} .l0 b{color:var(--g0)} .l6 b{color:#0ca678}
 .picks{background:var(--card);border:1.5px solid var(--g4);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:10px}
 .pick .info{min-width:0}
 .pick .fact{color:var(--g4);font-size:12.5px;font-weight:700}
@@ -75,7 +75,7 @@ h2{font:400 19px/1.2 var(--f-display);margin:4px 0 0}
 :root[data-theme="dark"] .stock.in{background:#1e4d2b;color:#8ce99a}
 .deal .top{grid-column:1/-1;display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--muted);flex-wrap:wrap}
 .grade{font:400 14px/1 var(--f-display);padding:4px 8px;border-radius:6px;color:#fff;letter-spacing:.3px}
-.g5 .grade{background:var(--g5)} .g4 .grade{background:var(--g4)} .g3 .grade{background:var(--g3)} .g0 .grade{background:var(--g0)} .g2 .grade{background:var(--g2)}
+.g5 .grade{background:var(--g5)} .g4 .grade{background:var(--g4)} .g3 .grade{background:var(--g3)} .g0 .grade{background:var(--g0)} .g2 .grade{background:var(--g2)} .g6 .grade{background:#0ca678}
 .tag{border:1px solid var(--line);border-radius:6px;padding:1px 6px}
 .info{min-width:0;display:flex;flex-direction:column;gap:2px}
 .name{font-weight:500;font-size:15px;overflow-wrap:anywhere}
@@ -106,6 +106,7 @@ footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:
       <span class="l5"><b>🚨 가격오류</b> 오류 같은 가격 · 취소될 수도</span>
       <span class="l4"><b>⚡ 10분컷</b> 10분 안에 품절되던 상품</span>
       <span class="l3"><b>🔥 30일 최저</b> 한 달 중 지금이 제일 싸요</span>
+      <span class="l6"><b>🚀 급상승</b> 지금 많이 팔리는 중인 신상</span>
       <span class="l0"><b>🧺 쟁여템</b> 쟁여 두면 좋은 생필품</span>
     </div>
   </header>
@@ -128,9 +129,9 @@ footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:
 
 <script>
 const GRADES = {
-  g5: "🚨 가격오류", g4: "⚡ 10분컷", g3: "🔥 30일 최저", g0: "🧺 쟁여템", g2: "👍 오늘 특가",
+  g5: "🚨 가격오류", g4: "⚡ 10분컷", g6: "🚀 급상승", g3: "🔥 30일 최저", g0: "🧺 쟁여템", g2: "👍 오늘 특가",
 };
-const ORDER = {g5: 0, g4: 1, g3: 2, g0: 3, g2: 4};
+const ORDER = {g5: 0, g4: 1, g6: 2, g3: 3, g0: 4, g2: 5};
 // 미리보기용 예시(공개 사이트에서는 쓰지 않는다)
 const SAMPLE = {
   updatedAt: "2026-10-04T10:12:00+09:00", mode: "day", openChatUrl: "https://open.kakao.com/o/gx3BFAPi",
