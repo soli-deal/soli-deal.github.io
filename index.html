@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>솔이의 오늘 특가</title>
+<meta name="description" content="오늘 13개 · 아직 살 수 있는 딜 13개 · 품절되면 바로 표시">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="솔이의 오늘 특가">
+<meta property="og:title" content="솔이의 오늘 특가">
+<meta property="og:description" content="오늘 13개 · 아직 살 수 있는 딜 13개 · 품절되면 바로 표시">
+<meta property="og:image" content="https://soli-deal.github.io/og-20261004.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="400">
+<meta property="og:url" content="https://soli-deal.github.io/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=IBM+Plex+Sans+KR:wght@400;500;700&display=swap">
+<style>
+/* 레이아웃: 한 줄짜리 영수증 같은 딜 목록. 위에서부터 등급 → 이름 → 가격 → 사러 가기, 품절은 흐리게 */
+:root{
+  --bg:#f5f7fb; --card:#ffffff; --ink:#18202f; --muted:#667085; --line:#e3e8f0;
+  --accent:#ff4d2e; --accent-ink:#ffffff;
+  --g5:#c2187a; --g4:#7048e8; --g3:#ff4d2e; --g0:#1c7ed6; --g2:#f08c00; --sold:#98a2b3;
+  --f-display:"Black Han Sans","IBM Plex Sans KR",system-ui,sans-serif;
+  --f-body:"IBM Plex Sans KR",system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f141c; --card:#171e29; --ink:#eef2f8; --muted:#9aa4b5; --line:#263041;
+  --accent:#ff6a4d; --accent-ink:#14171c; --g5:#ff5fae; --g4:#9775fa; --g3:#ff6a4d; --g0:#58a6ff; --g2:#ffb238; --sold:#5d6878; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f141c; --card:#171e29; --ink:#eef2f8; --muted:#9aa4b5; --line:#263041;
+  --accent:#ff6a4d; --accent-ink:#14171c; --g5:#ff5fae; --g4:#9775fa; --g3:#ff6a4d; --g0:#58a6ff; --g2:#ffb238; --sold:#5d6878; color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body);padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+.wrap{max-width:560px;margin:0 auto;padding:20px 16px 40px;display:flex;flex-direction:column;gap:16px}
+header{display:flex;flex-direction:column;gap:10px}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+h1{font:400 30px/1.1 var(--f-display);margin:0;letter-spacing:-.5px;text-wrap:balance}
+h2{font:400 19px/1.2 var(--f-display);margin:4px 0 0}
+.date{color:var(--muted);font-size:13px;font-variant-numeric:tabular-nums}
+.lead{margin:0;color:var(--muted);font-size:14px}
+.join{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--accent);color:var(--accent-ink);
+  text-decoration:none;font-weight:700;border-radius:12px;padding:13px 16px;font-size:15px}
+.join:focus-visible,.buy:focus-visible,.pick a:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:12.5px;color:var(--muted)}
+.legend b{font-weight:700}
+.l5 b{color:var(--g5)} .l4 b{color:var(--g4)} .l3 b{color:var(--g3)} .l0 b{color:var(--g0)}
+.picks{background:var(--card);border:1.5px solid var(--g4);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.pick .info{min-width:0}
+.pick .fact{color:var(--g4);font-size:12.5px;font-weight:700}
+.pick a{text-decoration:none;font-weight:700;font-size:14px;color:var(--accent-ink);background:var(--g4);border-radius:10px;padding:9px 12px;white-space:nowrap}
+.filters{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+.filters::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1.5px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:7px 12px;
+  font:500 13.5px/1 var(--f-body);cursor:pointer;white-space:nowrap}
+.chip b{font-weight:700;color:var(--muted);margin-left:4px;font-variant-numeric:tabular-nums}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip[aria-pressed="true"] b{color:var(--bg)}
+.chip:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.chip.live{border-style:dashed}
+.count{display:flex;justify-content:space-between;font-size:13px;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:8px;gap:8px;flex-wrap:wrap}
+.list{display:flex;flex-direction:column;gap:10px;margin:0;padding:0;list-style:none}
+.deal{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;display:grid;
+  grid-template-columns:1fr auto;gap:6px 12px;align-items:center}
+.deal.has-img{grid-template-columns:auto 1fr auto}
+.thumb{width:64px;height:64px;border-radius:10px;object-fit:cover;background:var(--line);flex:none}
+.pick .thumb{width:48px;height:48px}
+.pick{display:grid;grid-template-columns:1fr auto;gap:8px 10px;align-items:center}
+.pick.has-img{grid-template-columns:auto 1fr auto}
+.stock{font-size:12px;font-weight:700;border-radius:6px;padding:2px 7px;display:inline-block;margin-top:2px}
+.stock.in{background:#d3f9d8;color:#2b8a3e} .stock.out{background:var(--line);color:var(--muted)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .stock.in{background:#1e4d2b;color:#8ce99a}}
+:root[data-theme="dark"] .stock.in{background:#1e4d2b;color:#8ce99a}
+.deal .top{grid-column:1/-1;display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--muted);flex-wrap:wrap}
+.grade{font:400 14px/1 var(--f-display);padding:4px 8px;border-radius:6px;color:#fff;letter-spacing:.3px}
+.g5 .grade{background:var(--g5)} .g4 .grade{background:var(--g4)} .g3 .grade{background:var(--g3)} .g0 .grade{background:var(--g0)} .g2 .grade{background:var(--g2)}
+.tag{border:1px solid var(--line);border-radius:6px;padding:1px 6px}
+.info{min-width:0;display:flex;flex-direction:column;gap:2px}
+.name{font-weight:500;font-size:15px;overflow-wrap:anywhere}
+.price{font-weight:700;font-size:20px;font-variant-numeric:tabular-nums}
+.unit{color:var(--muted);font-size:12.5px;font-weight:400;margin-left:6px}
+.buy{align-self:end;text-decoration:none;font-weight:700;font-size:14px;color:var(--accent);border:1.5px solid var(--accent);
+  border-radius:10px;padding:9px 12px;white-space:nowrap}
+.deal.sold{opacity:.55}
+.deal.sold .grade{background:var(--sold)}
+.deal.sold .buy{color:var(--sold);border-color:var(--sold)}
+.soldmark{color:var(--ink);font-weight:700}
+.empty{background:var(--card);border:1px dashed var(--line);border-radius:14px;padding:22px;text-align:center;color:var(--muted)}
+footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:4px;border-top:1px solid var(--line);padding-top:12px}
+.sample{font-size:12px;color:var(--g3);font-weight:700}
+@media (prefers-reduced-motion:no-preference){.deal{transition:transform .15s} .deal:hover{transform:translateY(-1px)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <h1>솔이의 오늘 특가</h1>
+      <span class="date" id="date"></span>
+    </div>
+    <p class="lead" id="lead">오늘 카톡방에 올린 딜만 모았어요. 품절되면 바로 표시돼요.</p>
+    <a class="join" id="join" href="#" target="_blank" rel="noopener">💬 카톡방에서 실시간으로 받기</a>
+    <div class="legend" aria-label="등급 안내">
+      <span class="l5"><b>🚨 가격오류</b> 오류 같은 가격 · 취소될 수도</span>
+      <span class="l4"><b>⚡ 10분컷</b> 10분 안에 품절되던 상품</span>
+      <span class="l3"><b>🔥 30일 최저</b> 한 달 중 지금이 제일 싸요</span>
+      <span class="l0"><b>🧺 쟁여템</b> 쟁여 두면 좋은 생필품</span>
+    </div>
+  </header>
+
+  <section class="picks" id="picks" hidden>
+    <h2>⏰ 밤 12시 재입고 노려볼 품절템</h2>
+    <div id="pickList"></div>
+  </section>
+
+  <div class="filters" id="filters" role="toolbar" aria-label="등급별로 보기"></div>
+  <div class="count"><span id="count"></span><span id="updated"></span></div>
+  <p class="sample" id="sampleNote" hidden>미리보기 예시 데이터예요</p>
+  <ul class="list" id="list"></ul>
+
+  <footer>
+    <span>가격은 카톡방에 올린 시각 기준이에요. 지금은 바뀌었을 수 있어요.</span>
+    <span>이 페이지의 링크로 구매하면 토스쇼핑 쉐어링크를 통해 수수료를 받습니다.</span>
+  </footer>
+</div>
+
+<script>
+const GRADES = {
+  g5: "🚨 가격오류", g4: "⚡ 10분컷", g3: "🔥 30일 최저", g0: "🧺 쟁여템", g2: "👍 오늘 특가",
+};
+const ORDER = {g5: 0, g4: 1, g3: 2, g0: 3, g2: 4};
+// 미리보기용 예시(공개 사이트에서는 쓰지 않는다)
+const SAMPLE = {
+  updatedAt: "2026-10-04T10:12:00+09:00", mode: "day", openChatUrl: "https://open.kakao.com/o/gx3BFAPi",
+  picks: [],
+  deals: [
+    {grade: "g5", name: "한예지 3겹 데코 화장지 30롤 2팩", price: 12800, unit: "롤당 213원", at: "2026-10-04T08:03:00+09:00", url: "#", sold: false, tag: ""},
+    {grade: "g4", name: "할리스 시그니처 아메리카노 550ml 12개", price: 7990, unit: "개당 666원", at: "2026-10-04T08:29:00+09:00", url: "#", sold: true, tag: ""},
+    {grade: "g3", name: "수뜰리에 딥클린 세탁세제 2.5L 4개", price: 8900, unit: "1L당 890원", at: "2026-10-04T08:55:00+09:00", url: "#", sold: false, tag: "재입고"},
+    {grade: "g0", name: "스파클 생수 2L 24개", price: 9900, unit: "병당 413원", at: "2026-10-04T09:21:00+09:00", url: "#", sold: false, tag: ""},
+  ],
+};
+const won = n => Number(n).toLocaleString("ko-KR") + "원";
+const hhmm = iso => new Date(iso).toLocaleTimeString("ko-KR", {hour: "2-digit", minute: "2-digit", hour12: false, timeZone: "Asia/Seoul"});
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+const safeUrl = u => /^https:\/\//.test(u || "") ? u : "#";
+const safeImg = u => (/^https:\/\//.test(u || "") || /^thumbs\/\d+\.jpg$/.test(u || "")) ? u : null;   // 봇이 만든 160px 썸네일(thumbs/…) 또는 https
+
+let DATA = null, IS_SAMPLE = false;
+const VIEW = {grade: "all", liveOnly: false};
+try { const v = JSON.parse(localStorage.getItem("soli-view") || "{}"); if (v.grade) VIEW.grade = v.grade; VIEW.liveOnly = !!v.liveOnly; } catch (e) {}
+function saveView() { try { localStorage.setItem("soli-view", JSON.stringify(VIEW)); } catch (e) {} }
+
+function renderFilters(deals) {
+  const counts = {};
+  deals.forEach(d => { const k = GRADES[d.grade] ? d.grade : "g2"; counts[k] = (counts[k] || 0) + 1; });
+  if (VIEW.grade !== "all" && !counts[VIEW.grade]) VIEW.grade = "all";
+  const chips = [["all", "전체", deals.length], ...Object.keys(ORDER).filter(k => counts[k]).map(k => [k, GRADES[k], counts[k]])];
+  const live = deals.filter(d => !d.sold).length;
+  const box = document.getElementById("filters");
+  box.innerHTML = chips.map(([k, label, n]) =>
+      `<button type="button" class="chip" data-grade="${k}" aria-pressed="${VIEW.grade === k}">${esc(label)}<b>${n}</b></button>`).join("")
+    + `<button type="button" class="chip live" data-live="1" aria-pressed="${VIEW.liveOnly}">살 수 있는 것만<b>${live}</b></button>`;
+  box.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+    if (b.dataset.live) VIEW.liveOnly = !VIEW.liveOnly; else VIEW.grade = b.dataset.grade;
+    saveView();
+    render(DATA, IS_SAMPLE);
+  }));
+}
+
+function render(data, isSample) {
+  DATA = data; IS_SAMPLE = isSample;
+  document.getElementById("sampleNote").hidden = !isSample;
+  const night = data.mode === "night";
+  document.getElementById("date").textContent = new Date().toLocaleDateString("ko-KR", {month: "long", day: "numeric", weekday: "short", timeZone: "Asia/Seoul"});
+  document.getElementById("lead").textContent = night
+    ? "밤 12시 재입고가 열렸어요. 어제 올린 딜과 품절템을 확인해 보세요."
+    : "오늘 카톡방에 올린 딜만 모았어요. 품절되면 바로 표시돼요.";
+  if (data.openChatUrl) document.getElementById("join").href = safeUrl(data.openChatUrl);
+  const picks = data.picks || [];
+  document.getElementById("picks").hidden = !picks.length;
+  document.getElementById("pickList").innerHTML = picks.map(p => {
+    const img = safeImg(p.image) ? `<img class="thumb" src="${esc(p.image)}" alt="" loading="lazy" decoding="async">` : "";
+    const stock = p.in_stock === true ? `<span class="stock in">✅ 지금 재입고됨 (${hhmm(p.checked_at)} 확인)</span>`
+                : p.in_stock === false ? `<span class="stock out">품절 중 (${hhmm(p.checked_at)} 확인)</span>` : "";
+    return `<div class="pick${img ? " has-img" : ""}">${img}
+      <div class="info"><span class="name">${esc(p.name)}</span>${p.fact ? `<span class="fact">${esc(p.fact)}</span>` : ""}${stock}</div>
+      <a href="${esc(safeUrl(p.url))}" target="_blank" rel="noopener">${p.in_stock ? "지금 사러 가기" : "재입고 확인"}</a></div>`;
+  }).join("");
+  const deals = [...(data.deals || [])].sort((a, b) => (a.sold - b.sold) || ((ORDER[a.grade] ?? 9) - (ORDER[b.grade] ?? 9)) || (b.at < a.at ? -1 : 1));
+  const live = deals.filter(d => !d.sold).length;
+  document.getElementById("count").textContent = `${night ? "어제" : "오늘"} ${deals.length}개 · 아직 살 수 있는 딜 ${live}개`;
+  document.getElementById("updated").textContent = data.updatedAt ? `${hhmm(data.updatedAt)} 업데이트` : "";
+  const list = document.getElementById("list");
+  document.getElementById("filters").hidden = !deals.length;
+  if (deals.length) renderFilters(deals);
+  const shown = deals.filter(d => (VIEW.grade === "all" || (GRADES[d.grade] ? d.grade : "g2") === VIEW.grade) && (!VIEW.liveOnly || !d.sold));
+  if (deals.length && !shown.length) {
+    list.innerHTML = `<li class="empty">이 조건에 맞는 딜이 없어요. '전체'를 눌러 보세요.</li>`;
+    return;
+  }
+  if (!deals.length) {
+    list.innerHTML = `<li class="empty">오늘 딜은 아침 8시부터 올라와요.<br>카톡방에 들어오면 올라오는 순간 받아볼 수 있어요.</li>`;
+    return;
+  }
+  list.innerHTML = shown.map(d => {
+    const key = GRADES[d.grade] ? d.grade : "g2";
+    const img = safeImg(d.image) ? `<img class="thumb" src="${esc(d.image)}" alt="" loading="lazy" decoding="async">` : "";
+    return `<li class="deal ${key}${d.sold ? " sold" : ""}${img ? " has-img" : ""}">
+      <div class="top">
+        <span class="grade">${esc(GRADES[key])}</span>
+        ${d.tag ? `<span class="tag">${esc(d.tag)}</span>` : ""}
+        <span>${hhmm(d.at)} 올림</span>
+        ${d.sold ? `<span class="soldmark">❌ 품절</span>` : ""}
+      </div>
+      ${img}
+      <div class="info">
+        <span class="name">${esc(d.name)}</span>
+        <span class="price">${won(d.price)}${d.unit ? `<span class="unit">${esc(d.unit)}</span>` : ""}</span>
+      </div>
+      <a class="buy" href="${esc(safeUrl(d.url))}" target="_blank" rel="noopener">${d.sold ? "재입고 확인" : "사러 가기"}</a>
+    </li>`;
+  }).join("");
+}
+
+const isPublic = /github\.io$/.test(location.hostname);
+// 최신 데이터는 GitHub 에서 바로 읽는다(Pages 캐시 최대 10분을 건너뜀). 안 되면 페이지와 같이 올라간 data.json
+const LIVE = "https://api.github.com/repos/soli-deal/soli-deal.github.io/contents/data.json";
+let loaded = false;
+function load() {
+  return fetch(LIVE, {cache: "no-store", headers: {Accept: "application/vnd.github.raw+json"}})
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .catch(() => fetch("data.json", {cache: "no-store"}).then(r => r.ok ? r.json() : Promise.reject()))
+    .then(d => { loaded = true; render(d, false); })
+    .catch(() => { if (!loaded) isPublic ? render({deals: [], picks: []}, false) : render(SAMPLE, true); });
+}
+load();
+// 열려 있는 동안 2분마다 새 데이터(방문자당 시간 30번 — GitHub 비로그인 한도 60 안)
+setInterval(() => { if (document.visibilityState === "visible" && isPublic) load(); }, 120000);
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && isPublic) load(); });
+</script>
+</body>
+</html>
