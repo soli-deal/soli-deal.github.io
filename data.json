@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T07:48:30+00:00",
+ "updatedAt": "2026-10-04T08:47:30+00:00",
  "mode": "day",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "웅진식품 가야G워터 생수 무라벨, 500ml, 100개",
+   "price": 15900,
+   "unit": "개당 159원 · 100ml당 32원",
+   "at": "2026-10-04T08:46:32+00:00",
+   "url": "https://toss.shopping/_m/BjZsAYGe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/473.jpg"
+  },
   {
    "grade": "g2",
    "name": "포케올데이 유부 두부볼 불고기 토핑, 65g, 3개",
