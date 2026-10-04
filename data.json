@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T23:37:56+00:00",
+ "updatedAt": "2026-10-04T23:48:56+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
+   "price": 8422,
+   "unit": "100g당 648원",
+   "at": "2026-10-04T23:48:56+00:00",
+   "url": "https://toss.shopping/_m/lqP2R6Ul",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/121.jpg"
+  },
   {
    "grade": "g2",
    "name": "잘말려 단단한 최상급 무안 일반양파, 소, 5kg, 1박스",
