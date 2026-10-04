@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-04T14:59:56+00:00",
- "mode": "day",
+ "updatedAt": "2026-10-04T15:00:56+00:00",
+ "mode": "night",
  "day": "2026-10-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
@@ -304,28 +304,28 @@
  ],
  "picks": [
   {
-   "name": "슬림떡볶이 로제맛, 230g, 4개",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/TNtAxOin",
-   "image": "thumbs/1298.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-04T14:59:16+00:00"
-  },
-  {
-   "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-   "fact": "최근 30일 5번 품절",
-   "url": "https://toss.shopping/_m/ZQHrOS2b",
-   "image": "thumbs/89.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-04T14:59:16+00:00"
-  },
-  {
    "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
    "fact": "최근 30일 7번 품절",
    "url": "https://toss.shopping/_m/VVXinGu2",
    "image": "thumbs/90.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-04T14:59:16+00:00"
+   "checked_at": "2026-10-04T15:00:36+00:00"
+  },
+  {
+   "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
+   "fact": "최근 30일 6번 품절",
+   "url": "https://toss.shopping/_m/NH64Q4R9",
+   "image": "thumbs/93.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-04T15:00:36+00:00"
+  },
+  {
+   "name": "생선숙편 꼬치어묵, 240g, 4개 + 짬뽕 어묵탕 소스, 50g, 4개",
+   "fact": "최근 30일 4번 품절",
+   "url": "https://toss.shopping/_m/P2mp1wS4",
+   "image": "thumbs/104.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-04T15:00:36+00:00"
   }
  ]
 }
