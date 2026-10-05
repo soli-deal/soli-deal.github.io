@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T23:37:30+00:00",
+ "updatedAt": "2026-10-05T23:49:30+00:00",
  "mode": "day",
  "day": "2026-10-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "유한메디카 고함량 마그네슘 엔 탑 400 맥스, 90정, 2개",
+   "price": 16016,
+   "unit": "개당 8,008원",
+   "at": "2026-10-05T23:49:31+00:00",
+   "url": "https://toss.shopping/_m/TR6HUgHs",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/264.jpg"
+  },
   {
    "grade": "g2",
    "name": "해표 순알콩 양조간장, 840ml, 4개",
