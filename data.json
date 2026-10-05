@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T00:31:56+00:00",
+ "updatedAt": "2026-10-05T00:44:56+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "포천이동 양념LA갈비, 500g, 1팩",
+   "price": 6990,
+   "unit": "100g당 1,398원",
+   "at": "2026-10-05T00:48:58+00:00",
+   "url": "https://toss.shopping/_m/fcxJlSvC",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/101.jpg"
+  },
   {
    "grade": "g2",
    "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
