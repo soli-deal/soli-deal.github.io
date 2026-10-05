@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T01:24:55+00:00",
+ "updatedAt": "2026-10-05T01:38:55+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "독일 콕스타 스타크 다지기, 1개",
+   "price": 32900,
+   "unit": "",
+   "at": "2026-10-05T01:37:55+00:00",
+   "url": "https://toss.shopping/_m/JnOX3Iq4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1336.jpg"
+  },
   {
    "grade": "g5",
    "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 4개",
