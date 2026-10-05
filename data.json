@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T01:12:55+00:00",
+ "updatedAt": "2026-10-05T01:24:55+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 4개",
+   "price": 12800,
+   "unit": "개당 3,200원 · 100ml당 640원",
+   "at": "2026-10-05T01:24:55+00:00",
+   "url": "https://toss.shopping/_m/RYLGZ4xt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1563.jpg"
+  },
   {
    "grade": "g5",
    "name": "예진원 국내산 ABC주스, 80ml, 35개",
