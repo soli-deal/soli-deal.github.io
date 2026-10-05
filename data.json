@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T07:15:55+00:00",
+ "updatedAt": "2026-10-05T10:19:55+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "하루견과 The오리지널, 20g, 20봉",
+   "price": 16800,
+   "unit": "봉당 840원 · 100g당 4,200원",
+   "at": "2026-10-05T10:18:55+00:00",
+   "url": "https://toss.shopping/_m/tsjP5gZk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2055.jpg"
+  },
   {
    "grade": "g0",
    "name": "위니즈 퓨전 프로쉴드 5중날 질레트 호환용 면도기날 세트, 면도기 1개 + 면도날 12개입",
