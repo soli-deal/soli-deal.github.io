@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T23:27:30+00:00",
+ "updatedAt": "2026-10-05T23:37:30+00:00",
  "mode": "day",
  "day": "2026-10-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "해표 순알콩 양조간장, 840ml, 4개",
+   "price": 11500,
+   "unit": "개당 2,875원 · 100ml당 342원",
+   "at": "2026-10-05T23:36:30+00:00",
+   "url": "https://toss.shopping/_m/jnVjdO6g",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/157.jpg"
+  },
   {
    "grade": "g0",
    "name": "리벤스 라벤더 바이올렛 물티슈, 100매, 10팩",
