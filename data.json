@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T11:15:55+00:00",
+ "updatedAt": "2026-10-05T11:35:55+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -196,7 +196,7 @@
    "url": "https://toss.shopping/_m/VVXinGu2",
    "image": "thumbs/90.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-05T11:15:56+00:00"
+   "checked_at": "2026-10-05T11:35:55+00:00"
   },
   {
    "name": "맛꾼 메추리알 장조림, 1kg, 2개",
@@ -204,7 +204,7 @@
    "url": "https://toss.shopping/_m/VAlwiCRa",
    "image": "thumbs/92.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-05T09:35:55+00:00"
+   "checked_at": "2026-10-05T11:35:55+00:00"
   }
  ]
 }
