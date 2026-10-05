@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T00:03:56+00:00",
+ "updatedAt": "2026-10-05T00:16:56+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "나누담 물받이 밀폐용기, 3000ml, 2개",
+   "price": 5950,
+   "unit": "개당 2,975원 · 100ml당 99원",
+   "at": "2026-10-05T00:16:56+00:00",
+   "url": "https://toss.shopping/_m/Lfpeo21g",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/118.jpg"
+  },
   {
    "grade": "g0",
    "name": "메디핏 잇몸치약, 120g, 4개",
