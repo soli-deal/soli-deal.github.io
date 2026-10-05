@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-04T23:48:56+00:00",
+ "updatedAt": "2026-10-05T00:03:56+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "메디핏 잇몸치약, 120g, 4개",
+   "price": 14900,
+   "unit": "개당 3,725원 · 100g당 3,104원",
+   "at": "2026-10-05T00:02:57+00:00",
+   "url": "https://toss.shopping/_m/1vxCzoXg",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1509.jpg"
+  },
   {
    "grade": "g2",
    "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
