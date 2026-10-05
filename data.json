@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T15:51:30+00:00",
+ "updatedAt": "2026-10-05T15:56:30+00:00",
  "mode": "night",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -194,12 +194,20 @@
  ],
  "picks": [
   {
+   "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
+   "fact": "자정 재입고 후 4분 안에 품절(최근 5번)",
+   "url": "https://toss.shopping/_m/XTr0DSwi",
+   "image": "thumbs/437.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-05T15:56:10+00:00"
+  },
+  {
    "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
    "fact": "자정 재입고 후 5분 안에 품절(최근 1번)",
    "url": "https://toss.shopping/_m/NH64Q4R9",
    "image": "thumbs/93.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-05T15:50:50+00:00"
+   "checked_at": "2026-10-05T15:56:10+00:00"
   },
   {
    "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
@@ -207,15 +215,7 @@
    "url": "https://toss.shopping/_m/btYVJ6Cx",
    "image": null,
    "in_stock": false,
-   "checked_at": "2026-10-05T15:50:50+00:00"
-  },
-  {
-   "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-   "fact": "최근 30일 7번 품절",
-   "url": "https://toss.shopping/_m/VVXinGu2",
-   "image": "thumbs/90.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-05T15:50:50+00:00"
+   "checked_at": "2026-10-05T15:56:10+00:00"
   }
  ]
 }
