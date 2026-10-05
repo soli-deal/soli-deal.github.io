@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T00:44:56+00:00",
+ "updatedAt": "2026-10-05T00:59:55+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
+   "price": 8900,
+   "unit": "개당 742원 · 100ml당 212원",
+   "at": "2026-10-05T00:58:56+00:00",
+   "url": "https://toss.shopping/_m/nrFbf7A3",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1703.jpg"
+  },
   {
    "grade": "g5",
    "name": "포천이동 양념LA갈비, 500g, 1팩",
