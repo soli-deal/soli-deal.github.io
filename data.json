@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-05T11:35:55+00:00",
+ "updatedAt": "2026-10-05T11:39:55+00:00",
  "mode": "day",
  "day": "2026-10-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
+   "price": 4700,
+   "unit": "",
+   "at": "2026-10-05T11:38:56+00:00",
+   "url": "https://toss.shopping/_m/TVXQ12ve",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/139.jpg"
+  },
   {
    "grade": "g0",
    "name": "하루견과 The오리지널, 20g, 20봉",
