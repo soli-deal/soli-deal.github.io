@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-06T01:43:30+00:00",
+ "updatedAt": "2026-10-06T03:32:30+00:00",
  "mode": "day",
  "day": "2026-10-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "정녹삼 6년근 홍삼진액 밸런스, 50ml, 30포, 1세트",
+   "price": 13900,
+   "unit": "",
+   "at": "2026-10-06T03:31:31+00:00",
+   "url": "https://toss.shopping/_m/HPMbeZCD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2484.jpg"
+  },
   {
    "grade": "g5",
    "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
