@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-06T11:20:30+00:00",
+ "updatedAt": "2026-10-06T11:26:30+00:00",
  "mode": "day",
  "day": "2026-10-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "아이앤어스 3스텝 캡슐 식기세척기 타블렛 세제, 레몬향, 50개입, 500g, 3개",
+   "price": 15980,
+   "unit": "개당 5,327원 · 100g당 1,065원",
+   "at": "2026-10-06T11:25:31+00:00",
+   "url": "https://toss.shopping/_m/thR5ZJy9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2452.jpg"
+  },
   {
    "grade": "g0",
    "name": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
