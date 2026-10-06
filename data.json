@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-06T01:10:30+00:00",
+ "updatedAt": "2026-10-06T01:13:30+00:00",
  "mode": "day",
  "day": "2026-10-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
+   "price": 10990,
+   "unit": "개당 5,495원 · 100g당 550원",
+   "at": "2026-10-06T01:12:31+00:00",
+   "url": "https://toss.shopping/_m/NaYWf4dl",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1235.jpg"
+  },
   {
    "grade": "g5",
    "name": "질레트 호환용 신형 프로글라이드 퓨전파워 5중 면도날, 16개",
