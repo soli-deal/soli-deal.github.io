@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-06T23:11:30+00:00",
+ "updatedAt": "2026-10-06T23:26:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "한국생활건강연구소 락토페린 글루타치온 모로오렌지 비타민C, 60정, 1개",
+   "price": 5900,
+   "unit": "",
+   "at": "2026-10-06T23:25:30+00:00",
+   "url": "https://toss.shopping/_m/By4WnTdw",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2691.jpg"
+  },
   {
    "grade": "g5",
    "name": "대용량 삼겹살, 1kg, 5팩",
