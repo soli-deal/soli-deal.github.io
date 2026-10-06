@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-06T06:50:30+00:00",
+ "updatedAt": "2026-10-06T07:33:30+00:00",
  "mode": "day",
  "day": "2026-10-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "메디핏 잇몸치약, 120g, 2개",
+   "price": 8900,
+   "unit": "개당 4,450원 · 100g당 3,708원",
+   "at": "2026-10-06T07:32:30+00:00",
+   "url": "https://toss.shopping/_m/19XRtKMe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2434.jpg"
+  },
   {
    "grade": "g2",
    "name": "쉬젤 아티 내열유리 혼합 10종 세트, 320ml 3개 + 400ml 3개 + 520ml 2개 + 640ml 2개, 1세트",
