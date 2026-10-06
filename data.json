@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-06T01:28:30+00:00",
+ "updatedAt": "2026-10-06T01:32:30+00:00",
  "mode": "day",
  "day": "2026-10-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "대상 루테인 플러스, 30캡슐, 6박스",
+   "price": 15670,
+   "unit": "",
+   "at": "2026-10-06T01:31:30+00:00",
+   "url": "https://toss.shopping/_m/DJ372HxD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2478.jpg"
+  },
   {
    "grade": "g0",
    "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
