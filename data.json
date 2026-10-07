@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-07T14:59:30+00:00",
- "mode": "day",
+ "updatedAt": "2026-10-07T15:00:30+00:00",
+ "mode": "night",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
@@ -205,28 +205,20 @@
  ],
  "picks": [
   {
-   "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
-   "fact": "자정 재입고 후 5분 안에 품절(최근 6번)",
-   "url": "https://toss.shopping/_m/XTr0DSwi",
-   "image": "thumbs/437.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-07T14:58:50+00:00"
-  },
-  {
-   "name": "슬림떡볶이 로제맛, 230g, 4개",
-   "fact": "최근 30일 6번 품절",
-   "url": "https://toss.shopping/_m/TNtAxOin",
-   "image": "thumbs/1298.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-07T14:58:50+00:00"
-  },
-  {
    "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
    "fact": "최근 30일 8번 품절",
    "url": "https://toss.shopping/_m/VVXinGu2",
    "image": "thumbs/90.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-07T14:58:50+00:00"
+   "checked_at": "2026-10-07T15:00:10+00:00"
+  },
+  {
+   "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+   "fact": "최근 30일 5번 품절",
+   "url": "https://toss.shopping/_m/VAlwiCRa",
+   "image": "thumbs/92.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-07T15:00:10+00:00"
   }
  ]
 }
