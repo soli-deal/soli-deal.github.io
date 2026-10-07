@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-06T23:49:30+00:00",
+ "updatedAt": "2026-10-07T00:19:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 3박스",
+   "price": 10830,
+   "unit": "",
+   "at": "2026-10-07T00:19:30+00:00",
+   "url": "https://toss.shopping/_m/l9yQKvch",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2656.jpg"
+  },
   {
    "grade": "g5",
    "name": "센토 단백질 두피케어 볼륨샴푸, 플로럴 머스크향, 1.1L, 2개",
