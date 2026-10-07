@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T04:04:30+00:00",
+ "updatedAt": "2026-10-07T07:32:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "잘 닦일수밖에 없고 평생 쓸수밖에 없는 매직걸레, 5장",
+   "price": 5340,
+   "unit": "",
+   "at": "2026-10-07T07:31:30+00:00",
+   "url": "https://toss.shopping/_m/f3fcEDlw",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/225.jpg"
+  },
   {
    "grade": "g3",
    "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
