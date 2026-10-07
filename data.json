@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T02:31:30+00:00",
+ "updatedAt": "2026-10-07T02:50:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 4개",
+   "price": 15000,
+   "unit": "개당 3,750원",
+   "at": "2026-10-07T02:49:30+00:00",
+   "url": "https://toss.shopping/_m/BCAEcbw4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2575.jpg"
+  },
   {
    "grade": "g5",
    "name": "포천이동 양념LA갈비, 500g, 1팩",
