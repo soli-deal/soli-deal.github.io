@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T23:29:55+00:00",
+ "updatedAt": "2026-10-07T23:40:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "빌리스 홈 퍼펙트 듀얼 클린 캡슐세제 플로럴, 8g, 100개입, 2개",
+   "price": 10440,
+   "unit": "개당 5,220원",
+   "at": "2026-10-07T23:40:58+00:00",
+   "url": "https://toss.shopping/_m/3pz4O9vj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2894.jpg"
+  },
   {
    "grade": "g5",
    "name": "리얼닥터 닥터픽 생 유산균, 2g, 180포, 1박스",
