@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T02:08:30+00:00",
+ "updatedAt": "2026-10-07T02:20:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "빅토나인 펩타이드 앤 비타민 리프팅 앰플, 50ml, 2개",
+   "price": 20021,
+   "unit": "개당 10,010원 · 100ml당 20,021원",
+   "at": "2026-10-07T02:19:30+00:00",
+   "url": "https://toss.shopping/_m/B7L9Zj0b",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2710.jpg"
+  },
   {
    "grade": "g5",
    "name": "케라시스 퍼퓸 바이올렛 로즈 샴푸, 1L, 2개 + 린스, 1L, 1개",
