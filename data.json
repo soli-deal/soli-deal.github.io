@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T01:31:30+00:00",
+ "updatedAt": "2026-10-07T01:50:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "케라시스 퍼퓸 바이올렛 로즈 샴푸, 1L, 2개 + 린스, 1L, 1개",
+   "price": 8900,
+   "unit": "100ml당 890원",
+   "at": "2026-10-07T01:49:30+00:00",
+   "url": "https://toss.shopping/_m/P2VNUe26",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2594.jpg"
+  },
   {
    "grade": "g2",
    "name": "슬림떡볶이 로제맛, 230g, 4개",
