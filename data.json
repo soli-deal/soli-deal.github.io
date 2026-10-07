@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T00:48:30+00:00",
+ "updatedAt": "2026-10-07T01:20:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "천년참기름, 350ml, 2개",
+   "price": 11500,
+   "unit": "개당 5,750원 · 100ml당 1,643원",
+   "at": "2026-10-07T01:19:31+00:00",
+   "url": "https://toss.shopping/_m/ZAlYwVir",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2638.jpg"
+  },
   {
    "grade": "g5",
    "name": "예지미인 데일리센스 요실금 기저귀 팬티형, 대형, 9개입, 8팩",
