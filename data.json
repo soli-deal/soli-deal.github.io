@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T01:20:30+00:00",
+ "updatedAt": "2026-10-07T01:31:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "슬림떡볶이 로제맛, 230g, 4개",
+   "price": 5530,
+   "unit": "개당 1,382원 · 100g당 601원",
+   "at": "2026-10-07T01:30:36+00:00",
+   "url": "https://toss.shopping/_m/TNtAxOin",
+   "sold": false,
+   "tag": "재입고",
+   "image": "thumbs/1298.jpg"
+  },
   {
    "grade": "g5",
    "name": "천년참기름, 350ml, 2개",
