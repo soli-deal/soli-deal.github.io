@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T10:28:30+00:00",
+ "updatedAt": "2026-10-07T10:30:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -55,7 +55,7 @@
    "unit": "",
    "at": "2026-10-07T03:32:31+00:00",
    "url": "https://toss.shopping/_m/Ts0wu3S5",
-   "sold": false,
+   "sold": true,
    "tag": "재입고",
    "image": "thumbs/95.jpg"
   },
