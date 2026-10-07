@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T02:50:30+00:00",
+ "updatedAt": "2026-10-07T03:33:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+   "price": 4990,
+   "unit": "",
+   "at": "2026-10-07T03:32:31+00:00",
+   "url": "https://toss.shopping/_m/Ts0wu3S5",
+   "sold": false,
+   "tag": "재입고",
+   "image": "thumbs/95.jpg"
+  },
   {
    "grade": "g5",
    "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 4개",
