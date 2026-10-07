@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T11:18:30+00:00",
+ "updatedAt": "2026-10-07T11:24:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "맛장군 열무김치, 2kg, 1팩",
+   "price": 10900,
+   "unit": "100g당 545원",
+   "at": "2026-10-07T11:23:30+00:00",
+   "url": "https://toss.shopping/_m/DtbXDRbm",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1689.jpg"
+  },
   {
    "grade": "g2",
    "name": "유리아 포레스티 땅콩버터, 260g, 2개",
