@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-07T03:33:30+00:00",
+ "updatedAt": "2026-10-07T04:04:30+00:00",
  "mode": "day",
  "day": "2026-10-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g3",
+   "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
+   "price": 10900,
+   "unit": "",
+   "at": "2026-10-07T04:03:30+00:00",
+   "url": "https://toss.shopping/_m/vBuZk9Yu",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1503.jpg"
+  },
   {
    "grade": "g0",
    "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
