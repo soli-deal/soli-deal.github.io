@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-10-07T23:00:55+00:00",
+ "updatedAt": "2026-10-07T23:04:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "유한메디카 징코 플러스 엔 탑 혈행 기억력 케어, 60정, 1개",
+   "price": 9731,
+   "unit": "",
+   "at": "2026-10-07T23:03:57+00:00",
+   "url": "https://toss.shopping/_m/PIRO0Z3v",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/248.jpg"
+  }
+ ],
  "picks": []
 }
