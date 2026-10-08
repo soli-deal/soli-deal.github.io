@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T03:03:55+00:00",
+ "updatedAt": "2026-10-08T03:14:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -55,7 +55,7 @@
    "unit": "개당 5,190원",
    "at": "2026-10-08T01:22:58+00:00",
    "url": "https://toss.shopping/_m/BmSyFd6C",
-   "sold": true,
+   "sold": false,
    "tag": "",
    "image": "thumbs/2822.jpg"
   },
