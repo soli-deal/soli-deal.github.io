@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-08T00:22:55+00:00",
+ "updatedAt": "2026-10-08T00:51:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "예진원 국내산 ABC주스, 80ml, 35개",
+   "price": 5990,
+   "unit": "개당 171원 · 100ml당 214원",
+   "at": "2026-10-08T00:53:46+00:00",
+   "url": "https://toss.shopping/_m/PSSKG1e1",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2146.jpg"
+  },
   {
    "grade": "g5",
    "name": "맥스앤맥스 김치통&그린톡톡 밀폐용기 세트, 실속 12종B, 1개",
