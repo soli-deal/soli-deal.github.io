@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-08T23:01:55+00:00",
+ "updatedAt": "2026-10-08T23:14:55+00:00",
  "mode": "day",
  "day": "2026-10-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "전통압착 통참기름, 350ml, 2개",
+   "price": 9900,
+   "unit": "개당 4,950원 · 100ml당 1,414원",
+   "at": "2026-10-08T23:14:37+00:00",
+   "url": "https://toss.shopping/_m/BXAhhWSD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2227.jpg"
+  },
   {
    "grade": "g5",
    "name": "해표 순알콩 양조간장, 840ml, 4개",
