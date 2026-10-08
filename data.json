@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-08T04:04:55+00:00",
+ "updatedAt": "2026-10-08T04:32:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "이장네푸드 진한 들기름, 350ml, 2개",
+   "price": 12020,
+   "unit": "개당 6,010원 · 100ml당 1,717원",
+   "at": "2026-10-08T04:31:59+00:00",
+   "url": "https://toss.shopping/_m/ph0Ricrt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1794.jpg"
+  },
   {
    "grade": "g2",
    "name": "일양약품 눈건강 루테인 골드, 500mg, 30캡슐, 4박스",
