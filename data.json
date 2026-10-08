@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-08T03:15:55+00:00",
+ "updatedAt": "2026-10-08T03:34:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+   "price": 12800,
+   "unit": "",
+   "at": "2026-10-08T03:33:58+00:00",
+   "url": "https://toss.shopping/_m/VVXinGu2",
+   "sold": false,
+   "tag": "재입고",
+   "image": "thumbs/90.jpg"
+  },
   {
    "grade": "g5",
    "name": "클라 듀얼 울트라 클린 캡슐세제, 프리지아, 8g, 100개입, 3개",
