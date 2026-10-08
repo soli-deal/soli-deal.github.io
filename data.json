@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-08T01:40:55+00:00",
+ "updatedAt": "2026-10-08T01:52:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "네이처바이 에센스 마스크팩, 혼합 B타입, 100개입, 1개",
+   "price": 17540,
+   "unit": "",
+   "at": "2026-10-08T01:52:57+00:00",
+   "url": "https://toss.shopping/_m/jRH4yF5r",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2838.jpg"
+  },
   {
    "grade": "g5",
    "name": "클라 듀얼 울트라 클린 캡슐세제, 프리지아, 8g, 100개입, 3개",
