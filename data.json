@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-08T03:34:55+00:00",
+ "updatedAt": "2026-10-08T04:04:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "일양약품 눈건강 루테인 골드, 500mg, 30캡슐, 4박스",
+   "price": 21000,
+   "unit": "",
+   "at": "2026-10-08T04:03:58+00:00",
+   "url": "https://toss.shopping/_m/Ps0Dd4Sz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1663.jpg"
+  },
   {
    "grade": "g0",
    "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
