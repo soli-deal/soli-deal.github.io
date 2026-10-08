@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-08T11:14:55+00:00",
+ "updatedAt": "2026-10-08T11:22:55+00:00",
  "mode": "day",
  "day": "2026-10-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "자이글 스텐요리돔, 35cm, 1개",
+   "price": 4100,
+   "unit": "",
+   "at": "2026-10-08T11:22:59+00:00",
+   "url": "https://toss.shopping/_m/VArGk8Pz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2760.jpg"
+  },
   {
    "grade": "g3",
    "name": "와이니즈 질레트 호환용 5중 면도날 면도기 세트, 스윙면도기 1개 + 면도날 32개입, 1세트",
