@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-09T04:04:55+00:00",
+ "updatedAt": "2026-10-09T04:34:55+00:00",
  "mode": "day",
  "day": "2026-10-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "닥터킴스 MSM 콘드로이친 1300 마사지크림, 150ml, 3개",
+   "price": 8170,
+   "unit": "개당 2,723원 · 100ml당 1,816원",
+   "at": "2026-10-09T04:33:59+00:00",
+   "url": "https://toss.shopping/_m/7ZPkf6tw",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2956.jpg"
+  },
   {
    "grade": "g2",
    "name": "팬톤 ANC 노이즈캔슬링 터치스크린 오토 페어링 아이폰 호환 C타입 충전 무선 블루투스 이어폰 BT350A, 베이지, 1개",
