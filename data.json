@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-08T23:50:55+00:00",
+ "updatedAt": "2026-10-09T00:20:55+00:00",
  "mode": "day",
  "day": "2026-10-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "제스타 칫솔, 부드러운 미세모, 20개입, 1개",
+   "price": 7500,
+   "unit": "",
+   "at": "2026-10-09T00:19:58+00:00",
+   "url": "https://toss.shopping/_m/1Yyy8KeB",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2313.jpg"
+  },
   {
    "grade": "g5",
    "name": "리벤스 라벤더 바이올렛 물티슈, 100매, 10팩",
