@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-09T23:12:31+00:00",
+ "updatedAt": "2026-10-09T23:27:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
+   "price": 14900,
+   "unit": "100g당 745원",
+   "at": "2026-10-09T23:26:33+00:00",
+   "url": "https://toss.shopping/_m/B4ce1KXy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3224.jpg"
+  },
   {
    "grade": "g5",
    "name": "대용량 삼겹살, 1kg, 4팩",
