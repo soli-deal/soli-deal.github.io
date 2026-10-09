@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-10-09T23:00:31+00:00",
+ "updatedAt": "2026-10-09T23:12:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g5",
+   "name": "대용량 삼겹살, 1kg, 4팩",
+   "price": 31900,
+   "unit": "100g당 798원",
+   "at": "2026-10-09T23:11:58+00:00",
+   "url": "https://toss.shopping/_m/FwLr1gg3",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3144.jpg"
+  }
+ ],
  "picks": []
 }
