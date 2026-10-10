@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-10T03:03:31+00:00",
+ "updatedAt": "2026-10-10T03:34:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "메디핏 잇몸치약, 120g, 1개",
+   "price": 6499,
+   "unit": "100g당 5,416원",
+   "at": "2026-10-10T03:33:33+00:00",
+   "url": "https://toss.shopping/_m/9UhxT3Tk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3332.jpg"
+  },
   {
    "grade": "g2",
    "name": "크리스찬딘 포 옴므 오드퍼퓸, 클린코튼, 50ml, 2개",
