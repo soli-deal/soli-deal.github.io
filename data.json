@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-10T10:28:31+00:00",
+ "updatedAt": "2026-10-10T10:42:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "예진원 국내산 ABC주스, 80ml, 35개",
+   "price": 5990,
+   "unit": "개당 171원 · 100ml당 214원",
+   "at": "2026-10-10T10:41:50+00:00",
+   "url": "https://toss.shopping/_m/PSSKG1e1",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2146.jpg"
+  },
   {
    "grade": "g2",
    "name": "라만트 퓨어 블랙 무설탕, 200g, 100개입, 1개",
