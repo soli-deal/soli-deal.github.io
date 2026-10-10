@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-10T01:07:31+00:00",
+ "updatedAt": "2026-10-10T01:21:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "프롬 커피크래커, 345g, 2개",
+   "price": 7760,
+   "unit": "개당 3,880원 · 100g당 1,125원",
+   "at": "2026-10-10T01:20:33+00:00",
+   "url": "https://toss.shopping/_m/1OgB6Jqi",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1327.jpg"
+  },
   {
    "grade": "g5",
    "name": "베라 뱀부 뽑아쓰는 키친타올, 3겹, 팝업, 100매, 9팩",
