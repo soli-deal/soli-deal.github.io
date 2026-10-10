@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-09T23:51:31+00:00",
+ "updatedAt": "2026-10-10T00:20:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "코오롱제약 올인원 하루한알 멀티비타민, 60정, 2개",
+   "price": 7900,
+   "unit": "개당 3,950원",
+   "at": "2026-10-10T00:20:35+00:00",
+   "url": "https://toss.shopping/_m/z7e4obFo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3150.jpg"
+  },
   {
    "grade": "g5",
    "name": "킬로 딥클리어 클린 액체 세탁세제, 코튼향, 일반 드럼 겸용, 2.5L, 4개",
