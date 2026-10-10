@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-10T01:31:31+00:00",
+ "updatedAt": "2026-10-10T01:51:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "슈퍼딥큐 캡슐세제, 오션브리즈 42개입 1개 + 플라워 코튼 42개입 1개, 1세트",
+   "price": 5900,
+   "unit": "",
+   "at": "2026-10-10T01:50:32+00:00",
+   "url": "https://toss.shopping/_m/7dn8Flj8",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1570.jpg"
+  },
   {
    "grade": "g0",
    "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
