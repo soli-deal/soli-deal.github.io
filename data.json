@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-10T02:51:31+00:00",
+ "updatedAt": "2026-10-10T03:03:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "크리스찬딘 포 옴므 오드퍼퓸, 클린코튼, 50ml, 2개",
+   "price": 12610,
+   "unit": "개당 6,305원 · 100ml당 12,610원",
+   "at": "2026-10-10T03:02:34+00:00",
+   "url": "https://toss.shopping/_m/7jsv3OXt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3238.jpg"
+  },
   {
    "grade": "g5",
    "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 4개",
