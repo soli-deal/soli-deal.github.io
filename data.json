@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T11:21:31+00:00",
+ "updatedAt": "2026-10-10T11:29:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -232,7 +232,7 @@
    "url": "https://toss.shopping/_m/XTr0DSwi",
    "image": "thumbs/437.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-10T11:19:01+00:00"
+   "checked_at": "2026-10-10T11:29:01+00:00"
   },
   {
    "name": "슬림떡볶이 로제맛, 230g, 4개",
@@ -240,7 +240,7 @@
    "url": "https://toss.shopping/_m/TNtAxOin",
    "image": "thumbs/1298.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-10T11:21:32+00:00"
+   "checked_at": "2026-10-10T11:29:01+00:00"
   },
   {
    "name": "맛꾼 메추리알 장조림, 1kg, 2개",
@@ -248,7 +248,7 @@
    "url": "https://toss.shopping/_m/VAlwiCRa",
    "image": "thumbs/92.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-10T11:19:01+00:00"
+   "checked_at": "2026-10-10T11:29:01+00:00"
   }
  ]
 }
