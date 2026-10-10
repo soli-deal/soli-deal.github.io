@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-10T01:21:31+00:00",
+ "updatedAt": "2026-10-10T01:31:31+00:00",
  "mode": "day",
  "day": "2026-10-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
+   "price": 6990,
+   "unit": "100g당 672원",
+   "at": "2026-10-10T01:30:33+00:00",
+   "url": "https://toss.shopping/_m/vNcNaPFp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1305.jpg"
+  },
   {
    "grade": "g5",
    "name": "프롬 커피크래커, 345g, 2개",
