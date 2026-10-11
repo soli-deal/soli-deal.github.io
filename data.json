@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T03:19:41+00:00",
+ "updatedAt": "2026-10-11T03:32:41+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "쉬젤 아티 내열유리 혼합 10종 세트, 320ml 3개 + 400ml 3개 + 520ml 2개 + 640ml 2개, 1세트",
+   "price": 18900,
+   "unit": "100ml당 2,953원",
+   "at": "2026-10-11T03:32:41+00:00",
+   "url": "https://toss.shopping/_m/xMBWM6Cz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1842.jpg"
+  },
   {
    "grade": "g5",
    "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
