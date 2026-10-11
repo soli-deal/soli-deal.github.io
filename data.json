@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T23:25:41+00:00",
+ "updatedAt": "2026-10-11T23:37:41+00:00",
  "mode": "day",
  "day": "2026-10-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "헬로바이오 혈당엔 바나바 유산균, 250mg, 30캡슐, 6박스",
+   "price": 17890,
+   "unit": "",
+   "at": "2026-10-11T23:36:44+00:00",
+   "url": "https://toss.shopping/_m/HLdY9LCD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3708.jpg"
+  },
   {
    "grade": "g5",
    "name": "동국제약 덴트릭스 잇몸플러스 치약, 160g, 10개",
