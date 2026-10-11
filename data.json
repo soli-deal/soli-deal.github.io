@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T10:30:41+00:00",
+ "updatedAt": "2026-10-11T10:59:41+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+   "price": 10990,
+   "unit": "",
+   "at": "2026-10-11T10:58:41+00:00",
+   "url": "https://toss.shopping/_m/XWnCK2bw",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/100.jpg"
+  },
   {
    "grade": "g2",
    "name": "식물성 대마종자유 엔 탑 1000 맥스, 1000mg, 60캡슐, 3개",
