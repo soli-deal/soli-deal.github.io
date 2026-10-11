@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T03:32:41+00:00",
+ "updatedAt": "2026-10-11T04:04:41+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "헬로우 그린 국내산 솔잎분말, 200g, 1개",
+   "price": 6070,
+   "unit": "100g당 3,035원",
+   "at": "2026-10-11T04:03:44+00:00",
+   "url": "https://toss.shopping/_m/nXfqVyVk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1661.jpg"
+  },
   {
    "grade": "g2",
    "name": "쉬젤 아티 내열유리 혼합 10종 세트, 320ml 3개 + 400ml 3개 + 520ml 2개 + 640ml 2개, 1세트",
