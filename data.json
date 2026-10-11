@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T00:20:31+00:00",
+ "updatedAt": "2026-10-11T00:50:41+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "제주청정우유, 900ml, 1개",
+   "price": 1000,
+   "unit": "100ml당 111원",
+   "at": "2026-10-11T00:49:44+00:00",
+   "url": "https://toss.shopping/_m/rbpT6FHD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3642.jpg"
+  },
   {
    "grade": "g5",
    "name": "유한메디카 칼슘 마그네슘 엔 탑 비타민D K 망간, 60정, 4개",
