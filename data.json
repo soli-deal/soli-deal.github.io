@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T07:34:41+00:00",
+ "updatedAt": "2026-10-11T10:04:41+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "하루하나 유기농 레자몽, 레몬즙+자몽즙, 280g, 7박스",
+   "price": 14700,
+   "unit": "100g당 750원",
+   "at": "2026-10-11T10:03:41+00:00",
+   "url": "https://toss.shopping/_m/RQYGDwri",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3477.jpg"
+  },
   {
    "grade": "g2",
    "name": "포천이동 양념LA갈비, 500g, 1팩",
