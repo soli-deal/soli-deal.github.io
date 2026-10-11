@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T23:12:41+00:00",
+ "updatedAt": "2026-10-11T23:25:41+00:00",
  "mode": "day",
  "day": "2026-10-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "동국제약 덴트릭스 잇몸플러스 치약, 160g, 10개",
+   "price": 28890,
+   "unit": "개당 2,889원 · 100g당 1,806원",
+   "at": "2026-10-11T23:24:43+00:00",
+   "url": "https://toss.shopping/_m/t0fQ3kXq",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1524.jpg"
+  },
   {
    "grade": "g5",
    "name": "와이니즈 질레트 호환용 5중 면도날 면도기 세트, 스윙면도기 1개 + 면도날 24개입, 1세트",
