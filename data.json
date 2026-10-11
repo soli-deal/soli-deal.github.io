@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-10T23:51:31+00:00",
+ "updatedAt": "2026-10-11T00:20:31+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 칼슘 마그네슘 엔 탑 비타민D K 망간, 60정, 4개",
+   "price": 20040,
+   "unit": "개당 5,010원",
+   "at": "2026-10-11T00:20:34+00:00",
+   "url": "https://toss.shopping/_m/l2OBsp5b",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3562.jpg"
+  },
   {
    "grade": "g5",
    "name": "메르헨트 홍삼초 주름 미백 아이크림, 30ml, 10개",
