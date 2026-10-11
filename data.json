@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T10:04:41+00:00",
+ "updatedAt": "2026-10-11T10:30:41+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "식물성 대마종자유 엔 탑 1000 맥스, 1000mg, 60캡슐, 3개",
+   "price": 15220,
+   "unit": "개당 5,073원",
+   "at": "2026-10-11T10:29:41+00:00",
+   "url": "https://toss.shopping/_m/THSanDn8",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3445.jpg"
+  },
   {
    "grade": "g2",
    "name": "하루하나 유기농 레자몽, 레몬즙+자몽즙, 280g, 7박스",
