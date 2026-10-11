@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T04:04:41+00:00",
+ "updatedAt": "2026-10-11T04:33:41+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+   "price": 12900,
+   "unit": "개당 2,150원",
+   "at": "2026-10-11T04:33:41+00:00",
+   "url": "https://toss.shopping/_m/9Dljp28n",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/127.jpg"
+  },
   {
    "grade": "g2",
    "name": "헬로우 그린 국내산 솔잎분말, 200g, 1개",
