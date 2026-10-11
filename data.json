@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T00:50:41+00:00",
+ "updatedAt": "2026-10-11T01:50:41+00:00",
  "mode": "day",
  "day": "2026-10-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "외갓집 닭양 만두, 180g, 10팩",
+   "price": 16900,
+   "unit": "100g당 939원",
+   "at": "2026-10-11T01:49:44+00:00",
+   "url": "https://toss.shopping/_m/RCw5e4Nf",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3524.jpg"
+  },
   {
    "grade": "g5",
    "name": "제주청정우유, 900ml, 1개",
