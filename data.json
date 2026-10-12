@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-12T03:02:41+00:00",
+ "updatedAt": "2026-10-12T03:33:41+00:00",
  "mode": "day",
  "day": "2026-10-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "올리브 듬뿍 엑스트라버진 올리브오일 식물성캡슐, 60정, 3개",
+   "price": 10390,
+   "unit": "개당 3,463원",
+   "at": "2026-10-12T03:32:44+00:00",
+   "url": "https://toss.shopping/_m/Xwh16Rmd",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3755.jpg"
+  },
   {
    "grade": "g0",
    "name": "올바른 슈퍼 프로바이오틱스 생유산균 19 비타민D, 30포, 2박스",
