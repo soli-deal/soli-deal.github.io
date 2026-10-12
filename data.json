@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-12T23:37:41+00:00",
+ "updatedAt": "2026-10-12T23:49:41+00:00",
  "mode": "day",
  "day": "2026-10-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "고궁 통참깨 참기름, 350ml, 2개",
+   "price": 10150,
+   "unit": "개당 5,075원 · 100ml당 1,450원",
+   "at": "2026-10-12T23:48:44+00:00",
+   "url": "https://toss.shopping/_m/FwYhL8dx",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2543.jpg"
+  },
   {
    "grade": "g5",
    "name": "크리스탈 생수, 무라벨, 500ml, 40개",
