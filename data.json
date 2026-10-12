@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-12T04:03:41+00:00",
+ "updatedAt": "2026-10-12T04:33:41+00:00",
  "mode": "day",
  "day": "2026-10-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+   "price": 5950,
+   "unit": "개당 744원 · 100ml당 106원",
+   "at": "2026-10-12T04:32:44+00:00",
+   "url": "https://toss.shopping/_m/JQb7lpnr",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1301.jpg"
+  },
   {
    "grade": "g2",
    "name": "이어맥 팬톤 커널형 블루투스 이어폰, TWS PTBT-300, 블랙, 1개",
