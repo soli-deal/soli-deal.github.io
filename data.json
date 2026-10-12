@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-12T01:30:41+00:00",
+ "updatedAt": "2026-10-12T01:49:41+00:00",
  "mode": "day",
  "day": "2026-10-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "메르헨트 퍼퓸 대용량 샴푸, 베이비파우더향, 1L, 3개",
+   "price": 12990,
+   "unit": "개당 4,330원 · 100ml당 433원",
+   "at": "2026-10-12T01:48:41+00:00",
+   "url": "https://toss.shopping/_m/jqcs8yWy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3719.jpg"
+  },
   {
    "grade": "g5",
    "name": "슬림떡볶이 로제맛, 230g, 4개",
