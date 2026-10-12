@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-11T23:50:41+00:00",
+ "updatedAt": "2026-10-12T00:18:41+00:00",
  "mode": "day",
  "day": "2026-10-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "에브리워터 무라벨 생수, 2L, 24개",
+   "price": 7900,
+   "unit": "개당 329원 · 100ml당 16원",
+   "at": "2026-10-12T00:18:41+00:00",
+   "url": "https://toss.shopping/_m/DziVzG6x",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3667.jpg"
+  },
   {
    "grade": "g5",
    "name": "예지미인 데일리코튼 생리대, 중형, 22개입, 5팩",
