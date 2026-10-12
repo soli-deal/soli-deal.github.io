@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-12T10:04:41+00:00",
+ "updatedAt": "2026-10-12T10:30:41+00:00",
  "mode": "day",
  "day": "2026-10-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "앙쥬 24K 골드 남성 4종 세트, 쇼핑백 포함, 1세트",
+   "price": 17900,
+   "unit": "",
+   "at": "2026-10-12T10:29:44+00:00",
+   "url": "https://toss.shopping/_m/JwCQLbLj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3674.jpg"
+  },
   {
    "grade": "g2",
    "name": "변기클리너, 레몬향, 310g, 4개",
