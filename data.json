@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-12T01:49:41+00:00",
+ "updatedAt": "2026-10-12T02:19:41+00:00",
  "mode": "day",
  "day": "2026-10-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "남다른 농수산 여수 돌산 갓김치, 3kg, 1개",
+   "price": 10750,
+   "unit": "100g당 358원",
+   "at": "2026-10-12T02:18:44+00:00",
+   "url": "https://toss.shopping/_m/tElN0YGk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1314.jpg"
+  },
   {
    "grade": "g5",
    "name": "메르헨트 퍼퓸 대용량 샴푸, 베이비파우더향, 1L, 3개",
