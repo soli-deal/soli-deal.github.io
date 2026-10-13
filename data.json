@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T10:30:41+00:00",
+ "updatedAt": "2026-10-13T11:00:41+00:00",
  "mode": "day",
  "day": "2026-10-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -181,5 +181,14 @@
    "image": "thumbs/1274.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "슬림떡볶이 로제맛, 230g, 4개",
+   "fact": "자정 재입고 후 33분 안에 품절(최근 1번)",
+   "url": "https://toss.shopping/_m/TNtAxOin",
+   "image": "thumbs/1298.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-13T10:52:12+00:00"
+  }
+ ]
 }
