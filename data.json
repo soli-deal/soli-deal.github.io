@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-13T03:03:41+00:00",
+ "updatedAt": "2026-10-13T03:33:41+00:00",
  "mode": "day",
  "day": "2026-10-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 6박스",
+   "price": 14500,
+   "unit": "",
+   "at": "2026-10-13T03:32:44+00:00",
+   "url": "https://toss.shopping/_m/tCXMICtx",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3928.jpg"
+  },
   {
    "grade": "g2",
    "name": "팬톤 25W 듀얼포트 어댑터 RCE-2521ACLKR, 그레이, 1개",
