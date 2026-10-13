@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-13T23:38:02+00:00",
+ "updatedAt": "2026-10-13T23:49:02+00:00",
  "mode": "day",
  "day": "2026-10-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "이브네 코트니 생리대, 슈퍼롱 오버나이트, 10매, 4팩",
+   "price": 7100,
+   "unit": "",
+   "at": "2026-10-13T23:49:04+00:00",
+   "url": "https://toss.shopping/_m/jFqkKGOt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4163.jpg"
+  },
   {
    "grade": "g5",
    "name": "브릭홈 친환경 무표백 키친타올, 150매, 12롤",
