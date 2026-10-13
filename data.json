@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-13T10:02:41+00:00",
+ "updatedAt": "2026-10-13T10:30:41+00:00",
  "mode": "day",
  "day": "2026-10-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 1박스",
+   "price": 7790,
+   "unit": "",
+   "at": "2026-10-13T10:29:45+00:00",
+   "url": "https://toss.shopping/_m/j2hZlqEa",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3619.jpg"
+  },
   {
    "grade": "g2",
    "name": "마흐트 요리 집게 핀셋, 실버, 24cm, 4개",
