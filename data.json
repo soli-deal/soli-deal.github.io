@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-13T00:47:41+00:00",
+ "updatedAt": "2026-10-13T00:50:41+00:00",
  "mode": "day",
  "day": "2026-10-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "맛장군 열무김치, 5kg, 1팩",
+   "price": 16820,
+   "unit": "100g당 336원",
+   "at": "2026-10-13T00:50:33+00:00",
+   "url": "https://toss.shopping/_m/vNthBhEj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2494.jpg"
+  },
   {
    "grade": "g5",
    "name": "수들리에 올인원 고농축 캡슐세제, 인칸토향, 40개입, 3개",
