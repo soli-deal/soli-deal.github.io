@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-14T01:34:02+00:00",
+ "updatedAt": "2026-10-14T01:50:02+00:00",
  "mode": "day",
  "day": "2026-10-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "캡슐 표백제 세제 부스터, 30개입, 390g, 3팩",
+   "price": 10990,
+   "unit": "100g당 939원",
+   "at": "2026-10-14T01:49:04+00:00",
+   "url": "https://toss.shopping/_m/d2ZnNZKo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4107.jpg"
+  },
   {
    "grade": "g2",
    "name": "HWC 잘자요 예쁜언니, 60정, 4박스",
