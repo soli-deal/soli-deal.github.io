@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-10-14T23:00:50+00:00",
+ "updatedAt": "2026-10-14T23:03:50+00:00",
  "mode": "day",
  "day": "2026-10-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g5",
+   "name": "연세두유 뼈를 생각한 고칼슘 두유 칼마디, 190ml, 검은콩 24개 + 호두아몬드 24개, 1세트",
+   "price": 18190,
+   "unit": "100ml당 9,574원",
+   "at": "2026-10-14T23:10:34+00:00",
+   "url": "https://toss.shopping/_m/b2dU0qOe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4269.jpg"
+  }
+ ],
  "picks": []
 }
