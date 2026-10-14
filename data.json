@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-14T03:34:02+00:00",
+ "updatedAt": "2026-10-14T04:04:02+00:00",
  "mode": "day",
  "day": "2026-10-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "키친아트 계란찜기 1단, KA-1421S1, 1개",
+   "price": 16740,
+   "unit": "",
+   "at": "2026-10-14T04:03:06+00:00",
+   "url": "https://toss.shopping/_m/RDQAJ2kc",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4185.jpg"
+  },
   {
    "grade": "g0",
    "name": "공중부양 무타공 물티슈 보관 케이스, 투명, 4개",
