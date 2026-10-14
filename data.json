@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-14T01:50:02+00:00",
+ "updatedAt": "2026-10-14T02:50:02+00:00",
  "mode": "day",
  "day": "2026-10-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 올데이 비타민C 엔 탑 3000 맥스, 90포, 2개",
+   "price": 13280,
+   "unit": "개당 6,640원",
+   "at": "2026-10-14T02:49:02+00:00",
+   "url": "https://toss.shopping/_m/7EVFJ21A",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4127.jpg"
+  },
   {
    "grade": "g5",
    "name": "캡슐 표백제 세제 부스터, 30개입, 390g, 3팩",
