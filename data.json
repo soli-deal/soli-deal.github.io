@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-14T14:59:57+00:00",
- "mode": "day",
+ "updatedAt": "2026-10-14T15:00:57+00:00",
+ "mode": "night",
  "day": "2026-10-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
@@ -205,20 +205,12 @@
  ],
  "picks": [
   {
-   "name": "슬림떡볶이 로제맛, 230g, 4개",
-   "fact": "자정 재입고 후 33분 안에 품절(최근 1번)",
-   "url": "https://toss.shopping/_m/TNtAxOin",
-   "image": "thumbs/1298.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-14T14:58:58+00:00"
-  },
-  {
    "name": "허글리 슬림핏 KF94 마스크, 새부리형, 대형, 스킨베이지, 100매",
    "fact": "최근 30일 2번 품절",
    "url": "https://toss.shopping/_m/vHzDwD7q",
    "image": "thumbs/2056.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-14T14:58:58+00:00"
+   "checked_at": "2026-10-14T15:00:17+00:00"
   }
  ]
 }
