@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-14T08:31:57+00:00",
+ "updatedAt": "2026-10-14T08:32:57+00:00",
  "mode": "day",
  "day": "2026-10-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
+   "price": 4130,
+   "unit": "개당 2,065원 · 100ml당 206원",
+   "at": "2026-10-14T08:31:57+00:00",
+   "url": "https://toss.shopping/_m/TUZsD5xj",
+   "sold": false,
+   "tag": "재입고",
+   "image": "thumbs/1145.jpg"
+  },
   {
    "grade": "g5",
    "name": "해표 순알콩 양조간장, 840ml, 4개",
