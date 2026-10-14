@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-14T01:20:02+00:00",
+ "updatedAt": "2026-10-14T01:34:02+00:00",
  "mode": "day",
  "day": "2026-10-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "HWC 잘자요 예쁜언니, 60정, 4박스",
+   "price": 16950,
+   "unit": "",
+   "at": "2026-10-14T01:33:05+00:00",
+   "url": "https://toss.shopping/_m/bTemOEe7",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4096.jpg"
+  },
   {
    "grade": "g5",
    "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
