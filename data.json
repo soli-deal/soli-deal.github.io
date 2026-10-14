@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-14T23:28:50+00:00",
+ "updatedAt": "2026-10-14T23:52:50+00:00",
  "mode": "day",
  "day": "2026-10-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "삼육두유 달콤한 B, 190ml, 15개입, 3박스",
+   "price": 18000,
+   "unit": "100ml당 3,158원",
+   "at": "2026-10-14T23:52:53+00:00",
+   "url": "https://toss.shopping/_m/pYycu5se",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4334.jpg"
+  },
   {
    "grade": "g5",
    "name": "유한메디카 락토케어 질유래 유산균 엔탑 센스업, 30캡슐, 6개",
