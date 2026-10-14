@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-13T23:49:02+00:00",
+ "updatedAt": "2026-10-14T00:20:02+00:00",
  "mode": "day",
  "day": "2026-10-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
+   "price": 9080,
+   "unit": "",
+   "at": "2026-10-14T00:19:02+00:00",
+   "url": "https://toss.shopping/_m/n2lP5lJe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1956.jpg"
+  },
   {
    "grade": "g5",
    "name": "이브네 코트니 생리대, 슈퍼롱 오버나이트, 10매, 4팩",
