@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-15T01:30:50+00:00",
+ "updatedAt": "2026-10-15T01:52:50+00:00",
  "mode": "day",
  "day": "2026-10-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "수뜰리에 프리미엄 올인원 캡슐세제 린넨블랑, 캡슐형, 40개입, 3개",
+   "price": 15990,
+   "unit": "개당 5,330원",
+   "at": "2026-10-15T01:52:53+00:00",
+   "url": "https://toss.shopping/_m/rY2zGwsd",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4335.jpg"
+  },
   {
    "grade": "g2",
    "name": "에이팔란스 대용량 보조배터리, 20000mAh, 화이트, 1개",
