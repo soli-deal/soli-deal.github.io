@@ -1,150 +1,20 @@
 {
- "updatedAt": "2026-10-15T15:56:50+00:00",
- "mode": "night",
- "day": "2026-10-15",
+ "updatedAt": "2026-10-15T23:00:50+00:00",
+ "mode": "day",
+ "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
   {
    "grade": "g5",
-   "name": "고기중독 통삼겹살, 구이용, 보쌈용, 2kg, 1개",
-   "price": 19300,
-   "unit": "100g당 965원",
-   "at": "2026-10-15T03:52:50+00:00",
-   "url": "https://toss.shopping/_m/9MH3KrRo",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4271.jpg"
-  },
-  {
-   "grade": "g0",
-   "name": "키친아트 계란찜기 2단, KA-0550S2, 1개",
-   "price": 16840,
+   "name": "굿핏 신수지 무선 온열 허리 마사지기, GOOD A30, 그레이, 1개",
+   "price": 23900,
    "unit": "",
-   "at": "2026-10-15T03:30:54+00:00",
-   "url": "https://toss.shopping/_m/7bhBAgLk",
+   "at": "2026-10-15T23:00:50+00:00",
+   "url": "https://toss.shopping/_m/9v2QNq3r",
    "sold": false,
    "tag": "",
-   "image": "thumbs/3577.jpg"
-  },
-  {
-   "grade": "g2",
-   "name": "경남제약 맥주효모 비오틴셀렌, 550mg, 60정, 2개",
-   "price": 8390,
-   "unit": "개당 4,195원",
-   "at": "2026-10-15T03:03:53+00:00",
-   "url": "https://toss.shopping/_m/dcLXTua2",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4370.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "유한메디카 비타민D 엔 탑 5000IU, 60캡슐, 4개",
-   "price": 12630,
-   "unit": "개당 3,158원",
-   "at": "2026-10-15T02:52:50+00:00",
-   "url": "https://toss.shopping/_m/HGkUQYf3",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4331.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "필립스 오픈형 무선 블루투스 이어폰, TAT1138, 블랙, 1개",
-   "price": 19900,
-   "unit": "",
-   "at": "2026-10-15T02:22:53+00:00",
-   "url": "https://toss.shopping/_m/v72niyYz",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2101.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "수뜰리에 프리미엄 올인원 캡슐세제 린넨블랑, 캡슐형, 40개입, 3개",
-   "price": 15990,
-   "unit": "개당 5,330원",
-   "at": "2026-10-15T01:52:53+00:00",
-   "url": "https://toss.shopping/_m/rY2zGwsd",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4335.jpg"
-  },
-  {
-   "grade": "g2",
-   "name": "에이팔란스 대용량 보조배터리, 20000mAh, 화이트, 1개",
-   "price": 19800,
-   "unit": "",
-   "at": "2026-10-15T01:30:53+00:00",
-   "url": "https://toss.shopping/_m/py0v2tCi",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4383.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-   "price": 8800,
-   "unit": "",
-   "at": "2026-10-15T00:52:53+00:00",
-   "url": "https://toss.shopping/_m/ndFnpiRD",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2143.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "위니즈 질레트 호환용 스윙면도기, 블랙주황, 면도날 36개입, 1세트",
-   "price": 17900,
-   "unit": "",
-   "at": "2026-10-15T00:22:50+00:00",
-   "url": "https://toss.shopping/_m/dzh9YzGC",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4197.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "삼육두유 달콤한 B, 190ml, 15개입, 3박스",
-   "price": 18000,
-   "unit": "100ml당 3,158원",
-   "at": "2026-10-14T23:52:53+00:00",
-   "url": "https://toss.shopping/_m/pYycu5se",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4334.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "유한메디카 락토케어 질유래 유산균 엔탑 센스업, 30캡슐, 6개",
-   "price": 27620,
-   "unit": "개당 4,603원",
-   "at": "2026-10-14T23:28:52+00:00",
-   "url": "https://toss.shopping/_m/NBSx8zfh",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4356.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "연세두유 뼈를 생각한 고칼슘 두유 칼마디, 190ml, 검은콩 24개 + 호두아몬드 24개, 1세트",
-   "price": 18190,
-   "unit": "100ml당 9,574원",
-   "at": "2026-10-14T23:10:34+00:00",
-   "url": "https://toss.shopping/_m/b2dU0qOe",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/4269.jpg"
+   "image": "thumbs/432.jpg"
   }
  ],
- "picks": [
-  {
-   "name": "허글리 슬림핏 KF94 마스크, 새부리형, 대형, 스킨베이지, 100매",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/vHzDwD7q",
-   "image": "thumbs/2056.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-15T15:56:11+00:00"
-  }
- ]
+ "picks": []
 }
