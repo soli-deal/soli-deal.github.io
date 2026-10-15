@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-15T03:30:50+00:00",
+ "updatedAt": "2026-10-15T03:52:50+00:00",
  "mode": "day",
  "day": "2026-10-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "고기중독 통삼겹살, 구이용, 보쌈용, 2kg, 1개",
+   "price": 19300,
+   "unit": "100g당 965원",
+   "at": "2026-10-15T03:52:50+00:00",
+   "url": "https://toss.shopping/_m/9MH3KrRo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4271.jpg"
+  },
   {
    "grade": "g0",
    "name": "키친아트 계란찜기 2단, KA-0550S2, 1개",
