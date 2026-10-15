@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-15T23:12:50+00:00",
+ "updatedAt": "2026-10-15T23:24:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "이롬 국내산 약콩 무가당 두유, 190ml, 32개",
+   "price": 11000,
+   "unit": "개당 344원 · 100ml당 181원",
+   "at": "2026-10-15T23:24:50+00:00",
+   "url": "https://toss.shopping/_m/HFExkjPa",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4052.jpg"
+  },
   {
    "grade": "g5",
    "name": "고기중독 한입삼겹살, 500g, 4개",
