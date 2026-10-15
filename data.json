@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-15T23:00:50+00:00",
+ "updatedAt": "2026-10-15T23:12:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "고기중독 한입삼겹살, 500g, 4개",
+   "price": 15600,
+   "unit": "개당 3,900원 · 100g당 780원",
+   "at": "2026-10-15T23:12:50+00:00",
+   "url": "https://toss.shopping/_m/V0NwIZFz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1123.jpg"
+  },
   {
    "grade": "g5",
    "name": "굿핏 신수지 무선 온열 허리 마사지기, GOOD A30, 그레이, 1개",
