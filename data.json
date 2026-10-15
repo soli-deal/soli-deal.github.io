@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-15T23:24:50+00:00",
+ "updatedAt": "2026-10-15T23:36:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "웰스코어 메가도스 비타민C 3000 메가 맥스, 3g, 100포, 1개",
+   "price": 8310,
+   "unit": "",
+   "at": "2026-10-15T23:36:52+00:00",
+   "url": "https://toss.shopping/_m/NJX5nfVt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4519.jpg"
+  },
   {
    "grade": "g5",
    "name": "이롬 국내산 약콩 무가당 두유, 190ml, 32개",
