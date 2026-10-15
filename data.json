@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T03:52:50+00:00",
+ "updatedAt": "2026-10-15T11:00:50+00:00",
  "mode": "day",
  "day": "2026-10-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -137,5 +137,14 @@
    "image": "thumbs/4269.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "허글리 슬림핏 KF94 마스크, 새부리형, 대형, 스킨베이지, 100매",
+   "fact": "최근 30일 2번 품절",
+   "url": "https://toss.shopping/_m/vHzDwD7q",
+   "image": "thumbs/2056.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-15T10:51:51+00:00"
+  }
+ ]
 }
