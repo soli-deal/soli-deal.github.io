@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-15T23:36:50+00:00",
+ "updatedAt": "2026-10-15T23:48:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "가희담 홍삼 흑염소진액 담, 70ml, 30포, 3박스",
+   "price": 32900,
+   "unit": "100ml당 15,667원",
+   "at": "2026-10-15T23:48:52+00:00",
+   "url": "https://toss.shopping/_m/ps8UufR",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4463.jpg"
+  },
   {
    "grade": "g5",
    "name": "웰스코어 메가도스 비타민C 3000 메가 맥스, 3g, 100포, 1개",
