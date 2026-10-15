@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-15T02:52:50+00:00",
+ "updatedAt": "2026-10-15T03:03:50+00:00",
  "mode": "day",
  "day": "2026-10-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "경남제약 맥주효모 비오틴셀렌, 550mg, 60정, 2개",
+   "price": 8390,
+   "unit": "개당 4,195원",
+   "at": "2026-10-15T03:03:53+00:00",
+   "url": "https://toss.shopping/_m/dcLXTua2",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4370.jpg"
+  },
   {
    "grade": "g5",
    "name": "유한메디카 비타민D 엔 탑 5000IU, 60캡슐, 4개",
