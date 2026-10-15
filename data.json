@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-15T03:03:50+00:00",
+ "updatedAt": "2026-10-15T03:30:50+00:00",
  "mode": "day",
  "day": "2026-10-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "키친아트 계란찜기 2단, KA-0550S2, 1개",
+   "price": 16840,
+   "unit": "",
+   "at": "2026-10-15T03:30:54+00:00",
+   "url": "https://toss.shopping/_m/7bhBAgLk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3577.jpg"
+  },
   {
    "grade": "g2",
    "name": "경남제약 맥주효모 비오틴셀렌, 550mg, 60정, 2개",
