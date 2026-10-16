@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-16T08:53:50+00:00",
+ "updatedAt": "2026-10-16T10:03:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "전통압착 통참기름, 350ml, 1개",
+   "price": 8890,
+   "unit": "100ml당 2,540원",
+   "at": "2026-10-16T10:03:50+00:00",
+   "url": "https://toss.shopping/_m/brQpDkBz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4570.jpg"
+  },
   {
    "grade": "g0",
    "name": "깨끗한나라 디어스킨 에어엠보 생리대, 대형, 14개입, 5팩",
