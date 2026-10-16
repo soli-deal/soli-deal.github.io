@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T11:38:50+00:00",
+ "updatedAt": "2026-10-16T11:41:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -154,7 +154,7 @@
    "unit": "",
    "at": "2026-10-15T23:36:52+00:00",
    "url": "https://toss.shopping/_m/NJX5nfVt",
-   "sold": false,
+   "sold": true,
    "tag": "",
    "image": "thumbs/4519.jpg"
   },
@@ -207,7 +207,7 @@
    "url": "https://toss.shopping/_m/V0NwIZFz",
    "image": "thumbs/1123.jpg",
    "in_stock": false,
-   "checked_at": "2026-10-16T11:38:51+00:00"
+   "checked_at": "2026-10-16T11:40:50+00:00"
   }
  ]
 }
