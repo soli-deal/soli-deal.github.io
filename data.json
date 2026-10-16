@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-16T01:48:50+00:00",
+ "updatedAt": "2026-10-16T02:18:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "셀렉스 프로틴 당솔브 혈당밸런스, 미숫가루맛, 266g, 2통",
+   "price": 15600,
+   "unit": "100g당 5,865원",
+   "at": "2026-10-16T02:18:54+00:00",
+   "url": "https://toss.shopping/_m/pqGEbaY1",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4461.jpg"
+  },
   {
    "grade": "g5",
    "name": "허긴 프레쉬 키즈 바디워시, 500ml, 1개",
