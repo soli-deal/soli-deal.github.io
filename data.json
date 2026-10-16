@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-16T23:24:50+00:00",
+ "updatedAt": "2026-10-16T23:36:50+00:00",
  "mode": "day",
  "day": "2026-10-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "에이스 퍼플리 세탁세제, 라벤더, 2.5L, 4개",
+   "price": 6400,
+   "unit": "개당 1,600원 · 100ml당 64원",
+   "at": "2026-10-16T23:36:53+00:00",
+   "url": "https://toss.shopping/_m/1TVDudMu",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1569.jpg"
+  },
   {
    "grade": "g5",
    "name": "어푸 질레트 호환용 5중 면도날, 오렌지검정, 4개입, 3팩",
