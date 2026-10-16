@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-16T03:03:50+00:00",
+ "updatedAt": "2026-10-16T03:30:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "메디트리 파워업 마시는 알부민, 15g, 30포, 3박스",
+   "price": 14800,
+   "unit": "",
+   "at": "2026-10-16T03:30:53+00:00",
+   "url": "https://toss.shopping/_m/7pgKZ5y9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4514.jpg"
+  },
   {
    "grade": "g2",
    "name": "테팔 에코센서 압력솥, 4.5L, 1개",
