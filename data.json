@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T10:03:50+00:00",
+ "updatedAt": "2026-10-16T11:00:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -192,5 +192,22 @@
    "image": "thumbs/432.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "바른세탁소 액체세제 라임향, 2.5L, 4개",
+   "fact": "",
+   "url": "https://toss.shopping/_m/5IgDyhQp",
+   "image": "thumbs/131.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-16T10:58:51+00:00"
+  },
+  {
+   "name": "고기중독 한입삼겹살, 500g, 4개",
+   "fact": "최근 30일 3번 품절",
+   "url": "https://toss.shopping/_m/V0NwIZFz",
+   "image": "thumbs/1123.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-16T10:59:20+00:00"
+  }
+ ]
 }
