@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-16T01:30:50+00:00",
+ "updatedAt": "2026-10-16T01:48:50+00:00",
  "mode": "day",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "허긴 프레쉬 키즈 바디워시, 500ml, 1개",
+   "price": 5260,
+   "unit": "100ml당 1,052원",
+   "at": "2026-10-16T01:48:53+00:00",
+   "url": "https://toss.shopping/_m/NvURMjk8",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4474.jpg"
+  },
   {
    "grade": "g2",
    "name": "미니엔 제트 에어건2 MI-AIR600, 블랙, 1개",
