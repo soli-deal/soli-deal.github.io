@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T15:00:50+00:00",
+ "updatedAt": "2026-10-16T22:30:50+00:00",
  "mode": "night",
  "day": "2026-10-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -192,5 +192,14 @@
    "image": "thumbs/432.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "고기중독 한입삼겹살, 500g, 4개",
+   "fact": "최근 30일 4번 품절",
+   "url": "https://toss.shopping/_m/V0NwIZFz",
+   "image": "thumbs/1123.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-16T22:31:44+00:00"
+  }
+ ]
 }
