@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-17T06:08:50+00:00",
+ "updatedAt": "2026-10-17T07:00:50+00:00",
  "mode": "day",
  "day": "2026-10-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "배스킨라빈스 베리베리 스트로베리 우유 190ml, 24개",
+   "price": 8500,
+   "unit": "개당 354원 · 100ml당 186원",
+   "at": "2026-10-17T07:00:50+00:00",
+   "url": "https://toss.shopping/_m/DqrjDxRl",
+   "sold": false,
+   "tag": "재입고",
+   "image": "thumbs/1783.jpg"
+  },
   {
    "grade": "g2",
    "name": "탄수화물 컷 가르시니아 다이어트 6 플러스, 120정, 3개",
@@ -99,7 +110,7 @@
    "unit": "개당 354원 · 100ml당 186원",
    "at": "2026-10-17T00:18:50+00:00",
    "url": "https://toss.shopping/_m/DqrjDxRl",
-   "sold": true,
+   "sold": false,
    "tag": "",
    "image": "thumbs/1783.jpg"
   },
