@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-17T00:18:50+00:00",
+ "updatedAt": "2026-10-17T01:18:50+00:00",
  "mode": "day",
  "day": "2026-10-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "풍년보감 6년근 고려홍삼정 에브리데이100, 15g, 100포",
+   "price": 16900,
+   "unit": "100g당 1,127원",
+   "at": "2026-10-17T01:18:57+00:00",
+   "url": "https://toss.shopping/_m/3WJt4007",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4610.jpg"
+  },
   {
    "grade": "g5",
    "name": "배스킨라빈스 베리베리 스트로베리 우유 190ml, 24개",
