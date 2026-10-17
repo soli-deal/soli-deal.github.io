@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-17T03:03:50+00:00",
+ "updatedAt": "2026-10-17T03:33:50+00:00",
  "mode": "day",
  "day": "2026-10-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "리퀴드 고농축 라벤더 세탁세제, 2.5L, 4개",
+   "price": 12900,
+   "unit": "개당 3,225원 · 100ml당 129원",
+   "at": "2026-10-17T03:33:50+00:00",
+   "url": "https://toss.shopping/_m/Pnb99GXA",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1564.jpg"
+  },
   {
    "grade": "g2",
    "name": "스테인리스 마늘다지기, 1개",
