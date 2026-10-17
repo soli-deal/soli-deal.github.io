@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-17T01:33:50+00:00",
+ "updatedAt": "2026-10-17T01:48:50+00:00",
  "mode": "day",
  "day": "2026-10-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "피죤 퓨어 뽀드득 주방세제, 레몬향 3L 1개 + 자몽향 3L 1개, 2개",
+   "price": 8200,
+   "unit": "개당 4,100원 · 100ml당 137원",
+   "at": "2026-10-17T01:48:53+00:00",
+   "url": "https://toss.shopping/_m/v28c0j6q",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4658.jpg"
+  },
   {
    "grade": "g0",
    "name": "리벤스 라벤더 바이올렛 물티슈, 100매, 20팩",
