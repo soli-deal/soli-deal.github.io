@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-17T23:36:50+00:00",
+ "updatedAt": "2026-10-17T23:48:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "맥스앤맥스 향균 그린 김치통, 2.9L 1개 + 4.5L 1개, 1세트",
+   "price": 10110,
+   "unit": "100ml당 225원",
+   "at": "2026-10-17T23:48:52+00:00",
+   "url": "https://toss.shopping/_m/7GDL5vRo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1856.jpg"
+  },
   {
    "grade": "g5",
    "name": "진수성찬 고양이 사료 대용량, 5kg, 1개, 닭",
