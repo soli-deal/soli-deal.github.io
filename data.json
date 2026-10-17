@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-17T23:24:50+00:00",
+ "updatedAt": "2026-10-17T23:36:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "진수성찬 고양이 사료 대용량, 5kg, 1개, 닭",
+   "price": 12740,
+   "unit": "100g당 255원",
+   "at": "2026-10-17T23:36:52+00:00",
+   "url": "https://toss.shopping/_m/xdnfRyu9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1479.jpg"
+  },
   {
    "grade": "g5",
    "name": "메르헨트 퍼퓸 대용량 바디워시, 베이비파우더, 1L, 2개",
