@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T04:01:50+00:00",
+ "updatedAt": "2026-10-18T04:32:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "몽카라 전기 모기채, PRM-001, 1개",
+   "price": 8390,
+   "unit": "",
+   "at": "2026-10-18T04:32:52+00:00",
+   "url": "https://toss.shopping/_m/XBTfsW66",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/192.jpg"
+  },
   {
    "grade": "g2",
    "name": "쉬블링로브 멀티 짚 힙색, BLZ0205, 블랙, 1개",
