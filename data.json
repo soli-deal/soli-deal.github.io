@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T01:48:50+00:00",
+ "updatedAt": "2026-10-18T02:18:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "요거프레소 컵커피, 카페라떼 200ml 10개 + 카페모카 200ml 10개, 20개",
+   "price": 12900,
+   "unit": "개당 645원 · 100ml당 322원",
+   "at": "2026-10-18T02:18:55+00:00",
+   "url": "https://toss.shopping/_m/r7yygfr9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4753.jpg"
+  },
   {
    "grade": "g5",
    "name": "실속밥상 싸래기쌀, 20kg, 1개",
