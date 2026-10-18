@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T03:02:50+00:00",
+ "updatedAt": "2026-10-18T03:31:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "유한메디카 초임계 rTG 오메가3 엔 탑 식물성 캡슐, 60캡슐, 2개",
+   "price": 14410,
+   "unit": "개당 7,205원",
+   "at": "2026-10-18T03:31:52+00:00",
+   "url": "https://toss.shopping/_m/DjI6eFFz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4829.jpg"
+  },
   {
    "grade": "g2",
    "name": "랑펠로 스텐 믹싱볼 3종, 실버, 16cm, 1개 + 20cm, 1개 + 24cm, 1개, 1세트",
