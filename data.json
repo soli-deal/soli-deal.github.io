@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T23:01:50+00:00",
+ "updatedAt": "2026-10-18T23:13:50+00:00",
  "mode": "day",
  "day": "2026-10-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 2개",
+   "price": 10090,
+   "unit": "개당 5,045원",
+   "at": "2026-10-18T23:13:53+00:00",
+   "url": "https://toss.shopping/_m/hgOeU5Bu",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4992.jpg"
+  },
   {
    "grade": "g2",
    "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
