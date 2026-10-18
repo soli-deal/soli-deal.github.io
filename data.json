@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T11:20:50+00:00",
+ "updatedAt": "2026-10-18T11:24:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "수뜰리에 섬유유연제 소프트 비누향, 2.5L, 4개",
+   "price": 8900,
+   "unit": "개당 2,225원 · 100ml당 89원",
+   "at": "2026-10-18T11:24:50+00:00",
+   "url": "https://toss.shopping/_m/XWRDFGDn",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/165.jpg"
+  },
   {
    "grade": "g2",
    "name": "이지앤프리 블랙 에디션 김치통, 블랙, 3.2L, 2통",
