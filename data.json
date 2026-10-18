@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T01:31:50+00:00",
+ "updatedAt": "2026-10-18T01:48:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "실속밥상 싸래기쌀, 20kg, 1개",
+   "price": 19900,
+   "unit": "100g당 100원",
+   "at": "2026-10-18T01:48:53+00:00",
+   "url": "https://toss.shopping/_m/vVq99Oa8",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4750.jpg"
+  },
   {
    "grade": "g2",
    "name": "앙쥬 모이스처 알로에 폼클렌징, 100ml, 10개",
