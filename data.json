@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T10:01:50+00:00",
+ "updatedAt": "2026-10-18T10:28:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "이지앤프리 블랙 에디션 김치통, 블랙, 3.2L, 2통",
+   "price": 4500,
+   "unit": "100ml당 141원",
+   "at": "2026-10-18T10:28:54+00:00",
+   "url": "https://toss.shopping/_m/R9RZk5d2",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/122.jpg"
+  },
   {
    "grade": "g2",
    "name": "순수스토리 데일리 루틴 알파CD, 3g, 14포, 6개",
