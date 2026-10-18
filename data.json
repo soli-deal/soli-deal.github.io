@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-17T23:48:50+00:00",
+ "updatedAt": "2026-10-18T00:18:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "올챌린지 락스, 2.1L, 6개",
+   "price": 7900,
+   "unit": "개당 1,317원 · 100ml당 63원",
+   "at": "2026-10-18T00:18:54+00:00",
+   "url": "https://toss.shopping/_m/BR8QWNmB",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4781.jpg"
+  },
   {
    "grade": "g5",
    "name": "맥스앤맥스 향균 그린 김치통, 2.9L 1개 + 4.5L 1개, 1세트",
