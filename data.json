@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T15:00:50+00:00",
+ "updatedAt": "2026-10-18T15:01:50+00:00",
  "mode": "night",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -203,30 +203,5 @@
    "image": "thumbs/1274.jpg"
   }
  ],
- "picks": [
-  {
-   "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-   "fact": "최근 30일 10번 품절",
-   "url": "https://toss.shopping/_m/Ts0wu3S5",
-   "image": "thumbs/95.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-18T14:59:51+00:00"
-  },
-  {
-   "name": "실속밥상 싸래기쌀, 20kg, 1개",
-   "fact": "최근 30일 5번 품절",
-   "url": "https://toss.shopping/_m/vVq99Oa8",
-   "image": "thumbs/4750.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-18T14:59:51+00:00"
-  },
-  {
-   "name": "쏘울너츠 100% 땅콩버터 크런치, 500g, 2개",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/fltR1k3m",
-   "image": "thumbs/1274.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-18T14:59:51+00:00"
-  }
- ]
+ "picks": []
 }
