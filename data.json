@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T00:18:50+00:00",
+ "updatedAt": "2026-10-18T01:18:50+00:00",
  "mode": "day",
  "day": "2026-10-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "블랑101 세탁세제 아쿠아블룸, 1.2L, 2개",
+   "price": 18630,
+   "unit": "개당 9,315원 · 100ml당 776원",
+   "at": "2026-10-18T01:18:55+00:00",
+   "url": "https://toss.shopping/_m/niZqJVsr",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4828.jpg"
+  },
   {
    "grade": "g5",
    "name": "올챌린지 락스, 2.1L, 6개",
