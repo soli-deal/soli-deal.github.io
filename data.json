@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-19T10:28:50+00:00",
+ "updatedAt": "2026-10-19T10:56:50+00:00",
  "mode": "day",
  "day": "2026-10-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "포천이동 양념LA갈비, 500g, 1팩",
+   "price": 7900,
+   "unit": "100g당 1,580원",
+   "at": "2026-10-19T10:56:53+00:00",
+   "url": "https://toss.shopping/_m/fcxJlSvC",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/101.jpg"
+  },
   {
    "grade": "g2",
    "name": "크리스찬딘 포 옴므 오드퍼퓸, 어반시크, 50ml, 1개",
