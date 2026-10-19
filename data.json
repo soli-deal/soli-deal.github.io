@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-19T14:59:50+00:00",
- "mode": "day",
+ "updatedAt": "2026-10-19T15:00:50+00:00",
+ "mode": "night",
  "day": "2026-10-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
@@ -225,14 +225,5 @@
    "image": "thumbs/127.jpg"
   }
  ],
- "picks": [
-  {
-   "name": "들녘 전통압착 더 진한 통참깨100퍼센트 참기름 + 통들깨100퍼센트 들기름, 350ml, 2병, 1세트",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/HiAviK9C",
-   "image": "thumbs/3406.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-19T14:58:51+00:00"
-  }
- ]
+ "picks": []
 }
