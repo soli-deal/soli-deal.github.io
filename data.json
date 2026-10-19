@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-18T23:49:50+00:00",
+ "updatedAt": "2026-10-19T00:19:50+00:00",
  "mode": "day",
  "day": "2026-10-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "대용량 삼겹살, 1kg, 2팩",
+   "price": 17900,
+   "unit": "100g당 895원",
+   "at": "2026-10-19T00:19:53+00:00",
+   "url": "https://toss.shopping/_m/3mSEBRkr",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3639.jpg"
+  },
   {
    "grade": "g5",
    "name": "리퀴드 라이트 고농축 실내건조 액체세탁세제, 2.5L, 4개",
