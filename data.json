@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-19T02:49:50+00:00",
+ "updatedAt": "2026-10-19T03:02:50+00:00",
  "mode": "day",
  "day": "2026-10-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "헬로우 그린 국내산 솔잎분말, 200g, 1개",
+   "price": 6070,
+   "unit": "100g당 3,035원",
+   "at": "2026-10-19T03:02:52+00:00",
+   "url": "https://toss.shopping/_m/nXfqVyVk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1661.jpg"
+  },
   {
    "grade": "g5",
    "name": "한촌설렁탕 국물 6종 세트, 500g, 6개, 1세트",
