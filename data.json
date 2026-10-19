@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-19T23:38:50+00:00",
+ "updatedAt": "2026-10-19T23:50:50+00:00",
  "mode": "day",
  "day": "2026-10-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "맛장군 열무김치, 2kg, 1팩",
+   "price": 7850,
+   "unit": "100g당 392원",
+   "at": "2026-10-19T23:50:50+00:00",
+   "url": "https://toss.shopping/_m/DtbXDRbm",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1689.jpg"
+  },
   {
    "grade": "g5",
    "name": "테조 1450 고불소 구취케어 치약, 120g, 5개",
