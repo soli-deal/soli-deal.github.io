@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-19T00:49:50+00:00",
+ "updatedAt": "2026-10-19T01:19:50+00:00",
  "mode": "day",
  "day": "2026-10-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "연세우유 세브란스 A2 프로틴, 초콜릿, 190ml, 32개",
+   "price": 26560,
+   "unit": "개당 830원 · 100ml당 437원",
+   "at": "2026-10-19T01:19:50+00:00",
+   "url": "https://toss.shopping/_m/diNBupJj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4910.jpg"
+  },
   {
    "grade": "g5",
    "name": "연세 눈건강 간건강 골드, 30캡슐, 3박스",
