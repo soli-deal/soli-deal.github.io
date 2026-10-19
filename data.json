@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-19T23:02:50+00:00",
+ "updatedAt": "2026-10-19T23:14:50+00:00",
  "mode": "day",
  "day": "2026-10-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "경남제약 로얄플러스 멀티비타민, 900mg, 60정, 2개",
+   "price": 7900,
+   "unit": "개당 3,950원",
+   "at": "2026-10-19T23:14:52+00:00",
+   "url": "https://toss.shopping/_m/LqUBZicB",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/891.jpg"
+  },
   {
    "grade": "g3",
    "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
