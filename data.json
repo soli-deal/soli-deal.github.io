@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-19T02:42:50+00:00",
+ "updatedAt": "2026-10-19T02:49:50+00:00",
  "mode": "day",
  "day": "2026-10-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "한촌설렁탕 국물 6종 세트, 500g, 6개, 1세트",
+   "price": 16900,
+   "unit": "100g당 3,380원",
+   "at": "2026-10-19T02:49:53+00:00",
+   "url": "https://toss.shopping/_m/9RzV9N12",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/945.jpg"
+  },
   {
    "grade": "g5",
    "name": "프로코 핑크로즈 섬유유연제, 2.5L, 4개",
