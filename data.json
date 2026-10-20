@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-20T00:20:50+00:00",
+ "updatedAt": "2026-10-20T00:50:50+00:00",
  "mode": "day",
  "day": "2026-10-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "미소 강아지 기능성 사료, 뼈/관절강화, 2kg, 1개",
+   "price": 7910,
+   "unit": "100g당 396원",
+   "at": "2026-10-20T00:50:53+00:00",
+   "url": "https://toss.shopping/_m/vTmFvt76",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2298.jpg"
+  },
   {
    "grade": "g5",
    "name": "센티베르 맥주효모 바이오틴 탈모증상완화 대용량 샴푸, 1L, 2개",
