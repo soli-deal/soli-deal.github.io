@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-20T23:36:50+00:00",
+ "updatedAt": "2026-10-20T23:48:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "쉼표365 매일 상쾌한 구취케어 플러스 치약, 250g, 4개",
+   "price": 8280,
+   "unit": "개당 2,070원 · 100g당 828원",
+   "at": "2026-10-20T23:48:53+00:00",
+   "url": "https://toss.shopping/_m/xtyxAgRl",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1523.jpg"
+  },
   {
    "grade": "g5",
    "name": "수입산 냉동 대패삼겹살, 2kg, 1개",
