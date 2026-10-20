@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-20T01:20:50+00:00",
+ "updatedAt": "2026-10-20T01:50:50+00:00",
  "mode": "day",
  "day": "2026-10-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "리퀴드 주방세제, 레몬향, 4L, 2개",
+   "price": 6890,
+   "unit": "개당 3,445원 · 100ml당 86원",
+   "at": "2026-10-20T01:50:53+00:00",
+   "url": "https://toss.shopping/_m/DZV8KPX4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5088.jpg"
+  },
   {
    "grade": "g5",
    "name": "꼬기다 스틱 닭가슴살, 5종혼합, 100g, 30개",
