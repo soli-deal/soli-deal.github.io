@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-20T23:00:50+00:00",
+ "updatedAt": "2026-10-20T23:12:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "고궁 통참깨 참기름, 350ml, 3개",
+   "price": 14500,
+   "unit": "개당 4,833원 · 100ml당 1,381원",
+   "at": "2026-10-20T23:12:52+00:00",
+   "url": "https://toss.shopping/_m/3AeZ2tHo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1793.jpg"
+  },
   {
    "grade": "g5",
    "name": "스파클 생수, 무라벨, 2L, 30개",
