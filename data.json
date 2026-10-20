@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-20T10:30:50+00:00",
+ "updatedAt": "2026-10-20T10:56:50+00:00",
  "mode": "day",
  "day": "2026-10-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "유한M 치아 엔 탑 덴티 플러스, 60정, 3박스",
+   "price": 12710,
+   "unit": "",
+   "at": "2026-10-20T10:56:52+00:00",
+   "url": "https://toss.shopping/_m/V6LRA9E8",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5134.jpg"
+  },
   {
    "grade": "g2",
    "name": "스페시핏 뿌리는 곰팡이 제거제, 500ml, 2개",
