@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-20T01:50:50+00:00",
+ "updatedAt": "2026-10-20T02:20:50+00:00",
  "mode": "day",
  "day": "2026-10-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "리얼닥터 비피더스 생 유산균, 30캡슐, 3개",
+   "price": 14560,
+   "unit": "개당 4,853원",
+   "at": "2026-10-20T02:20:50+00:00",
+   "url": "https://toss.shopping/_m/nXfekMHu",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5073.jpg"
+  },
   {
    "grade": "g5",
    "name": "리퀴드 주방세제, 레몬향, 4L, 2개",
