@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-20T02:20:50+00:00",
+ "updatedAt": "2026-10-20T02:50:50+00:00",
  "mode": "day",
  "day": "2026-10-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "프로코 실내건조 7종효소 라벤더 세탁세제, 2.5L, 4개",
+   "price": 8600,
+   "unit": "개당 2,150원 · 100ml당 86원",
+   "at": "2026-10-20T02:50:53+00:00",
+   "url": "https://toss.shopping/_m/FS45jXss",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5117.jpg"
+  },
   {
    "grade": "g5",
    "name": "리얼닥터 비피더스 생 유산균, 30캡슐, 3개",
