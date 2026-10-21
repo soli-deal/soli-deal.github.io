@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T10:57:50+00:00",
+ "updatedAt": "2026-10-21T11:00:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -203,5 +203,14 @@
    "image": "thumbs/3381.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "수입산 냉동 대패삼겹살, 2kg, 1개",
+   "fact": "최근 30일 2번 품절",
+   "url": "https://toss.shopping/_m/7Ui6k4hn",
+   "image": "thumbs/5233.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-21T10:51:50+00:00"
+  }
+ ]
 }
