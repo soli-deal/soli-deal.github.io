@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-21T01:18:50+00:00",
+ "updatedAt": "2026-10-21T01:31:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "메디핏 잇몸치약, 120g, 1개",
+   "price": 6499,
+   "unit": "100g당 5,416원",
+   "at": "2026-10-21T01:31:53+00:00",
+   "url": "https://toss.shopping/_m/9UhxT3Tk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3332.jpg"
+  },
   {
    "grade": "g5",
    "name": "이씨네김치 이씨네 전라도 포기김치, 3kg, 1개",
