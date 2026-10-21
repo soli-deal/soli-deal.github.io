@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-21T00:46:50+00:00",
+ "updatedAt": "2026-10-21T01:18:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "이씨네김치 이씨네 전라도 포기김치, 3kg, 1개",
+   "price": 12050,
+   "unit": "100g당 402원",
+   "at": "2026-10-21T01:18:51+00:00",
+   "url": "https://toss.shopping/_m/pYJTXklw",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3625.jpg"
+  },
   {
    "grade": "g5",
    "name": "디센느 무선 칫솔 살균기, DSTS002, 퓨어화이트, 1개",
