@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-21T04:02:50+00:00",
+ "updatedAt": "2026-10-21T04:31:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "유한메디카 고함량 마그네슘 엔 탑 400 맥스, 90정, 1개",
+   "price": 7080,
+   "unit": "",
+   "at": "2026-10-21T04:31:52+00:00",
+   "url": "https://toss.shopping/_m/7GWjrLKa",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5245.jpg"
+  },
   {
    "grade": "g2",
    "name": "닥터킴스 MSM 콘드로이친 1300 마사지크림, 150ml, 6개",
