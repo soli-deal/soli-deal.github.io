@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-10-21T23:00:50+00:00",
+ "updatedAt": "2026-10-21T23:01:50+00:00",
  "mode": "day",
  "day": "2026-10-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "사운독스 노이즈 캔슬링 무선 이어폰, Y-07, 화이트, 1개",
+   "price": 16900,
+   "unit": "",
+   "at": "2026-10-21T23:01:50+00:00",
+   "url": "https://toss.shopping/_m/voP5cjM",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/194.jpg"
+  }
+ ],
  "picks": []
 }
