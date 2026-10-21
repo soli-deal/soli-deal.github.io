@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-21T04:31:50+00:00",
+ "updatedAt": "2026-10-21T05:18:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "메가부스트C 크리스탈 비타민C 3000, 3g, 100포, 1박스",
+   "price": 11900,
+   "unit": "",
+   "at": "2026-10-21T05:20:58+00:00",
+   "url": "https://toss.shopping/_m/D3Rrfxmo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/433.jpg"
+  },
   {
    "grade": "g2",
    "name": "유한메디카 고함량 마그네슘 엔 탑 400 맥스, 90정, 1개",
