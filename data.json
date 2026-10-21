@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-21T10:03:50+00:00",
+ "updatedAt": "2026-10-21T10:27:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
+   "price": 13610,
+   "unit": "100g당 272원",
+   "at": "2026-10-21T10:27:53+00:00",
+   "url": "https://toss.shopping/_m/rPiStm7w",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2186.jpg"
+  },
   {
    "grade": "g0",
    "name": "아이앤어스 다크케어 고농축 캡슐세제, 100개입, 2개",
