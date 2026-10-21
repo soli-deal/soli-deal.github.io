@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T11:43:50+00:00",
+ "updatedAt": "2026-10-21T14:55:50+00:00",
  "mode": "day",
  "day": "2026-10-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -193,15 +193,24 @@
   },
   {
    "grade": "g5",
-   "name": "스파클 생수, 무라벨, 2L, 30개",
+   "name": "스프렉스 핸디형 욕실 물기제거 밀대, BR-E1000, 2개",
    "price": 11810,
-   "unit": "개당 394원 · 100ml당 20원",
+   "unit": "개당 5,905원",
    "at": "2026-10-20T23:00:50+00:00",
-   "url": "https://toss.shopping/_m/zHUU6cEs",
+   "url": "https://toss.shopping/_m/XfMqhce8",
    "sold": false,
    "tag": "",
-   "image": "thumbs/3381.jpg"
+   "image": null
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "수입산 냉동 대패삼겹살, 2kg, 1개",
+   "fact": "최근 30일 3번 품절",
+   "url": "https://toss.shopping/_m/7Ui6k4hn",
+   "image": "thumbs/5233.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-21T14:55:11+00:00"
+  }
+ ]
 }
