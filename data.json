@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-21T23:37:50+00:00",
+ "updatedAt": "2026-10-21T23:49:50+00:00",
  "mode": "day",
  "day": "2026-10-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "외갓집 오모가리 묵은지 김치찌개, 500g, 3팩",
+   "price": 11980,
+   "unit": "100g당 799원",
+   "at": "2026-10-21T23:49:53+00:00",
+   "url": "https://toss.shopping/_m/J1RZWNSt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5430.jpg"
+  },
   {
    "grade": "g5",
    "name": "클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
