@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-22T01:30:50+00:00",
+ "updatedAt": "2026-10-22T03:03:50+00:00",
  "mode": "day",
  "day": "2026-10-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "에이팔란스 대용량 보조배터리, 20000mAh, 블랙, 1개",
+   "price": 19800,
+   "unit": "",
+   "at": "2026-10-22T03:03:53+00:00",
+   "url": "https://toss.shopping/_m/hehfcU0B",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5363.jpg"
+  },
   {
    "grade": "g2",
    "name": "보라톡스 제로슈가 파비플로라 알파CD 보라워터, 500ml, 24개",
