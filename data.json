@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-22T03:03:50+00:00",
+ "updatedAt": "2026-10-22T04:01:50+00:00",
  "mode": "day",
  "day": "2026-10-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "연세 눈건강 간건강 골드, 30캡슐, 3박스",
+   "price": 12500,
+   "unit": "",
+   "at": "2026-10-22T04:01:53+00:00",
+   "url": "https://toss.shopping/_m/fnurlHIt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3826.jpg"
+  },
   {
    "grade": "g2",
    "name": "에이팔란스 대용량 보조배터리, 20000mAh, 블랙, 1개",
