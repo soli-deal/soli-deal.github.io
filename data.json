@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-21T23:49:50+00:00",
+ "updatedAt": "2026-10-22T00:19:50+00:00",
  "mode": "day",
  "day": "2026-10-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "Earnest F&B 미니 약과도넛, 황치즈맛, 개별포장, 400g, 20개입, 1개",
+   "price": 8390,
+   "unit": "100g당 2,098원",
+   "at": "2026-10-22T00:19:53+00:00",
+   "url": "https://toss.shopping/_m/teGmI0Hp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5513.jpg"
+  },
   {
    "grade": "g5",
    "name": "외갓집 오모가리 묵은지 김치찌개, 500g, 3팩",
