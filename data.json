@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-22T23:14:50+00:00",
+ "updatedAt": "2026-10-22T23:26:50+00:00",
  "mode": "day",
  "day": "2026-10-23",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "리퀴드 핑크로즈 섬유유연제, 2.5L, 4개",
+   "price": 6900,
+   "unit": "개당 1,725원 · 100ml당 69원",
+   "at": "2026-10-22T23:26:50+00:00",
+   "url": "https://toss.shopping/_m/NnyLl651",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/827.jpg"
+  },
   {
    "grade": "g5",
    "name": "지오클린 레몬 주방세제, 4L, 2개",
