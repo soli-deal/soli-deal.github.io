@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-22T00:48:50+00:00",
+ "updatedAt": "2026-10-22T01:19:50+00:00",
  "mode": "day",
  "day": "2026-10-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "청란 무항생제 계란, 30개",
+   "price": 24204,
+   "unit": "개당 807원",
+   "at": "2026-10-22T01:19:50+00:00",
+   "url": "https://toss.shopping/_m/tZHwmI8A",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5479.jpg"
+  },
   {
    "grade": "g5",
    "name": "마마프랑 주방세제 레몬향, 500ml, 4개",
