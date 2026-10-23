@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-23T23:01:50+00:00",
+ "updatedAt": "2026-10-23T23:13:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
+   "price": 10710,
+   "unit": "",
+   "at": "2026-10-23T23:13:52+00:00",
+   "url": "https://toss.shopping/_m/LfnUT8IC",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/482.jpg"
+  },
   {
    "grade": "g2",
    "name": "자가발열 무릎 보호대, 블랙, FREE, 1쌍",
