@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-23T10:28:50+00:00",
+ "updatedAt": "2026-10-23T10:56:50+00:00",
  "mode": "day",
  "day": "2026-10-23",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "자이글 온 오투스페이스, ZAOP-A21, 무선, 음이온, 화이트, 1개",
+   "price": 14600,
+   "unit": "",
+   "at": "2026-10-23T10:56:53+00:00",
+   "url": "https://toss.shopping/_m/PUx2raFj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5585.jpg"
+  },
   {
    "grade": "g2",
    "name": "동의삼 프리미엄 데일리 산삼배양근스틱, 10g, 30포, 1개",
