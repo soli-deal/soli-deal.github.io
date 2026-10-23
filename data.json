@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T11:24:50+00:00",
+ "updatedAt": "2026-10-23T11:47:50+00:00",
  "mode": "day",
  "day": "2026-10-23",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -14,17 +14,6 @@
    "sold": false,
    "tag": "",
    "image": "thumbs/1418.jpg"
-  },
-  {
-   "grade": "g2",
-   "name": "자이글 온 오투스페이스, ZAOP-A21, 무선, 음이온, 화이트, 1개",
-   "price": 14600,
-   "unit": "",
-   "at": "2026-10-23T10:56:53+00:00",
-   "url": "https://toss.shopping/_m/PUx2raFj",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/5585.jpg"
   },
   {
    "grade": "g2",
@@ -104,23 +93,23 @@
    "image": "thumbs/5675.jpg"
   },
   {
-   "grade": "g2",
-   "name": "남성 스포츠 양말, 블랙 2개 + 화이트 2개 + 그레이 2개, FREE(250mm-280mm), 1세트",
+   "grade": "g0",
+   "name": null,
    "price": 10500,
-   "unit": "",
+   "unit": "개당 5,250원",
    "at": "2026-10-23T01:33:54+00:00",
-   "url": "https://toss.shopping/_m/Feo3zC92",
+   "url": "https://toss.shopping/_m/LqUBZicB",
    "sold": false,
    "tag": "",
-   "image": "thumbs/5603.jpg"
+   "image": null
   },
   {
    "grade": "g5",
-   "name": "뉴케어 올프로틴 바나나맛, 245ml, 24팩, 1박스",
+   "name": "수입산 냉동 대패삼겹살, 2kg, 1개",
    "price": 37900,
-   "unit": "100ml당 15,469원",
+   "unit": "100g당 1,895원",
    "at": "2026-10-23T01:20:50+00:00",
-   "url": "https://toss.shopping/_m/T1yIm1Ct",
+   "url": "https://toss.shopping/_m/7Ui6k4hn",
    "sold": false,
    "tag": "",
    "image": "thumbs/5602.jpg"
