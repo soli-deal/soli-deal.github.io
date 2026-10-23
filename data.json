@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-23T01:33:50+00:00",
+ "updatedAt": "2026-10-23T01:50:50+00:00",
  "mode": "day",
  "day": "2026-10-23",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 엑스트라버진 올리브오일 엔 탑 식물성캡슐, 60정, 5개",
+   "price": 21620,
+   "unit": "개당 4,324원",
+   "at": "2026-10-23T01:50:50+00:00",
+   "url": "https://toss.shopping/_m/R2FyVTHe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5675.jpg"
+  },
   {
    "grade": "g2",
    "name": "남성 스포츠 양말, 블랙 2개 + 화이트 2개 + 그레이 2개, FREE(250mm-280mm), 1세트",
