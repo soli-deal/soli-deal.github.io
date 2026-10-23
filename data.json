@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-22T23:50:50+00:00",
+ "updatedAt": "2026-10-23T00:20:50+00:00",
  "mode": "day",
  "day": "2026-10-23",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "서울약사신협 프로바이오틱스 생유산균 골드, 2.5g, 120포, 3개",
+   "price": 30900,
+   "unit": "개당 10,300원",
+   "at": "2026-10-23T00:20:53+00:00",
+   "url": "https://toss.shopping/_m/15jdIZVA",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5652.jpg"
+  },
   {
    "grade": "g5",
    "name": "잘풀리는집 퀼팅 화장지, 3겹, 30m, 24롤, 3팩",
