@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-23T00:20:50+00:00",
+ "updatedAt": "2026-10-23T00:48:50+00:00",
  "mode": "day",
  "day": "2026-10-23",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "옛날대패삼겹살 대용량, 1kg, 2개",
+   "price": 17900,
+   "unit": "개당 8,950원 · 100g당 895원",
+   "at": "2026-10-23T00:51:44+00:00",
+   "url": "https://toss.shopping/_m/dj5h0VRt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5583.jpg"
+  },
   {
    "grade": "g5",
    "name": "서울약사신협 프로바이오틱스 생유산균 골드, 2.5g, 120포, 3개",
