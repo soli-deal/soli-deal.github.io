@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-23T23:13:50+00:00",
+ "updatedAt": "2026-10-23T23:25:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
+   "price": 13200,
+   "unit": "",
+   "at": "2026-10-23T23:25:53+00:00",
+   "url": "https://toss.shopping/_m/HE0jSnBp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5735.jpg"
+  },
   {
    "grade": "g5",
    "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
