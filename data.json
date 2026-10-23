@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-10-23T23:00:50+00:00",
+ "updatedAt": "2026-10-23T23:01:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "자가발열 무릎 보호대, 블랙, FREE, 1쌍",
+   "price": 5232,
+   "unit": "",
+   "at": "2026-10-23T23:01:50+00:00",
+   "url": "https://toss.shopping/_m/vbT0k3r7",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5580.jpg"
+  }
+ ],
  "picks": []
 }
