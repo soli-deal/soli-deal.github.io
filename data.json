@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-24T00:19:50+00:00",
+ "updatedAt": "2026-10-24T00:49:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "하루견과 The오리지널, 20g, 100봉",
+   "price": 41920,
+   "unit": "봉당 419원 · 100g당 2,096원",
+   "at": "2026-10-24T00:49:53+00:00",
+   "url": "https://toss.shopping/_m/v1wPPiIf",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5734.jpg"
+  },
   {
    "grade": "g5",
    "name": "숨 시그니처 물티슈, 63gsm, 70매, 10팩",
