@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-24T23:26:50+00:00",
+ "updatedAt": "2026-10-24T23:38:50+00:00",
  "mode": "day",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "배스킨라빈스 멸균우유, 쿠키앤크림, 190ml, 24개",
+   "price": 10000,
+   "unit": "개당 417원 · 100ml당 219원",
+   "at": "2026-10-24T23:38:51+00:00",
+   "url": "https://toss.shopping/_m/VGoTcQQe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5887.jpg"
+  },
   {
    "grade": "g5",
    "name": "슈틸루스터 휴대용 무선 칫솔살균기 ST-TBS100, 화이트, 1개",
