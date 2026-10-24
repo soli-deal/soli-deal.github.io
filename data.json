@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-24T03:02:50+00:00",
+ "updatedAt": "2026-10-24T03:30:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "프룻프룻 건조 능이버섯, 100g, 1개",
+   "price": 16020,
+   "unit": "100g당 16,020원",
+   "at": "2026-10-24T03:30:53+00:00",
+   "url": "https://toss.shopping/_m/Jj2Y5vPo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5832.jpg"
+  },
   {
    "grade": "g2",
    "name": "레오폴디 카이도 주방칼 과도 가위 3종세트,단일상품",
