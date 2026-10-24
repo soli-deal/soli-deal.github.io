@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-24T02:19:50+00:00",
+ "updatedAt": "2026-10-24T02:49:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "정관장 홍삼보력, 50ml, 60포, 1박스",
+   "price": 69100,
+   "unit": "",
+   "at": "2026-10-24T02:49:50+00:00",
+   "url": "https://toss.shopping/_m/5T1UE90B",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5825.jpg"
+  },
   {
    "grade": "g5",
    "name": "백년본가 참기름, 350ml, 4개",
