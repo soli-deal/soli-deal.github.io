@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-24T01:19:50+00:00",
+ "updatedAt": "2026-10-24T01:32:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "센텔라시카 클렌징오일, 200ml, 1개",
+   "price": 10990,
+   "unit": "100ml당 5,495원",
+   "at": "2026-10-24T01:32:52+00:00",
+   "url": "https://toss.shopping/_m/ZzBzpfRD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5771.jpg"
+  },
   {
    "grade": "g5",
    "name": "엔도르시 구름 키링 스웨이드 백팩 숄더백, 커피, FREE, 1개",
