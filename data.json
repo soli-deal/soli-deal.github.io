@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-24T01:32:50+00:00",
+ "updatedAt": "2026-10-24T01:49:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "외갓집 송탄 서정리 부대찌개 550, 550g, 3개 + 오뚜기 라면사리, 110g, 1개, 1세트",
+   "price": 11000,
+   "unit": "100g당 10,000원",
+   "at": "2026-10-24T01:49:50+00:00",
+   "url": "https://toss.shopping/_m/p3aXqX7q",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5767.jpg"
+  },
   {
    "grade": "g2",
    "name": "센텔라시카 클렌징오일, 200ml, 1개",
