@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-24T10:10:50+00:00",
+ "updatedAt": "2026-10-24T10:27:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+   "price": 6500,
+   "unit": "개당 3,250원",
+   "at": "2026-10-24T10:27:52+00:00",
+   "url": "https://toss.shopping/_m/NGVOSzpr",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/102.jpg"
+  },
   {
    "grade": "g2",
    "name": "팬톤 보조배터리, PTPB-04, 10000mAh, 퍼플, 1개",
