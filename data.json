@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-24T02:02:50+00:00",
+ "updatedAt": "2026-10-24T02:19:50+00:00",
  "mode": "day",
  "day": "2026-10-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "백년본가 참기름, 350ml, 4개",
+   "price": 21600,
+   "unit": "개당 5,400원 · 100ml당 1,543원",
+   "at": "2026-10-24T02:19:50+00:00",
+   "url": "https://toss.shopping/_m/xy0FW0rs",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5806.jpg"
+  },
   {
    "grade": "g5",
    "name": "외갓집 송탄 서정리 부대찌개 550, 550g, 3개 + 오뚜기 라면사리, 110g, 1개, 1세트",
