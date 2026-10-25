@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-25T04:03:50+00:00",
+ "updatedAt": "2026-10-25T04:32:50+00:00",
  "mode": "day",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 캡슐 100, 30캡슐, 6박스",
+   "price": 16500,
+   "unit": "",
+   "at": "2026-10-25T04:32:52+00:00",
+   "url": "https://toss.shopping/_m/5L9fkPA4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5872.jpg"
+  },
   {
    "grade": "g2",
    "name": "14Brix 초고당도 제주 감귤, 5kg, 1박스",
