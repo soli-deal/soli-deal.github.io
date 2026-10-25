@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-25T02:50:50+00:00",
+ "updatedAt": "2026-10-25T03:30:50+00:00",
  "mode": "day",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "스테인리스 마늘다지기, 1개",
+   "price": 3888,
+   "unit": "",
+   "at": "2026-10-25T03:30:53+00:00",
+   "url": "https://toss.shopping/_m/350sxWOD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4736.jpg"
+  },
   {
    "grade": "g5",
    "name": "메종리빙 프리미엄 스탠딩 실리콘 지퍼백, 핑크, 500ml 1개 + 1000ml 1개 + 1500ml 1개, 3개",
