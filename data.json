@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-25T01:50:50+00:00",
+ "updatedAt": "2026-10-25T02:20:50+00:00",
  "mode": "day",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "허글리 초고농축 액상 세탁세제 미스틱퍼퓸, 3L, 1개 + 섬유유연제 미스틱퍼퓸, 3L, 1개",
+   "price": 15800,
+   "unit": "100ml당 527원",
+   "at": "2026-10-25T02:20:50+00:00",
+   "url": "https://toss.shopping/_m/1Il9RVOz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5902.jpg"
+  },
   {
    "grade": "g5",
    "name": "신일 스테인레스 두유제조기, SEP-DU1300IF, 1개",
