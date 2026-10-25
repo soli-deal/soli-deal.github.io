@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-25T04:32:50+00:00",
+ "updatedAt": "2026-10-25T05:18:50+00:00",
  "mode": "day",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "별하수 콤부차 원액, 420g, 1개",
+   "price": 10000,
+   "unit": "100g당 2,381원",
+   "at": "2026-10-25T05:21:15+00:00",
+   "url": "https://toss.shopping/_m/9l5G1BZf",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/750.jpg"
+  },
   {
    "grade": "g2",
    "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 캡슐 100, 30캡슐, 6박스",
