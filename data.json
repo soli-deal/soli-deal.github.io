@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T15:00:50+00:00",
+ "updatedAt": "2026-10-25T15:01:50+00:00",
  "mode": "night",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -203,14 +203,5 @@
    "image": "thumbs/123.jpg"
   }
  ],
- "picks": [
-  {
-   "name": "샐리의법칙 순면이 좋은날 생리대, 대형, 10개입, 5팩",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/ZZbfx9Jp",
-   "image": "thumbs/1531.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-25T14:59:51+00:00"
-  }
- ]
+ "picks": []
 }
