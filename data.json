@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-25T11:20:50+00:00",
+ "updatedAt": "2026-10-25T11:25:50+00:00",
  "mode": "day",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "싹클린 신발 클리너, 100ml, 4개",
+   "price": 5500,
+   "unit": "개당 1,375원 · 100ml당 1,375원",
+   "at": "2026-10-25T11:25:53+00:00",
+   "url": "https://toss.shopping/_m/TM3m27mm",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/187.jpg"
+  },
   {
    "grade": "g2",
    "name": "스테인리스 주방칼 6종, 블랙, 1세트",
