@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-25T03:30:50+00:00",
+ "updatedAt": "2026-10-25T04:03:50+00:00",
  "mode": "day",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "14Brix 초고당도 제주 감귤, 5kg, 1박스",
+   "price": 9900,
+   "unit": "100g당 198원",
+   "at": "2026-10-25T04:03:53+00:00",
+   "url": "https://toss.shopping/_m/VI2hSlP9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5382.jpg"
+  },
   {
    "grade": "g2",
    "name": "스테인리스 마늘다지기, 1개",
