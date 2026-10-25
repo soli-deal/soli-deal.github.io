@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-25T01:20:50+00:00",
+ "updatedAt": "2026-10-25T01:50:50+00:00",
  "mode": "day",
  "day": "2026-10-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "신일 스테인레스 두유제조기, SEP-DU1300IF, 1개",
+   "price": 61600,
+   "unit": "",
+   "at": "2026-10-25T01:50:50+00:00",
+   "url": "https://toss.shopping/_m/Pytxzpbd",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1354.jpg"
+  },
   {
    "grade": "g5",
    "name": "샐리의법칙 순면이 좋은날 생리대, 대형, 10개입, 5팩",
