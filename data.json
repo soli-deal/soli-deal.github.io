@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-26T23:28:50+00:00",
+ "updatedAt": "2026-10-26T23:40:50+00:00",
  "mode": "day",
  "day": "2026-10-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "올챌린지 뽑아쓰는 3겹 키친타올, 100매, 9개",
+   "price": 7370,
+   "unit": "개당 819원",
+   "at": "2026-10-26T23:40:52+00:00",
+   "url": "https://toss.shopping/_m/JcsLiNUb",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6291.jpg"
+  },
   {
    "grade": "g5",
    "name": "닥터방기원 리프레시 체취감소 바디워시, 1L, 2개",
