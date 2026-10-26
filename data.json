@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-10-26T23:00:50+00:00",
+ "updatedAt": "2026-10-26T23:03:50+00:00",
  "mode": "day",
  "day": "2026-10-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g5",
+   "name": "김설희 고기손만두, 420g, 2봉 + 김치손만두, 420g, 2봉",
+   "price": 11070,
+   "unit": "봉당 5,535원 · 100g당 1,318원",
+   "at": "2026-10-26T23:10:32+00:00",
+   "url": "https://toss.shopping/_m/jQJ2gtld",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3887.jpg"
+  }
+ ],
  "picks": []
 }
