@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-26T02:50:50+00:00",
+ "updatedAt": "2026-10-26T03:02:50+00:00",
  "mode": "day",
  "day": "2026-10-26",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "선쉐이드 자외선 완벽차단 햇빛가리개, 전좌석 올인원, 블랙, 4개입, 1세트",
+   "price": 5300,
+   "unit": "",
+   "at": "2026-10-26T03:02:52+00:00",
+   "url": "https://toss.shopping/_m/tempIBOe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6048.jpg"
+  },
   {
    "grade": "g5",
    "name": "크리스탈 생수, 무라벨, 2L, 12개",
