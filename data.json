@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-27T02:22:50+00:00",
+ "updatedAt": "2026-10-27T02:52:50+00:00",
  "mode": "day",
  "day": "2026-10-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 3개",
+   "price": 14330,
+   "unit": "개당 4,777원",
+   "at": "2026-10-27T02:52:50+00:00",
+   "url": "https://toss.shopping/_m/9VIU1Hts",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6241.jpg"
+  },
   {
    "grade": "g5",
    "name": "목우촌 저당 닭가슴살 6종, 100g, 12개",
