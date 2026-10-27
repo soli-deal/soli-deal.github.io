@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-27T03:33:50+00:00",
+ "updatedAt": "2026-10-27T04:33:50+00:00",
  "mode": "day",
  "day": "2026-10-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "유한메디카 바나바 엔 탑 혈당케어, 60정, 3개",
+   "price": 14230,
+   "unit": "개당 4,743원",
+   "at": "2026-10-27T04:33:53+00:00",
+   "url": "https://toss.shopping/_m/Xie87Igx",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6213.jpg"
+  },
   {
    "grade": "g3",
    "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
