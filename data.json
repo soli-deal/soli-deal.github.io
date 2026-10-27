@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-27T03:22:50+00:00",
+ "updatedAt": "2026-10-27T03:33:50+00:00",
  "mode": "day",
  "day": "2026-10-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g3",
+   "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
+   "price": 11900,
+   "unit": "개당 496원 · 100ml당 261원",
+   "at": "2026-10-27T03:33:53+00:00",
+   "url": "https://toss.shopping/_m/xQMUbTkm",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3399.jpg"
+  },
   {
    "grade": "g5",
    "name": "필립스 오픈형 무선 블루투스 이어폰, TAT1138, 블랙, 1개",
