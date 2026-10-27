@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-27T23:03:50+00:00",
+ "updatedAt": "2026-10-27T23:28:50+00:00",
  "mode": "day",
  "day": "2026-10-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "블로즈 엑소셀 마스크팩, 5매입, 5개",
+   "price": 12600,
+   "unit": "개당 2,520원",
+   "at": "2026-10-27T23:28:53+00:00",
+   "url": "https://toss.shopping/_m/vVfbR1c1",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6444.jpg"
+  },
   {
    "grade": "g5",
    "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
