@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-27T14:59:50+00:00",
- "mode": "day",
+ "updatedAt": "2026-10-27T15:00:50+00:00",
+ "mode": "night",
  "day": "2026-10-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
@@ -148,14 +148,5 @@
    "image": "thumbs/3887.jpg"
   }
  ],
- "picks": [
-  {
-   "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-   "fact": "최근 30일 6번 품절",
-   "url": "https://toss.shopping/_m/VAlwiCRa",
-   "image": "thumbs/92.jpg",
-   "in_stock": false,
-   "checked_at": "2026-10-27T14:59:31+00:00"
-  }
- ]
+ "picks": []
 }
