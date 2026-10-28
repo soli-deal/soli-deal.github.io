@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-28T04:33:50+00:00",
+ "updatedAt": "2026-10-28T07:31:50+00:00",
  "mode": "day",
  "day": "2026-10-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "고궁 통참깨 참기름, 350ml, 4개",
+   "price": 19150,
+   "unit": "개당 4,788원 · 100ml당 1,368원",
+   "at": "2026-10-28T07:31:50+00:00",
+   "url": "https://toss.shopping/_m/1OaK3DKe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1030.jpg"
+  },
   {
    "grade": "g2",
    "name": "종합전병, 720g, 1개",
