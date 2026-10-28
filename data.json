@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-28T07:31:50+00:00",
+ "updatedAt": "2026-10-28T10:57:50+00:00",
  "mode": "day",
  "day": "2026-10-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "스텐 기름국자, 1개",
+   "price": 5841,
+   "unit": "",
+   "at": "2026-10-28T10:57:50+00:00",
+   "url": "https://toss.shopping/_m/xCHbxfOz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4738.jpg"
+  },
   {
    "grade": "g0",
    "name": "고궁 통참깨 참기름, 350ml, 4개",
