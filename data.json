@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-28T02:22:50+00:00",
+ "updatedAt": "2026-10-28T02:52:50+00:00",
  "mode": "day",
  "day": "2026-10-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "비타민 브라이트닝 앰플, 30ml, 4개",
+   "price": 10200,
+   "unit": "개당 2,550원 · 100ml당 8,500원",
+   "at": "2026-10-28T02:52:50+00:00",
+   "url": "https://toss.shopping/_m/t7pQDuSy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6356.jpg"
+  },
   {
    "grade": "g5",
    "name": "뉴트리원 면역앤 생 유산균, 100포, 1개",
