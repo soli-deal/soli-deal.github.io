@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-28T01:22:50+00:00",
+ "updatedAt": "2026-10-28T01:32:50+00:00",
  "mode": "day",
  "day": "2026-10-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "펩타이드 에너지 앰플, 30ml, 4개",
+   "price": 10200,
+   "unit": "개당 2,550원 · 100ml당 8,500원",
+   "at": "2026-10-28T01:32:53+00:00",
+   "url": "https://toss.shopping/_m/XMFkR0HD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6414.jpg"
+  },
   {
    "grade": "g5",
    "name": "닥터방기원 랩 샴푸, 1L, 2개",
