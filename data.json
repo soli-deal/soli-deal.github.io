@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-28T02:52:50+00:00",
+ "updatedAt": "2026-10-28T04:01:50+00:00",
  "mode": "day",
  "day": "2026-10-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "드림이음 눈건강 프리미엄 루테인 골드 베타카로틴, 30정, 3개",
+   "price": 9500,
+   "unit": "개당 3,167원",
+   "at": "2026-10-28T04:01:53+00:00",
+   "url": "https://toss.shopping/_m/DbJqOQ6b",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6339.jpg"
+  },
   {
    "grade": "g5",
    "name": "비타민 브라이트닝 앰플, 30ml, 4개",
