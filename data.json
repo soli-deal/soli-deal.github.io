@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-28T23:12:50+00:00",
+ "updatedAt": "2026-10-28T23:24:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "살림백서 오브제 퍼퓸 바디워시, 화이트머스크, 1L, 2개",
+   "price": 9000,
+   "unit": "개당 4,500원 · 100ml당 450원",
+   "at": "2026-10-28T23:24:53+00:00",
+   "url": "https://toss.shopping/_m/JHpW2Voy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6563.jpg"
+  },
   {
    "grade": "g5",
    "name": "프로프룻 전라도 총각김치, 3kg, 1박스",
