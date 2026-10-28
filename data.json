@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-28T11:16:50+00:00",
+ "updatedAt": "2026-10-28T11:22:50+00:00",
  "mode": "day",
  "day": "2026-10-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "종근당건강 아이클리어 루테인, 30캡슐, 3개",
+   "price": 13310,
+   "unit": "개당 4,437원",
+   "at": "2026-10-28T11:22:53+00:00",
+   "url": "https://toss.shopping/_m/tDy7Qb31",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6381.jpg"
+  },
   {
    "grade": "g2",
    "name": "스텐 기름국자, 1개",
