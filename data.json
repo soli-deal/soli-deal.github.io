@@ -1,184 +1,19 @@
 {
- "updatedAt": "2026-10-28T15:00:50+00:00",
- "mode": "night",
- "day": "2026-10-28",
+ "updatedAt": "2026-10-28T23:00:50+00:00",
+ "mode": "day",
+ "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
   {
-   "grade": "g2",
-   "name": "종근당건강 아이클리어 루테인, 30캡슐, 3개",
-   "price": 13310,
-   "unit": "개당 4,437원",
-   "at": "2026-10-28T11:22:53+00:00",
-   "url": "https://toss.shopping/_m/tDy7Qb31",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6381.jpg"
-  },
-  {
-   "grade": "g2",
-   "name": "스텐 기름국자, 1개",
-   "price": 5841,
+   "grade": "g5",
+   "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
+   "price": 8720,
    "unit": "",
-   "at": "2026-10-28T10:57:50+00:00",
-   "url": "https://toss.shopping/_m/xCHbxfOz",
+   "at": "2026-10-28T23:00:50+00:00",
+   "url": "https://toss.shopping/_m/nOqMRQUo",
    "sold": false,
    "tag": "",
-   "image": "thumbs/4738.jpg"
-  },
-  {
-   "grade": "g0",
-   "name": "고궁 통참깨 참기름, 350ml, 4개",
-   "price": 19150,
-   "unit": "개당 4,788원 · 100ml당 1,368원",
-   "at": "2026-10-28T07:31:50+00:00",
-   "url": "https://toss.shopping/_m/1OaK3DKe",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/1030.jpg"
-  },
-  {
-   "grade": "g2",
-   "name": "종합전병, 720g, 1개",
-   "price": 6760,
-   "unit": "100g당 939원",
-   "at": "2026-10-28T04:33:52+00:00",
-   "url": "https://toss.shopping/_m/541bxQmj",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/111.jpg"
-  },
-  {
-   "grade": "g2",
-   "name": "드림이음 눈건강 프리미엄 루테인 골드 베타카로틴, 30정, 3개",
-   "price": 9500,
-   "unit": "개당 3,167원",
-   "at": "2026-10-28T04:01:53+00:00",
-   "url": "https://toss.shopping/_m/DbJqOQ6b",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6339.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "비타민 브라이트닝 앰플, 30ml, 4개",
-   "price": 10200,
-   "unit": "개당 2,550원 · 100ml당 8,500원",
-   "at": "2026-10-28T02:52:50+00:00",
-   "url": "https://toss.shopping/_m/t7pQDuSy",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6356.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "뉴트리원 면역앤 생 유산균, 100포, 1개",
-   "price": 13600,
-   "unit": "",
-   "at": "2026-10-28T02:22:53+00:00",
-   "url": "https://toss.shopping/_m/dVOmp8sw",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6366.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "케라시스 두피 쿨링 단백질 샴푸, 지성 비듬, 980ml, 2개",
-   "price": 9800,
-   "unit": "개당 4,900원 · 100ml당 500원",
-   "at": "2026-10-28T01:52:53+00:00",
-   "url": "https://toss.shopping/_m/NSFhkybn",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6368.jpg"
-  },
-  {
-   "grade": "g2",
-   "name": "펩타이드 에너지 앰플, 30ml, 4개",
-   "price": 10200,
-   "unit": "개당 2,550원 · 100ml당 8,500원",
-   "at": "2026-10-28T01:32:53+00:00",
-   "url": "https://toss.shopping/_m/XMFkR0HD",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6414.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "닥터방기원 랩 샴푸, 1L, 2개",
-   "price": 15250,
-   "unit": "개당 7,625원 · 100ml당 762원",
-   "at": "2026-10-28T01:22:53+00:00",
-   "url": "https://toss.shopping/_m/luwuyA2w",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6375.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "전라도 알타리 총각김치, 3kg, 1개",
-   "price": 12970,
-   "unit": "100g당 432원",
-   "at": "2026-10-28T00:52:50+00:00",
-   "url": "https://toss.shopping/_m/v3JG6lIj",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6343.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "경남제약 혈당 바나바 유산균 락토, 500mg, 3박스",
-   "price": 12600,
-   "unit": "",
-   "at": "2026-10-28T00:22:50+00:00",
-   "url": "https://toss.shopping/_m/tIRCKryd",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6355.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "리빙아트 프로벨라 핸들형 스텐 김치통, 4200ml, 1개",
-   "price": 11080,
-   "unit": "100ml당 264원",
-   "at": "2026-10-27T23:52:53+00:00",
-   "url": "https://toss.shopping/_m/JQ01Rxow",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6463.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "예지미인 데일리센스 요실금 기저귀 팬티형, 중형, 10개입, 8팩",
-   "price": 27320,
-   "unit": "",
-   "at": "2026-10-27T23:40:53+00:00",
-   "url": "https://toss.shopping/_m/7DcXXzrs",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2333.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "블로즈 엑소셀 마스크팩, 5매입, 5개",
-   "price": 12600,
-   "unit": "개당 2,520원",
-   "at": "2026-10-27T23:28:53+00:00",
-   "url": "https://toss.shopping/_m/vVfbR1c1",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6444.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
-   "price": 11600,
-   "unit": "",
-   "at": "2026-10-27T23:11:26+00:00",
-   "url": "https://toss.shopping/_m/h9RHpmFz",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/106.jpg"
+   "image": "thumbs/498.jpg"
   }
  ],
  "picks": []
