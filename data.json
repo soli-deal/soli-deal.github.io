@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-29T23:19:50+00:00",
+ "updatedAt": "2026-10-29T23:55:50+00:00",
  "mode": "day",
  "day": "2026-10-30",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "전통압착 통참기름, 350ml, 3개",
+   "price": 15630,
+   "unit": "개당 5,210원 · 100ml당 1,489원",
+   "at": "2026-10-29T23:55:52+00:00",
+   "url": "https://toss.shopping/_m/dJ5UeXUy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2539.jpg"
+  },
   {
    "grade": "g5",
    "name": "에코브릭 약산성 블랙 샴푸바, 100g, 2개",
