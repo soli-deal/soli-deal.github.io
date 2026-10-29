@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-29T10:30:50+00:00",
+ "updatedAt": "2026-10-29T10:58:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 4개",
+   "price": 12010,
+   "unit": "개당 3,002원",
+   "at": "2026-10-29T10:58:53+00:00",
+   "url": "https://toss.shopping/_m/fCYIBq88",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/697.jpg"
+  },
   {
    "grade": "g2",
    "name": "곰팡이 제거 발포 세탁조 클리너, 220g, 2박스",
