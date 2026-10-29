@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-29T10:03:50+00:00",
+ "updatedAt": "2026-10-29T10:30:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "곰팡이 제거 발포 세탁조 클리너, 220g, 2박스",
+   "price": 10310,
+   "unit": "100g당 2,343원",
+   "at": "2026-10-29T10:30:53+00:00",
+   "url": "https://toss.shopping/_m/vUbgvZw9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6586.jpg"
+  },
   {
    "grade": "g0",
    "name": "캐츠랑 리브레 고양이 사료, 5kg, 1개",
