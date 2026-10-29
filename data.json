@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T11:09:50+00:00",
+ "updatedAt": "2026-10-29T11:18:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -193,6 +193,14 @@
   }
  ],
  "picks": [
+  {
+   "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
+   "fact": "최근 30일 2번 품절",
+   "url": "https://toss.shopping/_m/nOqMRQUo",
+   "image": "thumbs/498.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-29T11:18:51+00:00"
+  },
   {
    "name": "풀무원 샘물 생수, 무라벨, 2L, 12개",
    "fact": "최근 30일 2번 품절",
