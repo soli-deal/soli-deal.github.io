@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-29T02:18:50+00:00",
+ "updatedAt": "2026-10-29T03:03:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "에이팔란스 대용량 보조배터리, 20000mAh, 화이트, 1개",
+   "price": 19800,
+   "unit": "",
+   "at": "2026-10-29T03:03:54+00:00",
+   "url": "https://toss.shopping/_m/py0v2tCi",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4383.jpg"
+  },
   {
    "grade": "g5",
    "name": "풀무원 샘물 생수, 무라벨, 2L, 12개",
