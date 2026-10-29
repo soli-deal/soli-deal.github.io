@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T10:58:50+00:00",
+ "updatedAt": "2026-10-29T11:00:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -192,5 +192,14 @@
    "image": "thumbs/498.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "풀무원 샘물 생수, 무라벨, 2L, 12개",
+   "fact": "최근 30일 2번 품절",
+   "url": "https://toss.shopping/_m/JTpmTB7q",
+   "image": "thumbs/5214.jpg",
+   "in_stock": false,
+   "checked_at": "2026-10-29T10:59:20+00:00"
+  }
+ ]
 }
