@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-28T23:48:50+00:00",
+ "updatedAt": "2026-10-29T00:18:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "청우 계란과자, 40g, 24개",
+   "price": 12710,
+   "unit": "개당 530원 · 100g당 1,324원",
+   "at": "2026-10-29T00:18:51+00:00",
+   "url": "https://toss.shopping/_m/fKqCYzDn",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2200.jpg"
+  },
   {
    "grade": "g5",
    "name": "농가살리기 딸기색 찹쌀떡, 60g, 30개입, 1박스",
