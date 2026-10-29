@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-29T08:55:50+00:00",
+ "updatedAt": "2026-10-29T10:03:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "캐츠랑 리브레 고양이 사료, 5kg, 1개",
+   "price": 14870,
+   "unit": "100g당 297원",
+   "at": "2026-10-29T10:03:53+00:00",
+   "url": "https://toss.shopping/_m/voZ0OiF3",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1474.jpg"
+  },
   {
    "grade": "g5",
    "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
