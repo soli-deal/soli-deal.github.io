@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-29T00:48:50+00:00",
+ "updatedAt": "2026-10-29T01:18:50+00:00",
  "mode": "day",
  "day": "2026-10-29",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "연세두유 무가당 고칼슘 두유, 검은콩, 190ml, 32개",
+   "price": 13650,
+   "unit": "개당 427원 · 100ml당 225원",
+   "at": "2026-10-29T01:18:51+00:00",
+   "url": "https://toss.shopping/_m/FptOnvf2",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6548.jpg"
+  },
   {
    "grade": "g5",
    "name": "후디스 소화편한 우유 바나나, 190ml, 24개",
