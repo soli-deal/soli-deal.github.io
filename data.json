@@ -1,42 +1,8 @@
 {
- "updatedAt": "2026-10-30T15:00:50+00:00",
- "mode": "night",
- "day": "2026-10-30",
+ "updatedAt": "2026-10-30T23:00:50+00:00",
+ "mode": "day",
+ "day": "2026-10-31",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [
-  {
-   "grade": "g5",
-   "name": "전통압착 통참기름, 350ml, 3개",
-   "price": 15630,
-   "unit": "개당 5,210원 · 100ml당 1,489원",
-   "at": "2026-10-29T23:55:52+00:00",
-   "url": "https://toss.shopping/_m/dJ5UeXUy",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2539.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "에코브릭 약산성 블랙 샴푸바, 100g, 2개",
-   "price": 9100,
-   "unit": "개당 4,550원 · 100g당 4,550원",
-   "at": "2026-10-29T23:19:52+00:00",
-   "url": "https://toss.shopping/_m/zEPeUWCf",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2026.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 48개",
-   "price": 15980,
-   "unit": "개당 333원 · 100ml당 175원",
-   "at": "2026-10-29T23:11:08+00:00",
-   "url": "https://toss.shopping/_m/deodtp8B",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/1700.jpg"
-  }
- ],
+ "deals": [],
  "picks": []
 }
