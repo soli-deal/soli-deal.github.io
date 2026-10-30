@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-30T23:03:50+00:00",
+ "updatedAt": "2026-10-30T23:52:50+00:00",
  "mode": "day",
  "day": "2026-10-31",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "광천김 곱창김 도시락김, 5g, 27개",
+   "price": 10140,
+   "unit": "개당 376원 · 100g당 7,511원",
+   "at": "2026-10-30T23:52:51+00:00",
+   "url": "https://toss.shopping/_m/FGQrXiry",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1011.jpg"
+  },
   {
    "grade": "g5",
    "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
