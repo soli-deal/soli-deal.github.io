@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-10-30T23:00:50+00:00",
+ "updatedAt": "2026-10-30T23:03:50+00:00",
  "mode": "day",
  "day": "2026-10-31",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g5",
+   "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
+   "price": 8900,
+   "unit": "100g당 856원",
+   "at": "2026-10-30T23:11:10+00:00",
+   "url": "https://toss.shopping/_m/vNcNaPFp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1305.jpg"
+  }
+ ],
  "picks": []
 }
