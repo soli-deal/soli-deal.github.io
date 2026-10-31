@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-10-31T23:01:50+00:00",
+ "updatedAt": "2026-10-31T23:13:50+00:00",
  "mode": "day",
  "day": "2026-11-01",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "맛팜 신 곱창볶음, 250g, 2개",
+   "price": 8900,
+   "unit": "개당 4,450원 · 100g당 1,780원",
+   "at": "2026-10-31T23:13:55+00:00",
+   "url": "https://toss.shopping/_m/B9CMn9Zu",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1302.jpg"
+  },
   {
    "grade": "g0",
    "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
