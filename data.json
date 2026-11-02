@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-02T23:06:19+00:00",
+ "updatedAt": "2026-11-02T23:30:19+00:00",
  "mode": "day",
  "day": "2026-11-03",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 칼슘 마그네슘 엔 탑 비타민D K 망간, 60정, 4개",
+   "price": 20640,
+   "unit": "개당 5,160원",
+   "at": "2026-11-02T23:29:23+00:00",
+   "url": "https://toss.shopping/_m/l2OBsp5b",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3562.jpg"
+  },
   {
    "grade": "g5",
    "name": "김삼두장인 두부야채어묵바, 150g, 5봉",
