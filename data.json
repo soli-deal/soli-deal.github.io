@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-02T23:30:19+00:00",
+ "updatedAt": "2026-11-02T23:42:19+00:00",
  "mode": "day",
  "day": "2026-11-03",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "GNM 종합비타민미네랄15, 30정, 3개",
+   "price": 9470,
+   "unit": "개당 3,157원",
+   "at": "2026-11-02T23:41:23+00:00",
+   "url": "https://toss.shopping/_m/FKKXw5Ht",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3090.jpg"
+  },
   {
    "grade": "g5",
    "name": "유한메디카 칼슘 마그네슘 엔 탑 비타민D K 망간, 60정, 4개",
