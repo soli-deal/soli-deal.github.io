@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-03T23:00:19+00:00",
+ "updatedAt": "2026-11-03T23:06:19+00:00",
  "mode": "day",
  "day": "2026-11-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g5",
+   "name": "전라도 총각김치, HACCP, 당일제조, 5kg, 1박스",
+   "price": 19710,
+   "unit": "100g당 394원",
+   "at": "2026-11-03T23:05:21+00:00",
+   "url": "https://toss.shopping/_m/HEaF8sHD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2048.jpg"
+  }
+ ],
  "picks": []
 }
