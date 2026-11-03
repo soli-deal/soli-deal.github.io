@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-03T00:24:19+00:00",
+ "updatedAt": "2026-11-03T00:54:19+00:00",
  "mode": "day",
  "day": "2026-11-03",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "천년참기름, 350ml, 2개",
+   "price": 12500,
+   "unit": "개당 6,250원 · 100ml당 1,786원",
+   "at": "2026-11-03T00:53:21+00:00",
+   "url": "https://toss.shopping/_m/ZAlYwVir",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2638.jpg"
+  },
   {
    "grade": "g5",
    "name": "미소 강아지 기능성 사료, 피부/피모, 2kg, 1개",
