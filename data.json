@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-02T23:42:19+00:00",
+ "updatedAt": "2026-11-03T00:24:19+00:00",
  "mode": "day",
  "day": "2026-11-03",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "미소 강아지 기능성 사료, 피부/피모, 2kg, 1개",
+   "price": 7815,
+   "unit": "100g당 391원",
+   "at": "2026-11-03T00:23:21+00:00",
+   "url": "https://toss.shopping/_m/HYhTE3Ly",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1451.jpg"
+  },
   {
    "grade": "g5",
    "name": "GNM 종합비타민미네랄15, 30정, 3개",
