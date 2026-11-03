@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-03T03:03:19+00:00",
+ "updatedAt": "2026-11-03T03:33:19+00:00",
  "mode": "day",
  "day": "2026-11-03",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+   "price": 8110,
+   "unit": "개당 4,055원 · 100ml당 2,703원",
+   "at": "2026-11-03T03:32:24+00:00",
+   "url": "https://toss.shopping/_m/1QEvaglw",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2921.jpg"
+  },
   {
    "grade": "g2",
    "name": "스테인리스 마늘다지기, 1개",
