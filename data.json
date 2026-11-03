@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-03T00:54:19+00:00",
+ "updatedAt": "2026-11-03T03:03:19+00:00",
  "mode": "day",
  "day": "2026-11-03",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "스테인리스 마늘다지기, 1개",
+   "price": 3888,
+   "unit": "",
+   "at": "2026-11-03T03:02:24+00:00",
+   "url": "https://toss.shopping/_m/350sxWOD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4736.jpg"
+  },
   {
    "grade": "g5",
    "name": "천년참기름, 350ml, 2개",
