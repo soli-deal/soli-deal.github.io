@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-03T23:54:19+00:00",
+ "updatedAt": "2026-11-04T03:31:19+00:00",
  "mode": "day",
  "day": "2026-11-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "리퀴드 고농축 라벤더 세탁세제, 2.5L, 4개",
+   "price": 12900,
+   "unit": "개당 3,225원 · 100ml당 129원",
+   "at": "2026-11-04T03:30:20+00:00",
+   "url": "https://toss.shopping/_m/Pnb99GXA",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1564.jpg"
+  },
   {
    "grade": "g5",
    "name": "질레트 호환용 신형 프로글라이드 퓨전파워 5중 면도날, 16개",
