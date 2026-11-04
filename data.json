@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T03:31:19+00:00",
+ "updatedAt": "2026-11-04T11:01:19+00:00",
  "mode": "day",
  "day": "2026-11-04",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -49,5 +49,14 @@
    "image": "thumbs/2048.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "동국제약 혈행건강 초임계 알티지 오메가3, 1007mg, 30캡슐, 3박스",
+   "fact": "최근 30일 2번 품절",
+   "url": "https://toss.shopping/_m/n2UmTyrd",
+   "image": "thumbs/1084.jpg",
+   "in_stock": false,
+   "checked_at": "2026-11-04T10:58:19+00:00"
+  }
+ ]
 }
