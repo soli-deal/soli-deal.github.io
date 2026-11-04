@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-04T23:13:19+00:00",
+ "updatedAt": "2026-11-04T23:25:19+00:00",
  "mode": "day",
  "day": "2026-11-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "외갓집 닭양 만두, 180g, 10팩",
+   "price": 17690,
+   "unit": "100g당 983원",
+   "at": "2026-11-04T23:24:21+00:00",
+   "url": "https://toss.shopping/_m/RCw5e4Nf",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3524.jpg"
+  },
   {
    "grade": "g5",
    "name": "위니즈 퓨전 프로쉴드 5중날 질레트 호환용 면도기날 세트, 면도기 1개 + 면도날 12개입",
