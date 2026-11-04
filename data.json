@@ -1,62 +1,8 @@
 {
- "updatedAt": "2026-11-04T15:57:19+00:00",
- "mode": "night",
- "day": "2026-11-04",
+ "updatedAt": "2026-11-04T23:00:19+00:00",
+ "mode": "day",
+ "day": "2026-11-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [
-  {
-   "grade": "g0",
-   "name": "리퀴드 고농축 라벤더 세탁세제, 2.5L, 4개",
-   "price": 12900,
-   "unit": "개당 3,225원 · 100ml당 129원",
-   "at": "2026-11-04T03:30:20+00:00",
-   "url": "https://toss.shopping/_m/Pnb99GXA",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/1564.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "질레트 호환용 신형 프로글라이드 퓨전파워 5중 면도날, 16개",
-   "price": 7000,
-   "unit": "개당 438원",
-   "at": "2026-11-03T23:53:21+00:00",
-   "url": "https://toss.shopping/_m/ppAoDTMz",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2437.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 4개",
-   "price": 16700,
-   "unit": "개당 4,175원",
-   "at": "2026-11-03T23:17:23+00:00",
-   "url": "https://toss.shopping/_m/BCAEcbw4",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2575.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "전라도 총각김치, HACCP, 당일제조, 5kg, 1박스",
-   "price": 19710,
-   "unit": "100g당 394원",
-   "at": "2026-11-03T23:05:21+00:00",
-   "url": "https://toss.shopping/_m/HEaF8sHD",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2048.jpg"
-  }
- ],
- "picks": [
-  {
-   "name": "동국제약 혈행건강 초임계 알티지 오메가3, 1007mg, 30캡슐, 3박스",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/n2UmTyrd",
-   "image": "thumbs/1084.jpg",
-   "in_stock": false,
-   "checked_at": "2026-11-04T15:56:39+00:00"
-  }
- ]
+ "deals": [],
+ "picks": []
 }
