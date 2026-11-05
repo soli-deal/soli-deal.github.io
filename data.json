@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-05T23:04:19+00:00",
+ "updatedAt": "2026-11-05T23:16:19+00:00",
  "mode": "day",
  "day": "2026-11-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 온가족 멀티비타민 미네랄 엔 탑 원데이 케어, 90정, 2개",
+   "price": 14980,
+   "unit": "개당 7,490원",
+   "at": "2026-11-05T23:15:22+00:00",
+   "url": "https://toss.shopping/_m/BSsQfC4h",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2847.jpg"
+  },
   {
    "grade": "g0",
    "name": "순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 10팩",
