@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-05T01:49:19+00:00",
+ "updatedAt": "2026-11-05T02:19:19+00:00",
  "mode": "day",
  "day": "2026-11-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "코오롱제약 올인원 하루한알 멀티비타민, 60정, 2개",
+   "price": 8790,
+   "unit": "개당 4,395원",
+   "at": "2026-11-05T02:18:22+00:00",
+   "url": "https://toss.shopping/_m/z7e4obFo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3150.jpg"
+  },
   {
    "grade": "g5",
    "name": "어푸 질레트 호환용 5중 면도날, 오렌지검정, 4개, 4팩",
