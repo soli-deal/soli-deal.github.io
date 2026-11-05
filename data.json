@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-05T23:28:19+00:00",
+ "updatedAt": "2026-11-05T23:40:19+00:00",
  "mode": "day",
  "day": "2026-11-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "맛장군 오늘담근 생김치 겉절이, 4kg, 1개",
+   "price": 15390,
+   "unit": "100g당 385원",
+   "at": "2026-11-05T23:39:21+00:00",
+   "url": "https://toss.shopping/_m/TsojAox3",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1688.jpg"
+  },
   {
    "grade": "g5",
    "name": "비타민마을 엑스트라버진 올리브오일&대마종자유 식물성캡슐, 1,000mg, 30정, 5개",
