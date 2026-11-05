@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-05T04:04:19+00:00",
+ "updatedAt": "2026-11-05T07:33:19+00:00",
  "mode": "day",
  "day": "2026-11-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "경록고 국내산 6년근 흑삼고, 10g, 30포",
+   "price": 19650,
+   "unit": "100g당 6,550원",
+   "at": "2026-11-05T07:33:24+00:00",
+   "url": "https://toss.shopping/_m/ztsbxLcl",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3157.jpg"
+  },
   {
    "grade": "g0",
    "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
