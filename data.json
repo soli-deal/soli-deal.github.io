@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-05T07:33:19+00:00",
+ "updatedAt": "2026-11-05T10:04:19+00:00",
  "mode": "day",
  "day": "2026-11-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "정녹삼 6년근 홍삼진액 밸런스, 50ml, 30포, 2세트",
+   "price": 24500,
+   "unit": "100ml당 24,500원",
+   "at": "2026-11-05T10:03:23+00:00",
+   "url": "https://toss.shopping/_m/5hyz4iri",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1675.jpg"
+  },
   {
    "grade": "g2",
    "name": "경록고 국내산 6년근 흑삼고, 10g, 30포",
