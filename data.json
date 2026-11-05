@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-05T23:16:19+00:00",
+ "updatedAt": "2026-11-05T23:28:19+00:00",
  "mode": "day",
  "day": "2026-11-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "비타민마을 엑스트라버진 올리브오일&대마종자유 식물성캡슐, 1,000mg, 30정, 5개",
+   "price": 16600,
+   "unit": "개당 3,320원",
+   "at": "2026-11-05T23:27:21+00:00",
+   "url": "https://toss.shopping/_m/v8NyEDXy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7737.jpg"
+  },
   {
    "grade": "g5",
    "name": "유한메디카 온가족 멀티비타민 미네랄 엔 탑 원데이 케어, 90정, 2개",
