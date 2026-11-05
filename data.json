@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-05T10:04:19+00:00",
+ "updatedAt": "2026-11-05T10:32:19+00:00",
  "mode": "day",
  "day": "2026-11-05",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "한국생활건강연구소 호리온 식물성 멜라토닌 2mg, 800mg, 30정, 1개",
+   "price": 7510,
+   "unit": "",
+   "at": "2026-11-05T10:31:19+00:00",
+   "url": "https://toss.shopping/_m/nHcGAonm",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2887.jpg"
+  },
   {
    "grade": "g0",
    "name": "정녹삼 6년근 홍삼진액 밸런스, 50ml, 30포, 2세트",
