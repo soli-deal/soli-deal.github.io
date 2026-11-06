@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-06T03:03:19+00:00",
+ "updatedAt": "2026-11-06T04:04:19+00:00",
  "mode": "day",
  "day": "2026-11-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 3개",
+   "price": 9600,
+   "unit": "개당 3,200원",
+   "at": "2026-11-06T04:03:19+00:00",
+   "url": "https://toss.shopping/_m/jFwobkKf",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7705.jpg"
+  },
   {
    "grade": "g2",
    "name": "에이팔란스 대용량 보조배터리, 20000mAh, 화이트, 1개",
