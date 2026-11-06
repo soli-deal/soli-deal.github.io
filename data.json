@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-06T00:52:19+00:00",
+ "updatedAt": "2026-11-06T01:22:19+00:00",
  "mode": "day",
  "day": "2026-11-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "퍼니트 올인원 이뮨 멀티비타민, 28개입, 1박스",
+   "price": 25950,
+   "unit": "",
+   "at": "2026-11-06T01:21:22+00:00",
+   "url": "https://toss.shopping/_m/5lxLxRCd",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2947.jpg"
+  },
   {
    "grade": "g5",
    "name": "스파클 생수 무라벨, 500ml, 40병",
