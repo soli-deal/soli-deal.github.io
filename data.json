@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-06T04:04:19+00:00",
+ "updatedAt": "2026-11-06T07:34:19+00:00",
  "mode": "day",
  "day": "2026-11-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "지아자 산양유 헤어샴푸, 400ml, 4개",
+   "price": 18900,
+   "unit": "개당 4,725원 · 100ml당 1,181원",
+   "at": "2026-11-06T07:33:19+00:00",
+   "url": "https://toss.shopping/_m/B8NDM5dB",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1241.jpg"
+  },
   {
    "grade": "g2",
    "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 3개",
