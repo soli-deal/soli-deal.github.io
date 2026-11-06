@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-06T00:22:19+00:00",
+ "updatedAt": "2026-11-06T00:52:19+00:00",
  "mode": "day",
  "day": "2026-11-06",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "스파클 생수 무라벨, 500ml, 40병",
+   "price": 5900,
+   "unit": "병당 148원 · 100ml당 30원",
+   "at": "2026-11-06T00:51:19+00:00",
+   "url": "https://toss.shopping/_m/9luQNhU9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/364.jpg"
+  },
   {
    "grade": "g5",
    "name": "메르헨트 티트리 로즈마리 퍼퓸 샴푸, 화이트머스크향, 1500ml, 1+1 구성, 총 2개",
