@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-06T23:00:19+00:00",
+ "updatedAt": "2026-11-06T23:04:19+00:00",
  "mode": "day",
  "day": "2026-11-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g3",
+   "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
+   "price": 12900,
+   "unit": "100ml당 1,290원",
+   "at": "2026-11-06T23:03:19+00:00",
+   "url": "https://toss.shopping/_m/XFXlUpHi",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/489.jpg"
+  }
+ ],
  "picks": []
 }
