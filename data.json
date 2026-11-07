@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-07T01:52:19+00:00",
+ "updatedAt": "2026-11-07T02:22:19+00:00",
  "mode": "day",
  "day": "2026-11-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "밀크바오밥 하이세라 샴푸, 미모사, 500ml, 2개",
+   "price": 10430,
+   "unit": "개당 5,215원 · 100ml당 1,043원",
+   "at": "2026-11-07T02:21:19+00:00",
+   "url": "https://toss.shopping/_m/Jzd5iEPa",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7803.jpg"
+  },
   {
    "grade": "g5",
    "name": "헬로바이오 덴마크 구강유산균 자일리톨 프레시, 900mg, 30정, 6박스",
