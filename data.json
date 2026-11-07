@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-07T10:29:19+00:00",
+ "updatedAt": "2026-11-07T10:59:19+00:00",
  "mode": "day",
  "day": "2026-11-07",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g0",
+   "name": "에이스퍼플리 고농축 핑크로즈 섬유유연제, 실내건조, 2.5L, 4통",
+   "price": 8514,
+   "unit": "100ml당 341원",
+   "at": "2026-11-07T10:58:19+00:00",
+   "url": "https://toss.shopping/_m/HQRIqZ8h",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/755.jpg"
+  },
   {
    "grade": "g2",
    "name": "아크릴 수세미, 10개입, 1개",
