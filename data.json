@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-07T23:02:19+00:00",
+ "updatedAt": "2026-11-07T23:14:19+00:00",
  "mode": "day",
  "day": "2026-11-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
+   "price": 13290,
+   "unit": "100g당 1,329원",
+   "at": "2026-11-07T23:13:21+00:00",
+   "url": "https://toss.shopping/_m/Ryk3HoX5",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1672.jpg"
+  },
   {
    "grade": "g0",
    "name": "베베앙 로얄 물티슈, 70매, 20팩",
