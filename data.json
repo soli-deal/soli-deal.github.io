@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-08T23:01:19+00:00",
+ "updatedAt": "2026-11-08T23:13:19+00:00",
  "mode": "day",
  "day": "2026-11-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "전통압착 통참기름, 350ml, 4개",
+   "price": 18830,
+   "unit": "개당 4,708원 · 100ml당 1,345원",
+   "at": "2026-11-08T23:12:19+00:00",
+   "url": "https://toss.shopping/_m/JkmcJFc8",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1790.jpg"
+  },
   {
    "grade": "g5",
    "name": "코오롱제약 모로오렌지 유산균, 2g, 30포, 5개",
