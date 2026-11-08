@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-07T23:50:19+00:00",
+ "updatedAt": "2026-11-08T00:20:19+00:00",
  "mode": "day",
  "day": "2026-11-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "행운샴푸 오리지널, 500ml, 1개",
+   "price": 10400,
+   "unit": "100ml당 2,080원",
+   "at": "2026-11-08T00:19:22+00:00",
+   "url": "https://toss.shopping/_m/pRuPdZNe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7933.jpg"
+  },
   {
    "grade": "g5",
    "name": "예지미인 데일리센스 요실금 기저귀 팬티형, 대형, 9개입, 8팩",
