@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-08T23:37:19+00:00",
+ "updatedAt": "2026-11-08T23:49:19+00:00",
  "mode": "day",
  "day": "2026-11-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "진홍삼 골드, 120ml, 20병",
+   "price": 9270,
+   "unit": "병당 464원 · 100ml당 386원",
+   "at": "2026-11-08T23:48:21+00:00",
+   "url": "https://toss.shopping/_m/tS4KMLTA",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8133.jpg"
+  },
   {
    "grade": "g5",
    "name": "풍년보감 6년근 고려홍삼정 에브리데이100, 15g, 200포",
