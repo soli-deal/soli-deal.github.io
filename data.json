@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-08T23:13:19+00:00",
+ "updatedAt": "2026-11-08T23:25:19+00:00",
  "mode": "day",
  "day": "2026-11-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "지그비 빅헤드 초미세모 칫솔, 12개입, 1세트",
+   "price": 5300,
+   "unit": "",
+   "at": "2026-11-08T23:24:21+00:00",
+   "url": "https://toss.shopping/_m/fNQVwmMf",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1520.jpg"
+  },
   {
    "grade": "g5",
    "name": "전통압착 통참기름, 350ml, 4개",
