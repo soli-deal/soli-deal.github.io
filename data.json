@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-08T01:20:19+00:00",
+ "updatedAt": "2026-11-08T01:50:19+00:00",
  "mode": "day",
  "day": "2026-11-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "행운샴푸 블랙, 500ml, 4개",
+   "price": 42900,
+   "unit": "개당 10,725원 · 100ml당 2,145원",
+   "at": "2026-11-08T01:49:21+00:00",
+   "url": "https://toss.shopping/_m/FDaZTecw",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7919.jpg"
+  },
   {
    "grade": "g5",
    "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
