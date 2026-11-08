@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-08T10:58:19+00:00",
+ "updatedAt": "2026-11-08T11:26:19+00:00",
  "mode": "day",
  "day": "2026-11-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "던킨블렌드 캡슐커피, 네스프레소 호환, 에스프레소, 20개입, 4개",
+   "price": 20000,
+   "unit": "개당 5,000원",
+   "at": "2026-11-08T11:26:22+00:00",
+   "url": "https://toss.shopping/_m/34kU35mD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2979.jpg"
+  },
   {
    "grade": "g2",
    "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
