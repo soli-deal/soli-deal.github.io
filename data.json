@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-08T23:00:19+00:00",
+ "updatedAt": "2026-11-08T23:01:19+00:00",
  "mode": "day",
  "day": "2026-11-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g5",
+   "name": "코오롱제약 모로오렌지 유산균, 2g, 30포, 5개",
+   "price": 33900,
+   "unit": "개당 6,780원",
+   "at": "2026-11-08T23:00:19+00:00",
+   "url": "https://toss.shopping/_m/3MbP9PIy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7094.jpg"
+  }
+ ],
  "picks": []
 }
