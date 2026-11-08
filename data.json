@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-08T00:20:19+00:00",
+ "updatedAt": "2026-11-08T00:49:19+00:00",
  "mode": "day",
  "day": "2026-11-08",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "동의삼 6년근 홍삼녹용 원데이스틱, 30포, 3개",
+   "price": 30930,
+   "unit": "개당 10,310원",
+   "at": "2026-11-08T00:51:19+00:00",
+   "url": "https://toss.shopping/_m/Xz5YRUY4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7995.jpg"
+  },
   {
    "grade": "g5",
    "name": "행운샴푸 오리지널, 500ml, 1개",
