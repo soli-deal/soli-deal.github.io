@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-09T02:19:19+00:00",
+ "updatedAt": "2026-11-09T03:02:19+00:00",
  "mode": "day",
  "day": "2026-11-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "이장네푸드 진한 들기름, 350ml, 3개",
+   "price": 18540,
+   "unit": "개당 6,180원 · 100ml당 1,766원",
+   "at": "2026-11-09T03:01:22+00:00",
+   "url": "https://toss.shopping/_m/Bsx8aXHa",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2540.jpg"
+  },
   {
    "grade": "g5",
    "name": "하남댁 전통 참기름, 350ml, 4병",
