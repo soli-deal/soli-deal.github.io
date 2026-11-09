@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-09T10:03:19+00:00",
+ "updatedAt": "2026-11-09T10:56:19+00:00",
  "mode": "day",
  "day": "2026-11-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "슬림떡볶이 로제맛, 230g, 4개",
+   "price": 7170,
+   "unit": "개당 1,792원 · 100g당 779원",
+   "at": "2026-11-09T10:56:22+00:00",
+   "url": "https://toss.shopping/_m/TNtAxOin",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1298.jpg"
+  },
   {
    "grade": "g2",
    "name": "영진약품 초임계 알티지오메가3 퓨어골드, 30.96g, 30캡슐, 3박스",
