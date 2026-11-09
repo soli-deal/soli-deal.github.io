@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-09T01:19:19+00:00",
+ "updatedAt": "2026-11-09T01:49:19+00:00",
  "mode": "day",
  "day": "2026-11-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "모은 통참깨 참기름, 350ml, 2개",
+   "price": 11560,
+   "unit": "개당 5,780원 · 100ml당 1,651원",
+   "at": "2026-11-09T01:48:19+00:00",
+   "url": "https://toss.shopping/_m/FQlWJwic",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8042.jpg"
+  },
   {
    "grade": "g5",
    "name": "모둠 광천 김자반, 40g, 10봉",
