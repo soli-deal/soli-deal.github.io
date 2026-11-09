@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-09T23:40:19+00:00",
+ "updatedAt": "2026-11-09T23:51:19+00:00",
  "mode": "day",
  "day": "2026-11-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "조르단 클린스마일 소프트, 12개입, 1팩",
+   "price": 7690,
+   "unit": "",
+   "at": "2026-11-09T23:51:21+00:00",
+   "url": "https://toss.shopping/_m/nnx5gsbs",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8216.jpg"
+  },
   {
    "grade": "g5",
    "name": "뉴트리디데이 NEW 플러스 멀티비타민 앤 미네랄, 60정, 3개",
