@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-09T01:49:19+00:00",
+ "updatedAt": "2026-11-09T02:19:19+00:00",
  "mode": "day",
  "day": "2026-11-09",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "하남댁 전통 참기름, 350ml, 4병",
+   "price": 18440,
+   "unit": "병당 4,610원 · 100ml당 1,317원",
+   "at": "2026-11-09T02:18:19+00:00",
+   "url": "https://toss.shopping/_m/3fada8Ff",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4060.jpg"
+  },
   {
    "grade": "g5",
    "name": "모은 통참깨 참기름, 350ml, 2개",
