@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-10T03:03:19+00:00",
+ "updatedAt": "2026-11-10T03:32:19+00:00",
  "mode": "day",
  "day": "2026-11-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "록키스 타임리스 퍼펙트 골드 앰플, 13ml, 4개입, 2세트",
+   "price": 12500,
+   "unit": "",
+   "at": "2026-11-10T03:31:22+00:00",
+   "url": "https://toss.shopping/_m/lxBX0SVj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2023.jpg"
+  },
   {
    "grade": "g3",
    "name": "에이팔란스 대용량 보조배터리, 20000mAh, 화이트, 1개",
