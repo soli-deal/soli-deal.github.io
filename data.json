@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T03:32:19+00:00",
+ "updatedAt": "2026-11-10T08:12:19+00:00",
  "mode": "day",
  "day": "2026-11-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -88,7 +88,7 @@
    "unit": "",
    "at": "2026-11-10T00:52:18+00:00",
    "url": "https://toss.shopping/_m/Vz8H1yvi",
-   "sold": false,
+   "sold": true,
    "tag": "",
    "image": "thumbs/114.jpg"
   },
