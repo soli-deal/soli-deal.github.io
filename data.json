@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-10T02:52:19+00:00",
+ "updatedAt": "2026-11-10T03:03:19+00:00",
  "mode": "day",
  "day": "2026-11-10",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g3",
+   "name": "에이팔란스 대용량 보조배터리, 20000mAh, 화이트, 1개",
+   "price": 16900,
+   "unit": "",
+   "at": "2026-11-10T03:02:19+00:00",
+   "url": "https://toss.shopping/_m/py0v2tCi",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4383.jpg"
+  },
   {
    "grade": "g5",
    "name": "삼겹살, 500g, 2팩",
