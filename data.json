@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-10T23:00:19+00:00",
+ "updatedAt": "2026-11-10T23:04:19+00:00",
  "mode": "day",
  "day": "2026-11-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "뉴트리디데이 프리미엄 콘드로이친, 500mg, 90정, 2개",
+   "price": 12200,
+   "unit": "개당 6,100원",
+   "at": "2026-11-10T23:03:19+00:00",
+   "url": "https://toss.shopping/_m/7M4Ck0Do",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8188.jpg"
+  }
+ ],
  "picks": []
 }
