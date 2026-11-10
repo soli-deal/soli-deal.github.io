@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-10T23:04:19+00:00",
+ "updatedAt": "2026-11-10T23:16:19+00:00",
  "mode": "day",
  "day": "2026-11-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "전라도 전통 여린 열무김치, 3kg, 1박스",
+   "price": 12350,
+   "unit": "100g당 412원",
+   "at": "2026-11-10T23:15:19+00:00",
+   "url": "https://toss.shopping/_m/3AM94Ozn",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4592.jpg"
+  },
   {
    "grade": "g2",
    "name": "뉴트리디데이 프리미엄 콘드로이친, 500mg, 90정, 2개",
