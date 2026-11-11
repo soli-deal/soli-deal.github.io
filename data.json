@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-11T10:02:19+00:00",
+ "updatedAt": "2026-11-11T10:29:19+00:00",
  "mode": "day",
  "day": "2026-11-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "이지앤프리 블랙 에디션 김치통, 블랙, 3.2L, 2통",
+   "price": 5990,
+   "unit": "100ml당 187원",
+   "at": "2026-11-11T10:28:21+00:00",
+   "url": "https://toss.shopping/_m/R9RZk5d2",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/122.jpg"
+  },
   {
    "grade": "g2",
    "name": "지퍼 멀티 크로스백, 블랙, 1개",
