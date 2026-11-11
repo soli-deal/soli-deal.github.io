@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-11T10:29:19+00:00",
+ "updatedAt": "2026-11-11T10:56:19+00:00",
  "mode": "day",
  "day": "2026-11-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "가벼운 포켓 반달가방, 블랙, 1개",
+   "price": 5850,
+   "unit": "",
+   "at": "2026-11-11T10:55:22+00:00",
+   "url": "https://toss.shopping/_m/f5xg1FU4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4489.jpg"
+  },
   {
    "grade": "g2",
    "name": "이지앤프리 블랙 에디션 김치통, 블랙, 3.2L, 2통",
