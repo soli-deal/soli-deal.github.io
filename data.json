@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-11T02:52:19+00:00",
+ "updatedAt": "2026-11-11T03:33:19+00:00",
  "mode": "day",
  "day": "2026-11-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "스테인리스 마늘다지기, 1개",
+   "price": 3888,
+   "unit": "",
+   "at": "2026-11-11T03:32:25+00:00",
+   "url": "https://toss.shopping/_m/350sxWOD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4736.jpg"
+  },
   {
    "grade": "g5",
    "name": "질레트 호환 면도날 스윙면도기 세트, 8개입, 1개",
