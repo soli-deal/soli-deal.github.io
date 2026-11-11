@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-11T00:52:19+00:00",
+ "updatedAt": "2026-11-11T01:22:19+00:00",
  "mode": "day",
  "day": "2026-11-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "미트포테이블 냉동 삼겹살, 1kg, 2개",
+   "price": 17650,
+   "unit": "개당 8,825원 · 100g당 882원",
+   "at": "2026-11-11T01:21:22+00:00",
+   "url": "https://toss.shopping/_m/vqwnE6Yq",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8319.jpg"
+  },
   {
    "grade": "g5",
    "name": "빌리스홈 초고농축 올인원 캡슐세제 퍼펙트 클린 라벤더, 200개, 1600g, 1팩",
