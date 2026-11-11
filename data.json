@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-11T01:22:19+00:00",
+ "updatedAt": "2026-11-11T01:52:19+00:00",
  "mode": "day",
  "day": "2026-11-11",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "먹마켓 전라도 총각김치, 3kg, 1박스",
+   "price": 13860,
+   "unit": "100g당 462원",
+   "at": "2026-11-11T01:51:19+00:00",
+   "url": "https://toss.shopping/_m/VbjL8eSz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3999.jpg"
+  },
   {
    "grade": "g5",
    "name": "미트포테이블 냉동 삼겹살, 1kg, 2개",
