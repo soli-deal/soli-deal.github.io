@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-12T23:39:21+00:00",
+ "updatedAt": "2026-11-12T23:51:21+00:00",
  "mode": "day",
  "day": "2026-11-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "쉼표365 이중 미세모 칫솔, 20개입, 총 40개입, 2세트",
+   "price": 12750,
+   "unit": "",
+   "at": "2026-11-12T23:50:24+00:00",
+   "url": "https://toss.shopping/_m/ri5rZTRy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2832.jpg"
+  },
   {
    "grade": "g5",
    "name": "쫄깃바삭 한입 삼겹살, 구이용, 300g, 5개",
