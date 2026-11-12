@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-12T01:35:21+00:00",
+ "updatedAt": "2026-11-12T07:31:21+00:00",
  "mode": "day",
  "day": "2026-11-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g3",
+   "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+   "price": 11900,
+   "unit": "",
+   "at": "2026-11-12T07:30:24+00:00",
+   "url": "https://toss.shopping/_m/XWnCK2bw",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/100.jpg"
+  },
   {
    "grade": "g5",
    "name": "할리스 시그니처 아메리카노 미니, 다크, 0.9g, 100개입, 3개",
