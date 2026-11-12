@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-12T23:27:21+00:00",
+ "updatedAt": "2026-11-12T23:39:21+00:00",
  "mode": "day",
  "day": "2026-11-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "쫄깃바삭 한입 삼겹살, 구이용, 300g, 5개",
+   "price": 16690,
+   "unit": "개당 3,338원 · 100g당 1,113원",
+   "at": "2026-11-12T23:38:24+00:00",
+   "url": "https://toss.shopping/_m/FoHwWNFp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8507.jpg"
+  },
   {
    "grade": "g5",
    "name": "메르헨트 홍삼초 주름 미백 아이크림, 30ml, 10개",
