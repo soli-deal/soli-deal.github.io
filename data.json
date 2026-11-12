@@ -1,42 +1,8 @@
 {
- "updatedAt": "2026-11-12T15:00:21+00:00",
- "mode": "night",
- "day": "2026-11-12",
+ "updatedAt": "2026-11-12T23:00:21+00:00",
+ "mode": "day",
+ "day": "2026-11-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [
-  {
-   "grade": "g3",
-   "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-   "price": 11900,
-   "unit": "",
-   "at": "2026-11-12T07:30:24+00:00",
-   "url": "https://toss.shopping/_m/XWnCK2bw",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/100.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "할리스 시그니처 아메리카노 미니, 다크, 0.9g, 100개입, 3개",
-   "price": 32300,
-   "unit": "개당 10,767원",
-   "at": "2026-11-12T01:34:21+00:00",
-   "url": "https://toss.shopping/_m/tLPreFqc",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/8404.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "코오롱제약 모로오렌지 유산균, 2g, 30포, 5개",
-   "price": 33900,
-   "unit": "개당 6,780원",
-   "at": "2026-11-12T00:34:21+00:00",
-   "url": "https://toss.shopping/_m/3MbP9PIy",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/7094.jpg"
-  }
- ],
+ "deals": [],
  "picks": []
 }
