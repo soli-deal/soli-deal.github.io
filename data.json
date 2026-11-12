@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-12T00:35:21+00:00",
+ "updatedAt": "2026-11-12T01:35:21+00:00",
  "mode": "day",
  "day": "2026-11-12",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "할리스 시그니처 아메리카노 미니, 다크, 0.9g, 100개입, 3개",
+   "price": 32300,
+   "unit": "개당 10,767원",
+   "at": "2026-11-12T01:34:21+00:00",
+   "url": "https://toss.shopping/_m/tLPreFqc",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8404.jpg"
+  },
   {
    "grade": "g5",
    "name": "코오롱제약 모로오렌지 유산균, 2g, 30포, 5개",
