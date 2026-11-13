@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-13T23:00:21+00:00",
+ "updatedAt": "2026-11-13T23:02:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g0",
+   "name": "순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 10팩",
+   "price": 11290,
+   "unit": "",
+   "at": "2026-11-13T23:01:21+00:00",
+   "url": "https://toss.shopping/_m/znnmtzZ4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/484.jpg"
+  }
+ ],
  "picks": []
 }
