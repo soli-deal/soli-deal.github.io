@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T10:56:21+00:00",
+ "updatedAt": "2026-11-13T11:01:21+00:00",
  "mode": "day",
  "day": "2026-11-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -214,5 +214,14 @@
    "image": "thumbs/194.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "쫄깃바삭 한입 삼겹살, 구이용, 300g, 5개",
+   "fact": "최근 30일 2번 품절",
+   "url": "https://toss.shopping/_m/FoHwWNFp",
+   "image": "thumbs/8507.jpg",
+   "in_stock": false,
+   "checked_at": "2026-11-13T11:00:51+00:00"
+  }
+ ]
 }
