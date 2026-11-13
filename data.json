@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-13T11:22:21+00:00",
+ "updatedAt": "2026-11-13T11:28:21+00:00",
  "mode": "day",
  "day": "2026-11-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "유한메디카 초임계 rTG 오메가3 엔 탑 식물성 캡슐, 60캡슐, 2개",
+   "price": 16700,
+   "unit": "개당 8,350원",
+   "at": "2026-11-13T11:27:25+00:00",
+   "url": "https://toss.shopping/_m/DjI6eFFz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4829.jpg"
+  },
   {
    "grade": "g0",
    "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
