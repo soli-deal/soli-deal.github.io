@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-13T23:14:21+00:00",
+ "updatedAt": "2026-11-13T23:26:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "크리스탈 생수, 무라벨, 500ml, 40개",
+   "price": 6750,
+   "unit": "개당 169원 · 100ml당 34원",
+   "at": "2026-11-13T23:25:23+00:00",
+   "url": "https://toss.shopping/_m/Hoy35KDf",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3929.jpg"
+  },
   {
    "grade": "g5",
    "name": "와이니즈 질레트 호환용 5중 면도날 면도기 세트, 스윙면도기 1개 + 면도날 32개입, 1세트",
