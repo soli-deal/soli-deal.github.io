@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-13T23:26:21+00:00",
+ "updatedAt": "2026-11-13T23:38:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "사리원 소불고기, 500g, 4팩",
+   "price": 14900,
+   "unit": "100g당 745원",
+   "at": "2026-11-13T23:37:21+00:00",
+   "url": "https://toss.shopping/_m/VF5kIo7q",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1753.jpg"
+  },
   {
    "grade": "g5",
    "name": "크리스탈 생수, 무라벨, 500ml, 40개",
