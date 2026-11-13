@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-13T23:38:21+00:00",
+ "updatedAt": "2026-11-13T23:50:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "이롬 국내산 약콩 무가당 두유, 190ml, 32개",
+   "price": 13900,
+   "unit": "개당 434원 · 100ml당 229원",
+   "at": "2026-11-13T23:49:21+00:00",
+   "url": "https://toss.shopping/_m/HFExkjPa",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4052.jpg"
+  },
   {
    "grade": "g5",
    "name": "사리원 소불고기, 500g, 4팩",
