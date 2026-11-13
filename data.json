@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-13T00:51:21+00:00",
+ "updatedAt": "2026-11-13T01:21:21+00:00",
  "mode": "day",
  "day": "2026-11-13",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "부안댁 참기름, 350ml, 2개",
+   "price": 11100,
+   "unit": "개당 5,550원 · 100ml당 1,586원",
+   "at": "2026-11-13T01:20:21+00:00",
+   "url": "https://toss.shopping/_m/nUuoKNfm",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2544.jpg"
+  },
   {
    "grade": "g5",
    "name": "올네스트 퍼퓸 건조기 시트 섬유유연제 플로럴부케, 80매, 2개",
