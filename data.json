@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T09:35:21+00:00",
+ "updatedAt": "2026-11-14T11:00:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -192,5 +192,14 @@
    "image": "thumbs/484.jpg"
   }
  ],
- "picks": []
+ "picks": [
+  {
+   "name": "사리원 소불고기, 500g, 4팩",
+   "fact": "최근 30일 2번 품절",
+   "url": "https://toss.shopping/_m/VF5kIo7q",
+   "image": "thumbs/1753.jpg",
+   "in_stock": false,
+   "checked_at": "2026-11-14T10:51:21+00:00"
+  }
+ ]
 }
