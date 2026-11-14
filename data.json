@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-14T01:32:21+00:00",
+ "updatedAt": "2026-11-14T01:49:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "김규흔 한과 명인 꿀약과 박스형, 400g, 1박스",
+   "price": 7010,
+   "unit": "100g당 1,752원",
+   "at": "2026-11-14T01:49:25+00:00",
+   "url": "https://toss.shopping/_m/R5NQsCNu",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8585.jpg"
+  },
   {
    "grade": "g2",
    "name": "일양약품 눈건강 루테인 골드, 500mg, 30캡슐, 4박스",
