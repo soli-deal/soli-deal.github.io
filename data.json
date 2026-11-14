@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-14T04:05:21+00:00",
+ "updatedAt": "2026-11-14T04:31:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "데일리룸 와이드 2in1 IH 멀티팟 찜솥, 34cm, 1개",
+   "price": 15210,
+   "unit": "",
+   "at": "2026-11-14T04:30:25+00:00",
+   "url": "https://toss.shopping/_m/7XSL6sB4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8592.jpg"
+  },
   {
    "grade": "g2",
    "name": "대용량 우거지 감자탕, 3kg, 1개",
