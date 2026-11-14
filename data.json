@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-13T23:50:21+00:00",
+ "updatedAt": "2026-11-14T00:20:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "AHC 프로바이탈 골든앰플 마스크팩, 4매입, 5개",
+   "price": 17220,
+   "unit": "개당 3,444원",
+   "at": "2026-11-14T00:19:26+00:00",
+   "url": "https://toss.shopping/_m/hFCEsUPk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8624.jpg"
+  },
   {
    "grade": "g5",
    "name": "이롬 국내산 약콩 무가당 두유, 190ml, 32개",
