@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T01:20:21+00:00",
+ "updatedAt": "2026-11-14T01:30:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -44,7 +44,7 @@
    "unit": "100g당 745원",
    "at": "2026-11-13T23:37:21+00:00",
    "url": "https://toss.shopping/_m/VF5kIo7q",
-   "sold": false,
+   "sold": true,
    "tag": "",
    "image": "thumbs/1753.jpg"
   },
