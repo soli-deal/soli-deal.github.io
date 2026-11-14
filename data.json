@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-14T23:40:21+00:00",
+ "updatedAt": "2026-11-14T23:52:21+00:00",
  "mode": "day",
  "day": "2026-11-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "골드럽 섬유유연제, 자스민블루, 3.2L, 4개",
+   "price": 11690,
+   "unit": "개당 2,922원 · 100ml당 91원",
+   "at": "2026-11-14T23:51:21+00:00",
+   "url": "https://toss.shopping/_m/VaKrkcaC",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/769.jpg"
+  },
   {
    "grade": "g5",
    "name": "경남제약 로얄플러스 멀티비타민, 900mg, 60정, 6개",
