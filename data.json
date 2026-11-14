@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-14T14:59:21+00:00",
- "mode": "day",
+ "updatedAt": "2026-11-14T15:00:21+00:00",
+ "mode": "night",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
@@ -210,7 +210,7 @@
    "url": "https://toss.shopping/_m/VF5kIo7q",
    "image": "thumbs/1753.jpg",
    "in_stock": false,
-   "checked_at": "2026-11-14T14:58:23+00:00"
+   "checked_at": "2026-11-14T14:59:42+00:00"
   }
  ]
 }
