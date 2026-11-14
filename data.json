@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-14T23:28:21+00:00",
+ "updatedAt": "2026-11-14T23:40:21+00:00",
  "mode": "day",
  "day": "2026-11-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "경남제약 로얄플러스 멀티비타민, 900mg, 60정, 6개",
+   "price": 23230,
+   "unit": "개당 3,872원",
+   "at": "2026-11-14T23:39:24+00:00",
+   "url": "https://toss.shopping/_m/ZjBlf4Fj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6933.jpg"
+  },
   {
    "grade": "g5",
    "name": "꼬막 칼슘 마그네슘 비타민D&K 아연 칼마디, 2개월분, 120정, 1박스",
