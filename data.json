@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-14T03:31:21+00:00",
+ "updatedAt": "2026-11-14T04:05:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "대용량 우거지 감자탕, 3kg, 1개",
+   "price": 10900,
+   "unit": "100g당 363원",
+   "at": "2026-11-14T04:04:41+00:00",
+   "url": "https://toss.shopping/_m/j7ZfvEst",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/888.jpg"
+  },
   {
    "grade": "g2",
    "name": "설수련 진 한방 스킨 케어 3종, 본품, 3개 + 휴대용, 2개, 1세트",
