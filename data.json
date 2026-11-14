@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-14T02:20:21+00:00",
+ "updatedAt": "2026-11-14T02:50:21+00:00",
  "mode": "day",
  "day": "2026-11-14",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "비스카 스테인레스 대용량 두유제조기, HNZ-M100SM, 1.2L, 후드믹서 겸용, 1개",
+   "price": 27050,
+   "unit": "100ml당 2,254원",
+   "at": "2026-11-14T02:49:24+00:00",
+   "url": "https://toss.shopping/_m/tJLUFoY4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3722.jpg"
+  },
   {
    "grade": "g5",
    "name": "피죤 고농축 시그니처 실내건조 섬유유연제, 아이스 플라워 향, 2L, 2개",
