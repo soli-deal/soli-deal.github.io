@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-14T23:04:21+00:00",
+ "updatedAt": "2026-11-14T23:16:21+00:00",
  "mode": "day",
  "day": "2026-11-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "동아제약 비타그란 비타민C 츄어블 레몬맛 (편의점용), 1.6g, 40정, 5개",
+   "price": 8390,
+   "unit": "개당 1,678원",
+   "at": "2026-11-14T23:15:24+00:00",
+   "url": "https://toss.shopping/_m/jrg8hm8q",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8765.jpg"
+  },
   {
    "grade": "g2",
    "name": "레이데이 비타민C 에너지 앰플, 13ml, 5개",
