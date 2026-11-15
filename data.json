@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-15T23:00:21+00:00",
+ "updatedAt": "2026-11-15T23:02:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "셰프컷 칼 가위 6종 세트, 1개",
+   "price": 11300,
+   "unit": "",
+   "at": "2026-11-15T23:01:21+00:00",
+   "url": "https://toss.shopping/_m/Tq2q7pnc",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3677.jpg"
+  }
+ ],
  "picks": []
 }
