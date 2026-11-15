@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-15T02:51:21+00:00",
+ "updatedAt": "2026-11-15T03:34:21+00:00",
  "mode": "day",
  "day": "2026-11-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "HWC 잘자요 예쁜언니, 60정, 4박스",
+   "price": 18600,
+   "unit": "",
+   "at": "2026-11-15T03:33:26+00:00",
+   "url": "https://toss.shopping/_m/bTemOEe7",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4096.jpg"
+  },
   {
    "grade": "g5",
    "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
