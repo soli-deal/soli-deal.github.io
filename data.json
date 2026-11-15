@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-15T23:02:21+00:00",
+ "updatedAt": "2026-11-15T23:14:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "이씨네김치 이씨네 전라도 포기김치, 5kg, 1개",
+   "price": 17560,
+   "unit": "100g당 351원",
+   "at": "2026-11-15T23:13:24+00:00",
+   "url": "https://toss.shopping/_m/XOavtPmt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/736.jpg"
+  },
   {
    "grade": "g2",
    "name": "셰프컷 칼 가위 6종 세트, 1개",
