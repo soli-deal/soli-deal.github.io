@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-15T23:26:21+00:00",
+ "updatedAt": "2026-11-15T23:38:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "프롬바이오 혈당엔 바나바 유산균, 500ml, 30캡슐, 8박스",
+   "price": 25080,
+   "unit": "100ml당 627원",
+   "at": "2026-11-15T23:37:24+00:00",
+   "url": "https://toss.shopping/_m/9NfQdXys",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8936.jpg"
+  },
   {
    "grade": "g5",
    "name": "헤디안 아로마 데일리 모이스처 바디워시, 호텔포레스트향, 1L, 4개",
