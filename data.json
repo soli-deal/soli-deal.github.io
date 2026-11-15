@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-15T07:34:21+00:00",
+ "updatedAt": "2026-11-15T10:03:21+00:00",
  "mode": "day",
  "day": "2026-11-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "일양약품 혈당건강 바나바리프, 500mg, 60정, 2박스",
+   "price": 13000,
+   "unit": "",
+   "at": "2026-11-15T10:02:21+00:00",
+   "url": "https://toss.shopping/_m/X2ziUIXz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3248.jpg"
+  },
   {
    "grade": "g2",
    "name": "삭스팡 아동 포시즌 랜덤 스니 중목 삭스 양말, 골고루, 7켤레, 5호, 1세트",
