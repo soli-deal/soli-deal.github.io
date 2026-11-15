@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-15T02:22:21+00:00",
+ "updatedAt": "2026-11-15T02:51:21+00:00",
  "mode": "day",
  "day": "2026-11-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
+   "price": 9050,
+   "unit": "",
+   "at": "2026-11-15T02:51:21+00:00",
+   "url": "https://toss.shopping/_m/n2lP5lJe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1956.jpg"
+  },
   {
    "grade": "g5",
    "name": "할리스 시그니처 아메리카노 미니, 다크, 0.9g, 100개입, 3개",
