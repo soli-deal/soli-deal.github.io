@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-15T10:03:21+00:00",
+ "updatedAt": "2026-11-15T10:31:21+00:00",
  "mode": "day",
  "day": "2026-11-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "경남제약 맥주효모 비오틴셀렌, 550mg, 60정, 2개",
+   "price": 9600,
+   "unit": "개당 4,800원",
+   "at": "2026-11-15T10:30:21+00:00",
+   "url": "https://toss.shopping/_m/dcLXTua2",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4370.jpg"
+  },
   {
    "grade": "g2",
    "name": "일양약품 혈당건강 바나바리프, 500mg, 60정, 2박스",
