@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-15T00:51:21+00:00",
+ "updatedAt": "2026-11-15T01:22:21+00:00",
  "mode": "day",
  "day": "2026-11-15",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "허긴 프레쉬 키즈 바디워시, 500ml, 1개",
+   "price": 5600,
+   "unit": "100ml당 1,120원",
+   "at": "2026-11-15T01:21:23+00:00",
+   "url": "https://toss.shopping/_m/NvURMjk8",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4474.jpg"
+  },
   {
    "grade": "g5",
    "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
