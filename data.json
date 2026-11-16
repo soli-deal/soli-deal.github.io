@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-16T23:28:21+00:00",
+ "updatedAt": "2026-11-16T23:40:21+00:00",
  "mode": "day",
  "day": "2026-11-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
+   "price": 16270,
+   "unit": "100ml당 4,649원",
+   "at": "2026-11-16T23:39:24+00:00",
+   "url": "https://toss.shopping/_m/F72pHzOp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3408.jpg"
+  },
   {
    "grade": "g5",
    "name": "아이앤어스 3스텝 캡슐 식기세척기 타블렛 세제, 레몬향, 50개입, 500g, 2개",
