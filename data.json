@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-16T01:33:21+00:00",
+ "updatedAt": "2026-11-16T01:50:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "지그비 부스터 블랙차콜 가루치약, 스피아민트, 59g, 1개",
+   "price": 9600,
+   "unit": "",
+   "at": "2026-11-16T01:49:24+00:00",
+   "url": "https://toss.shopping/_m/15FJNPQ9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8957.jpg"
+  },
   {
    "grade": "g2",
    "name": "팬톤 25W 듀얼포트 어댑터 RCE-2521ACLKR, 그레이, 1개",
