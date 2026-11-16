@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-16T04:03:21+00:00",
+ "updatedAt": "2026-11-16T04:33:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "프리미엄 스테인레스 양배추칼+채칼, 2개",
+   "price": 6100,
+   "unit": "개당 3,050원",
+   "at": "2026-11-16T04:32:24+00:00",
+   "url": "https://toss.shopping/_m/Fpemc6Ct",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8937.jpg"
+  },
   {
    "grade": "g3",
    "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
