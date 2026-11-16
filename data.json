@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-16T10:02:21+00:00",
+ "updatedAt": "2026-11-16T10:30:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "마이펫닥터 덴탈 원츄, 강아지 구강/치석관리, 80g, 1개",
+   "price": 9070,
+   "unit": "",
+   "at": "2026-11-16T10:29:24+00:00",
+   "url": "https://toss.shopping/_m/lYBVdL78",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7884.jpg"
+  },
   {
    "grade": "g2",
    "name": "푸드어홀릭 네이처 스킨 마스크팩, 보습세트, 60매",
