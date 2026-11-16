@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T07:31:21+00:00",
+ "updatedAt": "2026-11-16T09:16:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -110,7 +110,7 @@
    "unit": "개당 7,300원 · 100ml당 689원",
    "at": "2026-11-16T01:19:24+00:00",
    "url": "https://toss.shopping/_m/nf5bO38c",
-   "sold": false,
+   "sold": true,
    "tag": "",
    "image": "thumbs/2011.jpg"
   },
