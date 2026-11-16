@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-16T10:30:21+00:00",
+ "updatedAt": "2026-11-16T10:58:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "펩시 휴대용 선풍기, PEP-HFCP200, 블루, 1개",
+   "price": 9260,
+   "unit": "",
+   "at": "2026-11-16T10:57:21+00:00",
+   "url": "https://toss.shopping/_m/3JREfT88",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2905.jpg"
+  },
   {
    "grade": "g2",
    "name": "마이펫닥터 덴탈 원츄, 강아지 구강/치석관리, 80g, 1개",
