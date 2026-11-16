@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-16T02:50:21+00:00",
+ "updatedAt": "2026-11-16T03:01:21+00:00",
  "mode": "day",
  "day": "2026-11-16",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+   "price": 5900,
+   "unit": "개당 2,950원",
+   "at": "2026-11-16T03:01:24+00:00",
+   "url": "https://toss.shopping/_m/NGVOSzpr",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/102.jpg"
+  },
   {
    "grade": "g5",
    "name": "맛장군 실비김치, 1kg, 1개",
