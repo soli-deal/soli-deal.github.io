@@ -1,8 +1,185 @@
 {
- "updatedAt": "2026-11-17T11:45:21+00:00",
+ "updatedAt": "2026-11-17T11:46:21+00:00",
  "mode": "day",
  "day": "2026-11-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "레오폴디 카이도 주방칼 과도 가위 3종세트,단일상품",
+   "price": 6560,
+   "unit": "",
+   "at": "2026-11-17T10:31:24+00:00",
+   "url": "https://toss.shopping/_m/HeKt6wm2",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5818.jpg"
+  },
+  {
+   "grade": "g2",
+   "name": "헬로바이오 무가당 자연발효 그릭요거트 스타터, 3g, 5포, 4개",
+   "price": 9400,
+   "unit": "개당 2,350원",
+   "at": "2026-11-17T10:02:21+00:00",
+   "url": "https://toss.shopping/_m/PunYbLqx",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5441.jpg"
+  },
+  {
+   "grade": "g2",
+   "name": "동국제약 마이핏 삼백초추출물 파이토, 60정, 4개",
+   "price": 18560,
+   "unit": "개당 4,640원",
+   "at": "2026-11-17T07:30:21+00:00",
+   "url": "https://toss.shopping/_m/zifEAjaq",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9052.jpg"
+  },
+  {
+   "grade": "g2",
+   "name": "괴물급 강력수납력 4in1 콘솔박스 팔걸이 확장커버, 블랙, 1개",
+   "price": 9590,
+   "unit": "",
+   "at": "2026-11-17T04:31:24+00:00",
+   "url": "https://toss.shopping/_m/RCv7I9H9",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4970.jpg"
+  },
+  {
+   "grade": "g2",
+   "name": "동국제약 파워맥스 쏘팔메토 골드, 1000mg, 30캡슐, 4박스",
+   "price": 21430,
+   "unit": "",
+   "at": "2026-11-17T04:02:24+00:00",
+   "url": "https://toss.shopping/_m/PKHu97Dt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9040.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "99VITAL 비타민D3 5000IU, 300정, 3통",
+   "price": 16500,
+   "unit": "",
+   "at": "2026-11-17T02:51:21+00:00",
+   "url": "https://toss.shopping/_m/TUhGEEYk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9115.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "고궁 통참깨 참기름, 350ml, 2개",
+   "price": 11000,
+   "unit": "개당 5,500원 · 100ml당 1,571원",
+   "at": "2026-11-17T02:22:21+00:00",
+   "url": "https://toss.shopping/_m/FwYhL8dx",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2543.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "광동 리프레C 메가비타민 3000mg, 90포, 2박스",
+   "price": 18080,
+   "unit": "",
+   "at": "2026-11-17T01:51:24+00:00",
+   "url": "https://toss.shopping/_m/NF4VgAer",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9050.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
+   "price": 11100,
+   "unit": "",
+   "at": "2026-11-17T01:21:21+00:00",
+   "url": "https://toss.shopping/_m/1CvSLw26",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5406.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "리리엔 마카다미아 크림 바디워시, 1000ml, 2개",
+   "price": 7900,
+   "unit": "개당 3,950원 · 100ml당 395원",
+   "at": "2026-11-17T00:51:21+00:00",
+   "url": "https://toss.shopping/_m/HXow1kts",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9119.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "메르헨트 비타민C 일루미네이팅 대용량 미백 토너, 1000ml, 2개",
+   "price": 11150,
+   "unit": "개당 5,575원 · 100ml당 558원",
+   "at": "2026-11-17T00:21:24+00:00",
+   "url": "https://toss.shopping/_m/DnQxvBIj",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3911.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "백년본가 통참깨 저온압착 옛날 방앗간 참기름, 350ml, 2개",
+   "price": 11160,
+   "unit": "개당 5,580원 · 100ml당 1,594원",
+   "at": "2026-11-16T23:51:23+00:00",
+   "url": "https://toss.shopping/_m/932JdxOp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5952.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
+   "price": 16270,
+   "unit": "100ml당 4,649원",
+   "at": "2026-11-16T23:39:24+00:00",
+   "url": "https://toss.shopping/_m/F72pHzOp",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3408.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "아이앤어스 3스텝 캡슐 식기세척기 타블렛 세제, 레몬향, 50개입, 500g, 2개",
+   "price": 8250,
+   "unit": "개당 4,125원 · 100g당 825원",
+   "at": "2026-11-16T23:27:24+00:00",
+   "url": "https://toss.shopping/_m/FCzcH0Ce",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/170.jpg"
+  },
+  {
+   "grade": "g5",
+   "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 캡슐 100, 30캡슐, 6박스",
+   "price": 16800,
+   "unit": "",
+   "at": "2026-11-16T23:15:21+00:00",
+   "url": "https://toss.shopping/_m/5L9fkPA4",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5872.jpg"
+  },
+  {
+   "grade": "g2",
+   "name": "수뜰리에 섬유유연제 소프트 비누향, 2.5L, 4개",
+   "price": 8900,
+   "unit": "개당 2,225원 · 100ml당 89원",
+   "at": "2026-11-16T23:03:21+00:00",
+   "url": "https://toss.shopping/_m/XWRDFGDn",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/165.jpg"
+  }
+ ],
  "picks": []
 }
