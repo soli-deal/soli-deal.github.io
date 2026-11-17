@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-17T02:23:21+00:00",
+ "updatedAt": "2026-11-17T02:52:21+00:00",
  "mode": "day",
  "day": "2026-11-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "99VITAL 비타민D3 5000IU, 300정, 3통",
+   "price": 16500,
+   "unit": "",
+   "at": "2026-11-17T02:51:21+00:00",
+   "url": "https://toss.shopping/_m/TUhGEEYk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9115.jpg"
+  },
   {
    "grade": "g5",
    "name": "고궁 통참깨 참기름, 350ml, 2개",
