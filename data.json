@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-17T02:52:21+00:00",
+ "updatedAt": "2026-11-17T04:03:21+00:00",
  "mode": "day",
  "day": "2026-11-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "동국제약 파워맥스 쏘팔메토 골드, 1000mg, 30캡슐, 4박스",
+   "price": 21430,
+   "unit": "",
+   "at": "2026-11-17T04:02:24+00:00",
+   "url": "https://toss.shopping/_m/PKHu97Dt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9040.jpg"
+  },
   {
    "grade": "g5",
    "name": "99VITAL 비타민D3 5000IU, 300정, 3통",
