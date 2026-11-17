@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-17T07:31:21+00:00",
+ "updatedAt": "2026-11-17T10:03:21+00:00",
  "mode": "day",
  "day": "2026-11-17",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "헬로바이오 무가당 자연발효 그릭요거트 스타터, 3g, 5포, 4개",
+   "price": 9400,
+   "unit": "개당 2,350원",
+   "at": "2026-11-17T10:02:21+00:00",
+   "url": "https://toss.shopping/_m/PunYbLqx",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5441.jpg"
+  },
   {
    "grade": "g2",
    "name": "동국제약 마이핏 삼백초추출물 파이토, 60정, 4개",
