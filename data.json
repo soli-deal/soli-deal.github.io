@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-18T00:48:21+00:00",
+ "updatedAt": "2026-11-18T01:20:21+00:00",
  "mode": "day",
  "day": "2026-11-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "늘해랑 전라도 배추김치, 5kg, 1개",
+   "price": 13780,
+   "unit": "100g당 276원",
+   "at": "2026-11-18T01:19:24+00:00",
+   "url": "https://toss.shopping/_m/D7OfDrDq",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9231.jpg"
+  },
   {
    "grade": "g5",
    "name": "수뜰리에 프리미엄 올인원 캡슐세제, 로즈애플, 12g, 40개입, 3개",
