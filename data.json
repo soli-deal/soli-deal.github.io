@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-18T23:00:21+00:00",
+ "updatedAt": "2026-11-18T23:03:21+00:00",
  "mode": "day",
  "day": "2026-11-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g3",
+   "name": "맛꾼 구운란, 대란, 30구, 1개",
+   "price": 8200,
+   "unit": "",
+   "at": "2026-11-18T23:02:21+00:00",
+   "url": "https://toss.shopping/_m/P2dd4qsk",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/740.jpg"
+  }
+ ],
  "picks": []
 }
