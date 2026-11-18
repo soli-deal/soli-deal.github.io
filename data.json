@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-18T10:04:21+00:00",
+ "updatedAt": "2026-11-18T10:32:21+00:00",
  "mode": "day",
  "day": "2026-11-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "프룻프룻 건조 능이버섯, 100g, 1개",
+   "price": 17560,
+   "unit": "100g당 17,560원",
+   "at": "2026-11-18T10:31:24+00:00",
+   "url": "https://toss.shopping/_m/Jj2Y5vPo",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5832.jpg"
+  },
   {
    "grade": "g2",
    "name": "닥터랩노쉬 리얼 애사비 쏙 젤리, 14개입, 3박스",
