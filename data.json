@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-18T01:20:21+00:00",
+ "updatedAt": "2026-11-18T01:32:21+00:00",
  "mode": "day",
  "day": "2026-11-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "에이팔란스 대용량 보조배터리, 20000mAh, 화이트, 1개",
+   "price": 16900,
+   "unit": "",
+   "at": "2026-11-18T01:31:23+00:00",
+   "url": "https://toss.shopping/_m/py0v2tCi",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4383.jpg"
+  },
   {
    "grade": "g5",
    "name": "늘해랑 전라도 배추김치, 5kg, 1개",
