@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-18T01:32:21+00:00",
+ "updatedAt": "2026-11-18T01:50:21+00:00",
  "mode": "day",
  "day": "2026-11-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "쉼표365 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
+   "price": 9030,
+   "unit": "",
+   "at": "2026-11-18T01:49:23+00:00",
+   "url": "https://toss.shopping/_m/rTfM72hh",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5984.jpg"
+  },
   {
    "grade": "g2",
    "name": "에이팔란스 대용량 보조배터리, 20000mAh, 화이트, 1개",
