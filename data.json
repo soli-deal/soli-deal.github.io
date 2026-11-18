@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-18T02:50:21+00:00",
+ "updatedAt": "2026-11-18T03:02:21+00:00",
  "mode": "day",
  "day": "2026-11-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "자이글 스텐요리돔, 35cm, 1개",
+   "price": 4200,
+   "unit": "",
+   "at": "2026-11-18T03:01:24+00:00",
+   "url": "https://toss.shopping/_m/VArGk8Pz",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2760.jpg"
+  },
   {
    "grade": "g5",
    "name": "텐제로 트라넥삼산 비타민C 앰플, 50ml, 1개",
