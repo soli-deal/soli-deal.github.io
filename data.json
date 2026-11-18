@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T15:00:21+00:00",
+ "updatedAt": "2026-11-18T15:01:21+00:00",
  "mode": "night",
  "day": "2026-11-18",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
@@ -225,14 +225,5 @@
    "image": "thumbs/107.jpg"
   }
  ],
- "picks": [
-  {
-   "name": "봄내푸드 춘천닭갈비, 500g, 2개",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/lBWM9hoB",
-   "image": "thumbs/5072.jpg",
-   "in_stock": false,
-   "checked_at": "2026-11-18T14:59:02+00:00"
-  }
- ]
+ "picks": []
 }
