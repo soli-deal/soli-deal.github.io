@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-19T00:51:21+00:00",
+ "updatedAt": "2026-11-19T01:21:21+00:00",
  "mode": "day",
  "day": "2026-11-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "미소 강아지 기능성 사료, 뼈/관절강화, 2kg, 1개",
+   "price": 8650,
+   "unit": "100g당 432원",
+   "at": "2026-11-19T01:20:21+00:00",
+   "url": "https://toss.shopping/_m/vTmFvt76",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2298.jpg"
+  },
   {
    "grade": "g5",
    "name": "마이펫닥터 강아지 츄어블 올인원 영양제, 종합영양제, 80g, 100개입, 1개",
