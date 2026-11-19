@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-19T23:02:21+00:00",
+ "updatedAt": "2026-11-19T23:14:21+00:00",
  "mode": "day",
  "day": "2026-11-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "킬로 베이킹소다 액체 세탁세제 라이트, 허거블런드리향, 2.5L, 4개",
+   "price": 9260,
+   "unit": "개당 2,315원 · 100ml당 93원",
+   "at": "2026-11-19T23:13:23+00:00",
+   "url": "https://toss.shopping/_m/zZoCNoND",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3160.jpg"
+  },
   {
    "grade": "g0",
    "name": "베베앙 로얄 물티슈, 70매, 20팩",
