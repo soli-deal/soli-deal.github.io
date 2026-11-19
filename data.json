@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-19T01:34:21+00:00",
+ "updatedAt": "2026-11-19T01:51:21+00:00",
  "mode": "day",
  "day": "2026-11-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "네이처바이 에센스 마스크팩, 혼합 C타입, 5종, 100매, 1세트",
+   "price": 16600,
+   "unit": "",
+   "at": "2026-11-19T01:50:25+00:00",
+   "url": "https://toss.shopping/_m/Z9jwIXia",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9346.jpg"
+  },
   {
    "grade": "g2",
    "name": "스테인리스 마늘다지기, 1개",
