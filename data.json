@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-19T02:51:21+00:00",
+ "updatedAt": "2026-11-19T03:34:21+00:00",
  "mode": "day",
  "day": "2026-11-19",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "스위칠랜드아미 IH 저압 냄비, 7L, 1개",
+   "price": 19500,
+   "unit": "100ml당 279원",
+   "at": "2026-11-19T03:33:24+00:00",
+   "url": "https://toss.shopping/_m/93FtZdQB",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4472.jpg"
+  },
   {
    "grade": "g5",
    "name": "라버비 초고농축 섬유유연제, 허그코튼, 3L, 2개",
