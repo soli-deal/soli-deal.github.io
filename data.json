@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-19T23:14:21+00:00",
+ "updatedAt": "2026-11-19T23:26:21+00:00",
  "mode": "day",
  "day": "2026-11-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "일양약품 혈당건강 장건강 프로바이오틱스 유산균, 2g, 30포, 4박스",
+   "price": 22710,
+   "unit": "",
+   "at": "2026-11-19T23:25:24+00:00",
+   "url": "https://toss.shopping/_m/1BpZPUps",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5122.jpg"
+  },
   {
    "grade": "g5",
    "name": "킬로 베이킹소다 액체 세탁세제 라이트, 허거블런드리향, 2.5L, 4개",
