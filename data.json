@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-20T10:29:21+00:00",
+ "updatedAt": "2026-11-20T11:27:21+00:00",
  "mode": "day",
  "day": "2026-11-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "에브리워터 무라벨, 500ml, 40개",
+   "price": 7880,
+   "unit": "개당 197원 · 100ml당 39원",
+   "at": "2026-11-20T11:26:22+00:00",
+   "url": "https://toss.shopping/_m/1jUFZJbh",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/103.jpg"
+  },
   {
    "grade": "g2",
    "name": "앙쥬 PDRN 캡슐크림, 120g, 1+1 구성, 총 2개",
