@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-20T23:28:21+00:00",
+ "updatedAt": "2026-11-20T23:40:21+00:00",
  "mode": "day",
  "day": "2026-11-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "풍년보감 6년근 고려홍삼정 에브리데이100, 15g, 100포",
+   "price": 16510,
+   "unit": "100g당 1,101원",
+   "at": "2026-11-20T23:39:24+00:00",
+   "url": "https://toss.shopping/_m/3WJt4007",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4610.jpg"
+  },
   {
    "grade": "g5",
    "name": "휴비딕 음파 전동 칫솔 HTB-W5, 화이트, 1개",
