@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-20T23:16:21+00:00",
+ "updatedAt": "2026-11-20T23:28:21+00:00",
  "mode": "day",
  "day": "2026-11-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "휴비딕 음파 전동 칫솔 HTB-W5, 화이트, 1개",
+   "price": 11600,
+   "unit": "",
+   "at": "2026-11-20T23:27:24+00:00",
+   "url": "https://toss.shopping/_m/DAVIM5da",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9599.jpg"
+  },
   {
    "grade": "g5",
    "name": "배스킨라빈스 멸균우유, 쿠키앤크림, 190ml, 24개",
