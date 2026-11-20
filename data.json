@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-20T01:50:21+00:00",
+ "updatedAt": "2026-11-20T02:20:21+00:00",
  "mode": "day",
  "day": "2026-11-20",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "제스타 칫솔, 탄력있는 미세모, 20개입, 1개",
+   "price": 7900,
+   "unit": "",
+   "at": "2026-11-20T02:19:24+00:00",
+   "url": "https://toss.shopping/_m/ThmJ6dIc",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9448.jpg"
+  },
   {
    "grade": "g5",
    "name": "Earnest F&B 미니 약과도넛, 황치즈맛, 개별포장, 400g, 20개입, 2개",
