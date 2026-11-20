@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-20T23:04:21+00:00",
+ "updatedAt": "2026-11-20T23:16:21+00:00",
  "mode": "day",
  "day": "2026-11-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "배스킨라빈스 멸균우유, 쿠키앤크림, 190ml, 24개",
+   "price": 9000,
+   "unit": "개당 375원 · 100ml당 197원",
+   "at": "2026-11-20T23:15:24+00:00",
+   "url": "https://toss.shopping/_m/VGoTcQQe",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5887.jpg"
+  },
   {
    "grade": "g0",
    "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
