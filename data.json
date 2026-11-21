@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-21T07:41:21+00:00",
+ "updatedAt": "2026-11-21T07:55:21+00:00",
  "mode": "day",
  "day": "2026-11-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "코오롱제약 모로오렌지 유산균, 2g, 30포, 5개",
+   "price": 33900,
+   "unit": "개당 6,780원",
+   "at": "2026-11-21T07:54:21+00:00",
+   "url": "https://toss.shopping/_m/3MbP9PIy",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/7094.jpg"
+  },
   {
    "grade": "g2",
    "name": "르까프 남성용 집업 플리스 자켓, 그레이, 105, 1개",
