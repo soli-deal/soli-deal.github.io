@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-21T23:00:21+00:00",
+ "updatedAt": "2026-11-21T23:04:21+00:00",
  "mode": "day",
  "day": "2026-11-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "U자 변기솔, 랜덤, 2개",
+   "price": 6000,
+   "unit": "개당 3,000원",
+   "at": "2026-11-21T23:03:21+00:00",
+   "url": "https://toss.shopping/_m/fPggP6ms",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5324.jpg"
+  }
+ ],
  "picks": []
 }
