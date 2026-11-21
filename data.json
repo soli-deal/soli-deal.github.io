@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-21T02:22:21+00:00",
+ "updatedAt": "2026-11-21T02:52:21+00:00",
  "mode": "day",
  "day": "2026-11-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "한입 삼겹살, 500g, 4개",
+   "price": 16800,
+   "unit": "개당 4,200원 · 100g당 840원",
+   "at": "2026-11-21T02:51:23+00:00",
+   "url": "https://toss.shopping/_m/rmKfq73o",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/1730.jpg"
+  },
   {
    "grade": "g5",
    "name": "맛장군 열무김치, 5kg, 1팩",
