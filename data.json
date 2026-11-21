@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-21T02:52:21+00:00",
+ "updatedAt": "2026-11-21T03:03:21+00:00",
  "mode": "day",
  "day": "2026-11-21",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "비로르 스텐 주방 가위, 팬더, 20.5cm, 2개",
+   "price": 4590,
+   "unit": "개당 2,295원",
+   "at": "2026-11-21T03:02:24+00:00",
+   "url": "https://toss.shopping/_m/T7smXzYl",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3896.jpg"
+  },
   {
    "grade": "g5",
    "name": "한입 삼겹살, 500g, 4개",
