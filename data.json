@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-22T04:02:21+00:00",
+ "updatedAt": "2026-11-22T04:31:21+00:00",
  "mode": "day",
  "day": "2026-11-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 6박스",
+   "price": 16070,
+   "unit": "",
+   "at": "2026-11-22T04:30:24+00:00",
+   "url": "https://toss.shopping/_m/tCXMICtx",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/3928.jpg"
+  },
   {
    "grade": "g2",
    "name": "프리미엄 유기농 레몬즙, 20g, 14포, 6박스",
