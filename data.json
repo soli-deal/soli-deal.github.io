@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-22T05:34:21+00:00",
+ "updatedAt": "2026-11-22T07:34:21+00:00",
  "mode": "day",
  "day": "2026-11-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "레이데이 비타민C 에너지 앰플, 13ml, 5개",
+   "price": 9900,
+   "unit": "개당 1,980원",
+   "at": "2026-11-22T07:33:21+00:00",
+   "url": "https://toss.shopping/_m/fnY2z9T",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/231.jpg"
+  },
   {
    "grade": "g2",
    "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 6박스",
