@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-22T01:22:21+00:00",
+ "updatedAt": "2026-11-22T01:52:21+00:00",
  "mode": "day",
  "day": "2026-11-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
+   "price": 15710,
+   "unit": "",
+   "at": "2026-11-22T01:51:23+00:00",
+   "url": "https://toss.shopping/_m/17bLVdSn",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/8400.jpg"
+  },
   {
    "grade": "g5",
    "name": "어푸 질레트 호환용 5중 면도날, 오렌지검정, 4개입, 3팩",
