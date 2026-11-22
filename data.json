@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-22T02:22:21+00:00",
+ "updatedAt": "2026-11-22T02:52:21+00:00",
  "mode": "day",
  "day": "2026-11-22",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "이씨네 전라도 총각김치, 1kg, 1개",
+   "price": 5965,
+   "unit": "100g당 596원",
+   "at": "2026-11-22T02:51:24+00:00",
+   "url": "https://toss.shopping/_m/Bd1webPn",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9708.jpg"
+  },
   {
    "grade": "g5",
    "name": "베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
