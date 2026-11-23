@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-23T01:20:21+00:00",
+ "updatedAt": "2026-11-23T01:34:21+00:00",
  "mode": "day",
  "day": "2026-11-23",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "설수련 진 한방 농축 영양크림, 60ml, 2개",
+   "price": 9150,
+   "unit": "개당 4,575원 · 100ml당 7,625원",
+   "at": "2026-11-23T01:33:24+00:00",
+   "url": "https://toss.shopping/_m/BSEr0AZt",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9768.jpg"
+  },
   {
    "grade": "g5",
    "name": "전통압착 통참기름, 350ml, 3개",
