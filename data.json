@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-23T23:22:19+00:00",
+ "updatedAt": "2026-11-23T23:42:19+00:00",
  "mode": "day",
  "day": "2026-11-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "리빙아트 프로벨라 핸들형 스텐 김치통, 4200ml, 1개",
+   "price": 11600,
+   "unit": "100ml당 276원",
+   "at": "2026-11-23T23:41:22+00:00",
+   "url": "https://toss.shopping/_m/JQ01Rxow",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6463.jpg"
+  },
   {
    "grade": "g5",
    "name": "퍼기 3중 밀폐 실리콘 지퍼백, 화이트, 500ml, 1개 + 850ml, 1개 + 1.5L, 1개, 1세트",
