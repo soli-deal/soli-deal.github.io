@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-23T23:00:19+00:00",
+ "updatedAt": "2026-11-23T23:01:19+00:00",
  "mode": "day",
  "day": "2026-11-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 2박스",
+   "price": 8890,
+   "unit": "",
+   "at": "2026-11-23T23:01:20+00:00",
+   "url": "https://toss.shopping/_m/hhlGpQPd",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/9770.jpg"
+  }
+ ],
  "picks": []
 }
