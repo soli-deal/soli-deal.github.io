@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-24T00:12:19+00:00",
+ "updatedAt": "2026-11-24T00:42:19+00:00",
  "mode": "day",
  "day": "2026-11-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "경남제약 혈당 바나바 유산균 락토, 500mg, 3박스",
+   "price": 12600,
+   "unit": "",
+   "at": "2026-11-24T00:41:20+00:00",
+   "url": "https://toss.shopping/_m/tIRCKryd",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6355.jpg"
+  },
   {
    "grade": "g5",
    "name": "살림보감 리셋 초고농축 버블 캡슐세제, 코튼향, 100개입, 1팩",
