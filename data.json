@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-24T23:06:19+00:00",
+ "updatedAt": "2026-11-24T23:26:19+00:00",
  "mode": "day",
  "day": "2026-11-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "에코브릭 약산성 블랙 샴푸바, 100g, 2개",
+   "price": 9100,
+   "unit": "개당 4,550원 · 100g당 4,550원",
+   "at": "2026-11-24T23:25:22+00:00",
+   "url": "https://toss.shopping/_m/zEPeUWCf",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2026.jpg"
+  },
   {
    "grade": "g5",
    "name": "센토 프라임 고불소 구취케어 치약 120g 4개 + 미백케어 치약 120g 4개, 1세트",
