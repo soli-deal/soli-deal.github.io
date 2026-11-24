@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-24T23:26:19+00:00",
+ "updatedAt": "2026-11-24T23:46:19+00:00",
  "mode": "day",
  "day": "2026-11-25",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "헬로 바이오 생유산균 19 프로바이오틱스, 30캡슐, 6개",
+   "price": 15510,
+   "unit": "개당 2,585원",
+   "at": "2026-11-24T23:45:23+00:00",
+   "url": "https://toss.shopping/_m/JPBuAacl",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/6055.jpg"
+  },
   {
    "grade": "g5",
    "name": "에코브릭 약산성 블랙 샴푸바, 100g, 2개",
