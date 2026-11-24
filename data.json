@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-24T14:59:19+00:00",
- "mode": "day",
+ "updatedAt": "2026-11-24T15:00:19+00:00",
+ "mode": "night",
  "day": "2026-11-24",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
@@ -95,20 +95,12 @@
  ],
  "picks": [
   {
-   "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/3GEiOWr5",
-   "image": "thumbs/132.jpg",
-   "in_stock": false,
-   "checked_at": "2026-11-24T14:59:01+00:00"
-  },
-  {
    "name": "고기중독 한입삼겹살, 500g, 4개",
    "fact": "최근 30일 2번 품절",
    "url": "https://toss.shopping/_m/V0NwIZFz",
    "image": "thumbs/1123.jpg",
    "in_stock": false,
-   "checked_at": "2026-11-24T14:59:01+00:00"
+   "checked_at": "2026-11-24T15:00:01+00:00"
   }
  ]
 }
