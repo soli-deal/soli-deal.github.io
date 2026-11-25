@@ -1,74 +1,19 @@
 {
- "updatedAt": "2026-11-25T15:00:19+00:00",
- "mode": "night",
- "day": "2026-11-25",
+ "updatedAt": "2026-11-25T23:01:19+00:00",
+ "mode": "day",
+ "day": "2026-11-26",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
   {
-   "grade": "g2",
-   "name": "수뜰리에 고농축 섬유유연제 코튼캔디, 2.5L, 4개",
-   "price": 8900,
-   "unit": "개당 2,225원 · 100ml당 89원",
-   "at": "2026-11-25T07:33:23+00:00",
-   "url": "https://toss.shopping/_m/phMDPGEu",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/107.jpg"
-  },
-  {
    "grade": "g5",
-   "name": "SKY 5단 음파 전동 칫솔, ST10, 칫솔모 4개입, 샴페인화이트, 2개",
-   "price": 19100,
-   "unit": "개당 9,550원",
-   "at": "2026-11-25T00:15:23+00:00",
-   "url": "https://toss.shopping/_m/ZziC3fO9",
+   "name": "코오롱제약 모로오렌지 유산균, 2g, 30포, 5개",
+   "price": 33900,
+   "unit": "개당 6,780원",
+   "at": "2026-11-25T23:00:20+00:00",
+   "url": "https://toss.shopping/_m/3MbP9PIy",
    "sold": false,
    "tag": "",
-   "image": "thumbs/4548.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "헬로 바이오 생유산균 19 프로바이오틱스, 30캡슐, 6개",
-   "price": 15510,
-   "unit": "개당 2,585원",
-   "at": "2026-11-24T23:45:23+00:00",
-   "url": "https://toss.shopping/_m/JPBuAacl",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6055.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "에코브릭 약산성 블랙 샴푸바, 100g, 2개",
-   "price": 9100,
-   "unit": "개당 4,550원 · 100g당 4,550원",
-   "at": "2026-11-24T23:25:22+00:00",
-   "url": "https://toss.shopping/_m/zEPeUWCf",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/2026.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "센토 프라임 고불소 구취케어 치약 120g 4개 + 미백케어 치약 120g 4개, 1세트",
-   "price": 16440,
-   "unit": "100g당 13,700원",
-   "at": "2026-11-24T23:05:20+00:00",
-   "url": "https://toss.shopping/_m/FC4NMIbp",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/6982.jpg"
-  },
-  {
-   "grade": "g2",
-   "name": "푸드어홀릭 네이처 스킨 마스크팩, 보습세트, 60매",
-   "price": 13800,
-   "unit": "",
-   "at": "2026-11-24T23:01:20+00:00",
-   "url": "https://toss.shopping/_m/B4JsQDQA",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/113.jpg"
+   "image": "thumbs/7094.jpg"
   }
  ],
  "picks": []
