@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-25T23:21:19+00:00",
+ "updatedAt": "2026-11-25T23:41:19+00:00",
  "mode": "day",
  "day": "2026-11-26",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 12개",
+   "price": 51260,
+   "unit": "개당 4,272원",
+   "at": "2026-11-25T23:40:20+00:00",
+   "url": "https://toss.shopping/_m/pCIbW4Sn",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/5631.jpg"
+  },
   {
    "grade": "g5",
    "name": "6년근 장홍삼 에브리데이 스틱, 실속형, 10g, 110포, 2팩",
