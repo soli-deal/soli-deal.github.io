@@ -1,73 +1,8 @@
 {
- "updatedAt": "2026-11-26T22:31:19+00:00",
- "mode": "night",
- "day": "2026-11-26",
+ "updatedAt": "2026-11-26T23:00:19+00:00",
+ "mode": "day",
+ "day": "2026-11-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [
-  {
-   "grade": "g0",
-   "name": "수입산 냉동 대패삼겹살, 2kg, 1개",
-   "price": 12990,
-   "unit": "100g당 650원",
-   "at": "2026-11-26T07:31:20+00:00",
-   "url": "https://toss.shopping/_m/7Ui6k4hn",
-   "sold": true,
-   "tag": "",
-   "image": "thumbs/5233.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "메르헨트 딥 모이스춰 바세린 바디워시, 1L, 2개",
-   "price": 9990,
-   "unit": "개당 4,995원 · 100ml당 500원",
-   "at": "2026-11-26T00:10:20+00:00",
-   "url": "https://toss.shopping/_m/bwWmvTLi",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/5258.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 12개",
-   "price": 51260,
-   "unit": "개당 4,272원",
-   "at": "2026-11-25T23:40:20+00:00",
-   "url": "https://toss.shopping/_m/pCIbW4Sn",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/5631.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "6년근 장홍삼 에브리데이 스틱, 실속형, 10g, 110포, 2팩",
-   "price": 35460,
-   "unit": "",
-   "at": "2026-11-25T23:20:22+00:00",
-   "url": "https://toss.shopping/_m/3NKQdkxl",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/7892.jpg"
-  },
-  {
-   "grade": "g5",
-   "name": "코오롱제약 모로오렌지 유산균, 2g, 30포, 5개",
-   "price": 33900,
-   "unit": "개당 6,780원",
-   "at": "2026-11-25T23:00:20+00:00",
-   "url": "https://toss.shopping/_m/3MbP9PIy",
-   "sold": false,
-   "tag": "",
-   "image": "thumbs/7094.jpg"
-  }
- ],
- "picks": [
-  {
-   "name": "고기중독 한입삼겹살, 500g, 4개",
-   "fact": "최근 30일 2번 품절",
-   "url": "https://toss.shopping/_m/V0NwIZFz",
-   "image": "thumbs/1123.jpg",
-   "in_stock": false,
-   "checked_at": "2026-11-26T22:30:34+00:00"
-  }
- ]
+ "deals": [],
+ "picks": []
 }
