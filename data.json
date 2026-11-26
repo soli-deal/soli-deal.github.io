@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-26T23:00:19+00:00",
+ "updatedAt": "2026-11-26T23:03:19+00:00",
  "mode": "day",
  "day": "2026-11-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g2",
+   "name": "산들에담다 GAP 제주 노지 감귤, 특품, 대과, 5kg, 1박스",
+   "price": 7500,
+   "unit": "100g당 150원",
+   "at": "2026-11-26T23:02:20+00:00",
+   "url": "https://toss.shopping/_m/JHttdhwq",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/10065.jpg"
+  }
+ ],
  "picks": []
 }
