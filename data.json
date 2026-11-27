@@ -1,8 +1,20 @@
 {
- "updatedAt": "2026-11-27T23:00:19+00:00",
+ "updatedAt": "2026-11-27T23:03:19+00:00",
  "mode": "day",
  "day": "2026-11-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
- "deals": [],
+ "deals": [
+  {
+   "grade": "g3",
+   "name": "예진원 국내산 ABC주스, 80ml, 35개",
+   "price": 6900,
+   "unit": "개당 197원 · 100ml당 246원",
+   "at": "2026-11-27T23:02:20+00:00",
+   "url": "https://toss.shopping/_m/PSSKG1e1",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/2146.jpg"
+  }
+ ],
  "picks": []
 }
