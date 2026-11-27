@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-27T23:03:19+00:00",
+ "updatedAt": "2026-11-27T23:23:19+00:00",
  "mode": "day",
  "day": "2026-11-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g5",
+   "name": "큰나무 햇 이탈리아 엠머밀 파로 쌀, 1kg, 2개",
+   "price": 12390,
+   "unit": "개당 6,195원 · 100g당 620원",
+   "at": "2026-11-27T23:22:20+00:00",
+   "url": "https://toss.shopping/_m/XNP1kjWn",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/10331.jpg"
+  },
   {
    "grade": "g3",
    "name": "예진원 국내산 ABC주스, 80ml, 35개",
