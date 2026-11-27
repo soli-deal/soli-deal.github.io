@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-27T04:04:19+00:00",
+ "updatedAt": "2026-11-27T10:01:19+00:00",
  "mode": "day",
  "day": "2026-11-27",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "스테인리스 마늘다지기, 1개",
+   "price": 3888,
+   "unit": "",
+   "at": "2026-11-27T10:01:20+00:00",
+   "url": "https://toss.shopping/_m/350sxWOD",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/4736.jpg"
+  },
   {
    "grade": "g3",
    "name": "쉬젤 워터짐 스텐 텀블러, 밀크크리미, 600ml, 1개",
