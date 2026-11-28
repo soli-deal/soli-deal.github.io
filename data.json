@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-28T00:43:19+00:00",
+ "updatedAt": "2026-11-28T07:34:19+00:00",
  "mode": "day",
  "day": "2026-11-28",
  "openChatUrl": "https://open.kakao.com/o/gx3BFAPi",
  "deals": [
+  {
+   "grade": "g2",
+   "name": "코오롱제약 쏘팔메토 옥타코사놀 포맨, 1000mg, 30캡슐, 3박스",
+   "price": 15450,
+   "unit": "",
+   "at": "2026-11-28T07:33:20+00:00",
+   "url": "https://toss.shopping/_m/DDFbBPqv",
+   "sold": false,
+   "tag": "",
+   "image": "thumbs/10284.jpg"
+  },
   {
    "grade": "g5",
    "name": "예지미인 데일리코튼 생리대, 대형, 20개입, 5팩",
